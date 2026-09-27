@@ -1,0 +1,15 @@
+# Environmental Variables & Secrets
+.env
+
+__pycache__/
+*.pyc
+# Backups
+backup_before_docs_20260922_220409_545791/
+backup_before_update_20260922_155801_025782/
+backup_before_update_20260922_160958_108122/
+# لتجاهل أي مجلد نسخ احتياطي مستقبلي يبدأ بكلمة backup:
+backup_*/
+
+# Local Scripts
+update_docs.py
+update.py
