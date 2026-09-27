@@ -1,0 +1,6 @@
+duplicate_group_id,patient_id,service_date,contract_service,line_count,invoice_record_count,within_invoice,across_invoices,allocation_status
+DUP-0001,PT-H4-000069,2024-01-22,Assisted Renal Nutritional Support,2,2,False,True,review_required_no_amount_removed
+DUP-0002,PT-H4-000134,2024-03-10,Preoperative Musculoskeletal Recovery Room Occupancy,2,2,False,True,review_required_no_amount_removed
+DUP-0003,PT-H4-000168,2024-03-23,Bedside Obstetric Imaging Interpretation,2,2,False,True,review_required_no_amount_removed
+DUP-0004,PT-H4-000210,2024-09-04,Advanced Oncology Ward Bed Occupancy,2,2,False,True,review_required_no_amount_removed
+DUP-0005,PT-H4-000210,2024-09-04,Intermittent Oncology Home Visit,2,2,False,True,review_required_no_amount_removed

@@ -1,0 +1,489 @@
+description,contract_service,mapping_status,candidate_services,expected_unit_basis,base_rate_cents,plain_rate_eligible
+Procedure Routine Urologic Biop /NG-3022,Routine Urologic Biopsy Procedure,mapped_explicit_terms,Routine Urologic Biopsy Procedure,per_procedure,226950,False
+Case - Intensive Ophth /NG-3641,Intensive Ophthalmic Case Conference,mapped_explicit_terms,Intensive Ophthalmic Case Conference,per_hour,21875,False
+Visit Amb Hm,Ambulatory Cardiac Home Visit,mapped_explicit_terms,Ambulatory Cardiac Home Visit|Ambulatory Infectious Home Visit,per_visit,28425,True
+Elective Pulmonary Nutr Support,Elective Pulmonary Nutritional Support,mapped_explicit_terms,Elective Pulmonary Nutritional Support,per_unit_dispensed,7450,True
+Fraction Std Otolaryngologic Radiother,Standard Otolaryngologic Radiotherapy Fraction,mapped_explicit_terms,Standard Otolaryngologic Radiotherapy Fraction,per_item,25250,False
+Postop Metabolic Critical Cr Occ,Postoperative Metabolic Critical Care Occupancy,mapped_explicit_terms,Postoperative Metabolic Critical Care Occupancy,per_night,59700,True
+Intens - Ophthalmic Cs Conference /NG-6174,Intensive Ophthalmic Case Conference,mapped_explicit_terms,Intensive Ophthalmic Case Conference,per_hour,21875,False
+Occ Supervised Ren Isolation Rm,Supervised Renal Isolation Room Occupancy,mapped_explicit_terms,Supervised Renal Isolation Room Occupancy,per_night,164500,True
+Neuro - Nutr Supp,Intermittent Neurological Nutritional Support,mapped_explicit_terms,Intermittent Neurological Nutritional Support,per_day,50275,True
+Inpt Ophthalmic Transport Svc,Inpatient Ophthalmic Transport Service,mapped_explicit_terms,Inpatient Ophthalmic Transport Service,per_item,4800,True
+Msk Dial Sess,Supervised Musculoskeletal Dialysis Session,mapped_explicit_terms,Supervised Musculoskeletal Dialysis Session,per_visit,35150,False
+Preoperative Onc Consultation,Preoperative Oncology Consultation,mapped_explicit_terms,Preoperative Oncology Consultation,per_visit,42125,True
+Consult Advanced Neuro /NG-5114,Advanced Neurological Consultation,mapped_explicit_terms,Advanced Neurological Consultation,per_visit,14125,False
+Adv Infect Critical Care Occ /NG-2548,Advanced Infectious Critical Care Occupancy,mapped_explicit_terms,Advanced Infectious Critical Care Occupancy,per_day,70925,False
+Foc Immunologic Physio Sess,Focused Immunologic Physiotherapy Session,mapped_explicit_terms,Focused Immunologic Physiotherapy Session,per_hour,3300,True
+Ambulatory  Pulm Recov Rm Occupancy /NG-9869,Ambulatory Pulmonary Recovery Room Occupancy,mapped_explicit_terms,Ambulatory Pulmonary Recovery Room Occupancy,per_night,112825,False
+Intermittent - Derm Transf Svc,Intermittent Dermatologic Transfusion Service,mapped_explicit_terms,Intermittent Dermatologic Transfusion Service,per_procedure,243150,True
+Msk Wd Bd Occ Inpt,Inpatient Musculoskeletal Ward Bed Occupancy,mapped_explicit_terms,Inpatient Musculoskeletal Ward Bed Occupancy,per_day,35625,True
+Ext - Geriatric Wound Care /NG-2898,Extended Geriatric Wound Care,mapped_explicit_terms,Extended Geriatric Wound Care,per_item,10100,False
+Rtn Infect Critical Care Occ,Routine Infectious Critical Care Occupancy,mapped_explicit_terms,Routine Infectious Critical Care Occupancy,per_night,58375,False
+Inpt - Ren Radiotherapy Fraction,Inpatient Renal Radiotherapy Fraction,mapped_explicit_terms,Inpatient Renal Radiotherapy Fraction,per_procedure,455300,True
+Occ Routine Infectious Critical Cr,Routine Infectious Critical Care Occupancy,mapped_explicit_terms,Routine Infectious Critical Care Occupancy,per_night,58375,False
+Therapy Asst Ger Inf,Assisted Geriatric Infusion Therapy,mapped_explicit_terms,Assisted Geriatric Infusion Therapy,per_unit_dispensed,7825,False
+Immun Consult,Outpatient Immunologic Consultation,mapped_explicit_terms,Outpatient Immunologic Consultation,per_procedure,279225,True
+Prog Emergency Ortho Rehabilitation /NG-5611,Emergency Orthopaedic Rehabilitation Programme,mapped_explicit_terms,Emergency Orthopaedic Rehabilitation Programme,per_visit,28950,True
+Compr - Psych Transf Svc,Comprehensive Psychiatric Transfusion Service,mapped_explicit_terms,Comprehensive Psychiatric Transfusion Service,per_procedure,383650,True
+Rtn Immun Ward Bed Occupancy,Routine Immunologic Ward Bed Occupancy,mapped_explicit_terms,Routine Immunologic Ward Bed Occupancy,per_night,215875,False
+Interm - Derm Transf Svc,Intermittent Dermatologic Transfusion Service,mapped_explicit_terms,Intermittent Dermatologic Transfusion Service,per_procedure,243150,True
+Img Vasc Diagnostic,Inpatient Vascular Diagnostic Imaging,mapped_explicit_terms,Inpatient Vascular Diagnostic Imaging|Preoperative Vascular Diagnostic Imaging,per_item,12725,True
+Svc Preop Ent Steril,Preoperative Otolaryngologic Sterilisation Service,mapped_explicit_terms,Preoperative Otolaryngologic Sterilisation Service,per_procedure,134725,True
+Cont Obst Rehab Prog /NG-1357,Continuous Obstetric Rehabilitation Programme,mapped_explicit_terms,Continuous Obstetric Rehabilitation Programme,per_day,112400,True
+Std Endo Dial Session /NG-7220,Standard Endocrine Dialysis Session,mapped_explicit_terms,Standard Endocrine Dialysis Session,per_visit,37600,False
+Outpt Metab Radiother Fract,Outpatient Metabolic Radiotherapy Fraction,mapped_explicit_terms,Outpatient Metabolic Radiotherapy Fraction,per_item,22775,True
+Assisted Pulm Theatre Tm /NG-8055,Assisted Pulmonary Theatre Time,mapped_explicit_terms,Assisted Pulmonary Theatre Time,per_hour,6700,True
+Emergency - Orthopaedic Rehab Prog,Emergency Orthopaedic Rehabilitation Programme,mapped_explicit_terms,Emergency Orthopaedic Rehabilitation Programme,per_visit,28950,True
+Interm Pulm Rehab Prog /NG-4176,Intermittent Pulmonary Rehabilitation Programme,mapped_explicit_terms,Intermittent Pulmonary Rehabilitation Programme,per_visit,13450,False
+Preop - Immun Endoscopic Procedure /NG-3497,Preoperative Immunologic Endoscopic Procedure,mapped_explicit_terms,Preoperative Immunologic Endoscopic Procedure,per_procedure,151975,False
+Routine Card Specimen Analysis,Routine Cardiac Specimen Analysis,mapped_explicit_terms,Routine Cardiac Specimen Analysis,per_item,23350,False
+Std Nutritional Supp,Standard Geriatric Nutritional Support,mapped_explicit_terms,Standard Geriatric Nutritional Support,per_day,42475,True
+Postoperative Pulmonary Wnd Cr /NG-8823,Postoperative Pulmonary Wound Care,mapped_explicit_terms,Postoperative Pulmonary Wound Care,per_visit,18050,True
+Supervised - Ren Isolation Room Occupancy,Supervised Renal Isolation Room Occupancy,mapped_explicit_terms,Supervised Renal Isolation Room Occupancy,per_night,164500,True
+Service - Foc Ortho Transp,Focused Orthopaedic Transport Service,mapped_explicit_terms,Focused Orthopaedic Transport Service,per_visit,42100,False
+Ext Ger Wnd Cr,Extended Geriatric Wound Care,mapped_explicit_terms,Extended Geriatric Wound Care,per_item,10100,False
+Msk Wd Bd Occ Amb,Ambulatory Musculoskeletal Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Musculoskeletal Ward Bed Occupancy,per_night,154575,True
+Routine - Oncology Disch,Routine Oncology Discharge Planning,mapped_explicit_terms,Routine Oncology Discharge Planning,per_visit,29050,True
+Derm Transf Svc Rtn,Routine Dermatologic Transfusion Service,mapped_explicit_terms,Routine Dermatologic Transfusion Service,per_unit_dispensed,5325,True
+Elective Pulm Nutr Support,Elective Pulmonary Nutritional Support,mapped_explicit_terms,Elective Pulmonary Nutritional Support,per_unit_dispensed,7450,True
+Preop Oncology Consult /NG-5826,Preoperative Oncology Consultation,mapped_explicit_terms,Preoperative Oncology Consultation,per_visit,42125,True
+Extended Ren Transp,Extended Renal Transport Service,mapped_explicit_terms,Extended Renal Transport Service,per_item,25650,True
+Comprehensive Infect Nursing,Comprehensive Infectious Nursing Observation,mapped_explicit_terms,Comprehensive Infectious Nursing Observation,per_day,169825,False
+Std Endo Endoscopic Procedure,Standard Endocrine Endoscopic Procedure,mapped_explicit_terms,Standard Endocrine Endoscopic Procedure,per_procedure,124450,False
+Adv Rheumatologic Lab Panel,Advanced Rheumatologic Laboratory Panel,mapped_explicit_terms,Advanced Rheumatologic Laboratory Panel,per_test,14775,False
+Advanced Neuro Consultation,Advanced Neurological Consultation,mapped_explicit_terms,Advanced Neurological Consultation,per_visit,14125,False
+Occupancy Postoperative Obstetric Isol Rm,Postoperative Obstetric Isolation Room Occupancy,mapped_explicit_terms,Postoperative Obstetric Isolation Room Occupancy,per_day,43525,True
+Spclst Derm Transport Service,Specialist Dermatologic Transport Service,mapped_explicit_terms,Specialist Dermatologic Transport Service,per_visit,43575,False
+Preop Endo Physiotherapy Sess,Preoperative Endocrine Physiotherapy Session,mapped_explicit_terms,Preoperative Endocrine Physiotherapy Session,per_visit,29975,True
+Occupancy Bedside Ent Recovery Room,Bedside Otolaryngologic Recovery Room Occupancy,mapped_explicit_terms,Bedside Otolaryngologic Recovery Room Occupancy,per_night,150450,True
+Therapy Asst Gi Inf,Assisted Gastrointestinal Infusion Therapy,mapped_explicit_terms,Assisted Gastrointestinal Infusion Therapy,per_hour,8925,True
+Ambulatory  Pulm Recovery Room Occupancy,Ambulatory Pulmonary Recovery Room Occupancy,mapped_explicit_terms,Ambulatory Pulmonary Recovery Room Occupancy,per_night,112825,False
+Continuous - Ent Telemetry Monit /NG-9499,Continuous Otolaryngologic Telemetry Monitoring,mapped_explicit_terms,Continuous Otolaryngologic Telemetry Monitoring,per_day,111975,False
+Focused - Orthopaedic Transp Svc,Focused Orthopaedic Transport Service,mapped_explicit_terms,Focused Orthopaedic Transport Service,per_visit,42100,False
+Interm Rheumatologic Diag Img,Intermittent Rheumatologic Diagnostic Imaging,mapped_explicit_terms,Intermittent Rheumatologic Diagnostic Imaging,per_procedure,197700,True
+Standard Ent Radiotherapy Fract,Standard Otolaryngologic Radiotherapy Fraction,mapped_explicit_terms,Standard Otolaryngologic Radiotherapy Fraction,per_item,25250,False
+Intens - Nutr Support,Intensive Geriatric Nutritional Support,mapped_explicit_terms,Intensive Geriatric Nutritional Support,per_unit_dispensed,4275,True
+Occupancy Inpatient Palliative Isol Room,Inpatient Palliative Isolation Room Occupancy,mapped_explicit_terms,Inpatient Palliative Isolation Room Occupancy,per_night,179600,False
+Paed Biop Proc Std,Standard Paediatric Biopsy Procedure,mapped_explicit_terms,Standard Paediatric Biopsy Procedure,per_item,16100,False
+Occupancy - Beds Otolaryngologic Recov Room,Bedside Otolaryngologic Recovery Room Occupancy,mapped_explicit_terms,Bedside Otolaryngologic Recovery Room Occupancy,per_night,150450,True
+Cs Amb Ophthalmic /NG-7838,Ambulatory Ophthalmic Case Conference,mapped_explicit_terms,Ambulatory Ophthalmic Case Conference,per_visit,16925,False
+Fraction Outpatient Metab Radiotherapy /NG-5514,Outpatient Metabolic Radiotherapy Fraction,mapped_explicit_terms,Outpatient Metabolic Radiotherapy Fraction,per_item,22775,True
+Rtn Cardiac Spcm Anly /NG-6683,Routine Cardiac Specimen Analysis,mapped_explicit_terms,Routine Cardiac Specimen Analysis,per_item,23350,False
+Specialist Neurological Recovery Rm /NG-7294,Specialist Neurological Recovery Room Occupancy,mapped_explicit_terms,Specialist Neurological Recovery Room Occupancy,per_hour,15400,False
+Ambulatory Ophthalmic Dial Session,Ambulatory Ophthalmic Dialysis Session,mapped_explicit_terms,Ambulatory Ophthalmic Dialysis Session,per_procedure,479825,False
+Disp Specialist Otolaryngologic Pharmaceutical,Specialist Otolaryngologic Pharmaceutical Dispensing,mapped_explicit_terms,Specialist Otolaryngologic Pharmaceutical Dispensing,per_unit_dispensed,1425,True
+Compr Psychiatric Transfusion Svc,Comprehensive Psychiatric Transfusion Service,mapped_explicit_terms,Comprehensive Psychiatric Transfusion Service,per_procedure,383650,True
+Extended Metabolic Isol Rm Occupancy /NG-9372,Extended Metabolic Isolation Room Occupancy,mapped_explicit_terms,Extended Metabolic Isolation Room Occupancy,per_night,87300,True
+Ger Nutr Supp Intens,Intensive Geriatric Nutritional Support,mapped_explicit_terms,Intensive Geriatric Nutritional Support,per_unit_dispensed,4275,True
+Specialist - Otolaryngologic Pharm Disp /NG-4235,Specialist Otolaryngologic Pharmaceutical Dispensing,mapped_explicit_terms,Specialist Otolaryngologic Pharmaceutical Dispensing,per_unit_dispensed,1425,True
+Elective Pulmonary Nutr Supp,Elective Pulmonary Nutritional Support,mapped_explicit_terms,Elective Pulmonary Nutritional Support,per_unit_dispensed,7450,True
+Compr Onc Nurs Observation,Comprehensive Oncology Nursing Observation,mapped_explicit_terms,Comprehensive Oncology Nursing Observation,per_hour,8475,False
+Hep Physio Sess Inpt,Inpatient Hepatic Physiotherapy Session,mapped_explicit_terms,Inpatient Hepatic Physiotherapy Session,per_visit,42600,False
+Spclst Ent Theatre Tm,Specialist Otolaryngologic Theatre Time,mapped_explicit_terms,Specialist Otolaryngologic Theatre Time,per_hour,8025,False
+Ent Thtr Tm Compr,Comprehensive Otolaryngologic Theatre Time,mapped_explicit_terms,Comprehensive Otolaryngologic Theatre Time,per_hour,32100,False
+Compr Infectious Nurs,Comprehensive Infectious Nursing Observation,mapped_explicit_terms,Comprehensive Infectious Nursing Observation,per_day,169825,False
+Conf Amb Ophth Cs /NG-4640,Ambulatory Ophthalmic Case Conference,mapped_explicit_terms,Ambulatory Ophthalmic Case Conference,per_visit,16925,False
+Conference Emer Dermatologic Cs,Emergency Dermatologic Case Conference,mapped_explicit_terms,Emergency Dermatologic Case Conference,per_hour,3775,False
+Care Cont Musculoskeletal Wnd /NG-8990,Continuous Musculoskeletal Wound Care,mapped_explicit_terms,Continuous Musculoskeletal Wound Care,per_day,36800,False
+Prog Comprehensive Otolaryngologic Rehab,Comprehensive Otolaryngologic Rehabilitation Programme,mapped_explicit_terms,Comprehensive Otolaryngologic Rehabilitation Programme,per_visit,27025,True
+Ophth Radiother Fract Postop,Postoperative Ophthalmic Radiotherapy Fraction,mapped_explicit_terms,Postoperative Ophthalmic Radiotherapy Fraction,per_procedure,413325,False
+Intens Gastrointestinal Isolation Rm Occupancy,Intensive Gastrointestinal Isolation Room Occupancy,mapped_explicit_terms,Intensive Gastrointestinal Isolation Room Occupancy,per_night,160725,False
+Cont - Pulmonary Wnd Cr,Continuous Pulmonary Wound Care,mapped_explicit_terms,Continuous Pulmonary Wound Care,per_day,144900,True
+Ortho Transp Svc,Focused Orthopaedic Transport Service,mapped_explicit_terms,Focused Orthopaedic Transport Service,per_visit,42100,False
+Visit - Assisted Urol Home /NG-4509,Assisted Urologic Home Visit,mapped_explicit_terms,Assisted Urologic Home Visit,per_visit,13625,True
+Cont Pharmaceutical Disp,Continuous Vascular Pharmaceutical Dispensing,mapped_explicit_terms,Continuous Vascular Pharmaceutical Dispensing,per_unit_dispensed,6750,True
+Occupancy - Spclst Neurological Recovery Rm /NG-4948,Specialist Neurological Recovery Room Occupancy,mapped_explicit_terms,Specialist Neurological Recovery Room Occupancy,per_hour,15400,False
+Asst Infectious Discharge Plng,Assisted Infectious Discharge Planning,mapped_explicit_terms,Assisted Infectious Discharge Planning,per_hour,8875,False
+Preop - Geriatric Ventilation Supp,Preoperative Geriatric Ventilation Support,mapped_explicit_terms,Preoperative Geriatric Ventilation Support,per_hour,6875,False
+Emer Ortho Rehabilitation Prog,Emergency Orthopaedic Rehabilitation Programme,mapped_explicit_terms,Emergency Orthopaedic Rehabilitation Programme,per_visit,28950,True
+Foc - Immunologic Physio,Focused Immunologic Physiotherapy Session,mapped_explicit_terms,Focused Immunologic Physiotherapy Session,per_hour,3300,True
+Cont - Immunologic Thtr Tm,Continuous Immunologic Theatre Time,mapped_explicit_terms,Continuous Immunologic Theatre Time,per_hour,20975,False
+Preop Renal Wnd Cr,Preoperative Renal Wound Care,mapped_explicit_terms,Preoperative Renal Wound Care,per_visit,40325,False
+Asst Urologic Home Vst,Assisted Urologic Home Visit,mapped_explicit_terms,Assisted Urologic Home Visit,per_visit,13625,True
+Psych Rehab Programme,Continuous Psychiatric Rehabilitation Programme,mapped_explicit_terms,Continuous Psychiatric Rehabilitation Programme|Routine Psychiatric Rehabilitation Programme,per_visit,20300,True
+Specialist - Neuro Recov Rm Occ,Specialist Neurological Recovery Room Occupancy,mapped_explicit_terms,Specialist Neurological Recovery Room Occupancy,per_hour,15400,False
+Ent Steril Svc Preop,Preoperative Otolaryngologic Sterilisation Service,mapped_explicit_terms,Preoperative Otolaryngologic Sterilisation Service,per_procedure,134725,True
+Procedure Immun Endosc,Ambulatory Immunologic Endoscopic Procedure,mapped_explicit_terms,Ambulatory Immunologic Endoscopic Procedure|Preoperative Immunologic Endoscopic Procedure,per_procedure,607900,True
+Immun Wd Bd Occ Rtn,Routine Immunologic Ward Bed Occupancy,mapped_explicit_terms,Routine Immunologic Ward Bed Occupancy,per_night,215875,False
+Compr Oncology Nurs Obs,Comprehensive Oncology Nursing Observation,mapped_explicit_terms,Comprehensive Oncology Nursing Observation,per_hour,8475,False
+Standard Pulm Dial Sess,Standard Pulmonary Dialysis Session,mapped_explicit_terms,Standard Pulmonary Dialysis Session,per_visit,43175,False
+Paed Biop Proc Spclst,Specialist Paediatric Biopsy Procedure,mapped_explicit_terms,Specialist Paediatric Biopsy Procedure,per_procedure,257325,True
+Cont Obstetric Rehab Programme /NG-9792,Continuous Obstetric Rehabilitation Programme,mapped_explicit_terms,Continuous Obstetric Rehabilitation Programme,per_day,112400,True
+Ambulatory Psych Dial Session,Ambulatory Psychiatric Dialysis Session,mapped_explicit_terms,Ambulatory Psychiatric Dialysis Session,per_procedure,355550,True
+Ext Pall Lab Panel /NG-9077,Extended Palliative Laboratory Panel,mapped_explicit_terms,Extended Palliative Laboratory Panel,per_test,17850,False
+Advanced Rheum Laboratory Pnl /NG-2701,Advanced Rheumatologic Laboratory Panel,mapped_explicit_terms,Advanced Rheumatologic Laboratory Panel,per_test,14775,False
+Compr Otolaryngologic Rehab Prog /NG-9048,Comprehensive Otolaryngologic Rehabilitation Programme,mapped_explicit_terms,Comprehensive Otolaryngologic Rehabilitation Programme,per_visit,27025,True
+Preop Endocrine Physio Session,Preoperative Endocrine Physiotherapy Session,mapped_explicit_terms,Preoperative Endocrine Physiotherapy Session,per_visit,29975,True
+Occ  - Postoperative Obstetric Isol Rm,Postoperative Obstetric Isolation Room Occupancy,mapped_explicit_terms,Postoperative Obstetric Isolation Room Occupancy,per_day,43525,True
+Inpatient Ren Radiotherapy Fraction /NG-3532,Inpatient Renal Radiotherapy Fraction,mapped_explicit_terms,Inpatient Renal Radiotherapy Fraction,per_procedure,455300,True
+Amb Urol Imaging Interpretation,Ambulatory Urologic Imaging Interpretation,mapped_explicit_terms,Ambulatory Urologic Imaging Interpretation,per_test,42700,True
+Focused Immun Physiotherapy Sess,Focused Immunologic Physiotherapy Session,mapped_explicit_terms,Focused Immunologic Physiotherapy Session,per_hour,3300,True
+Obs Cont Card Nursing,Continuous Cardiac Nursing Observation,mapped_explicit_terms,Continuous Cardiac Nursing Observation,per_hour,9875,True
+Continuous Immun Theatre Time /NG-4759,Continuous Immunologic Theatre Time,mapped_explicit_terms,Continuous Immunologic Theatre Time,per_hour,20975,False
+Amb Infectious Visit,Ambulatory Infectious Home Visit,mapped_explicit_terms,Ambulatory Infectious Home Visit,per_visit,8225,True
+Adv Card Recov Rm,Advanced Cardiac Recovery Room Occupancy,mapped_explicit_terms,Advanced Cardiac Recovery Room Occupancy,per_hour,20000,False
+Advanced Metab Anaes,Advanced Metabolic Anaesthesia Administration,mapped_explicit_terms,Advanced Metabolic Anaesthesia Administration,per_hour,9200,False
+Advanced Critical Cr Occupancy,Advanced Infectious Critical Care Occupancy,mapped_explicit_terms,Advanced Infectious Critical Care Occupancy,per_day,70925,False
+Beds Pulmonary Biop Proc,Bedside Pulmonary Biopsy Procedure,mapped_explicit_terms,Bedside Pulmonary Biopsy Procedure,per_procedure,316825,True
+Ophth Cs Conf Intens,Intensive Ophthalmic Case Conference,mapped_explicit_terms,Intensive Ophthalmic Case Conference,per_hour,21875,False
+Compr - Urologic Transport Service,Comprehensive Urologic Transport Service,mapped_explicit_terms,Comprehensive Urologic Transport Service,per_visit,42750,True
+Programme Interm Pulmonary Rehab,Intermittent Pulmonary Rehabilitation Programme,mapped_explicit_terms,Intermittent Pulmonary Rehabilitation Programme,per_visit,13450,False
+Specialist Derm Transp,Specialist Dermatologic Transport Service,mapped_explicit_terms,Specialist Dermatologic Transport Service,per_visit,43575,False
+Observation Cont Nurs,Continuous Cardiac Nursing Observation,mapped_explicit_terms,Continuous Cardiac Nursing Observation,per_hour,9875,True
+Procedure Standard Endocrine Endosc,Standard Endocrine Endoscopic Procedure,mapped_explicit_terms,Standard Endocrine Endoscopic Procedure,per_procedure,124450,False
+Ent Steril Svc Supv,Supervised Otolaryngologic Sterilisation Service,mapped_explicit_terms,Supervised Otolaryngologic Sterilisation Service,per_item,24200,False
+Rtn Biop Proc /NG-7762,Routine Urologic Biopsy Procedure,mapped_explicit_terms,Routine Urologic Biopsy Procedure,per_procedure,226950,False
+Standard Ger Nutr Support /NG-7257,Standard Geriatric Nutritional Support,mapped_explicit_terms,Standard Geriatric Nutritional Support,per_day,42475,True
+Postoperative Ophthalmic Radiother Fract /NG-5937,Postoperative Ophthalmic Radiotherapy Fraction,mapped_explicit_terms,Postoperative Ophthalmic Radiotherapy Fraction,per_procedure,413325,False
+Occupancy Postop Obstetric Isol Room,Postoperative Obstetric Isolation Room Occupancy,mapped_explicit_terms,Postoperative Obstetric Isolation Room Occupancy,per_day,43525,True
+Ext Geriatric Wnd Cr /NG-7617,Extended Geriatric Wound Care,mapped_explicit_terms,Extended Geriatric Wound Care,per_item,10100,False
+Procedure Amb Immunologic Endoscopic,Ambulatory Immunologic Endoscopic Procedure,mapped_explicit_terms,Ambulatory Immunologic Endoscopic Procedure,per_procedure,607900,True
+Advanced Card Recov Rm Occ,Advanced Cardiac Recovery Room Occupancy,mapped_explicit_terms,Advanced Cardiac Recovery Room Occupancy,per_hour,20000,False
+Therapy Rtn Haem Inf,Routine Haematology Infusion Therapy,mapped_explicit_terms,Routine Haematology Infusion Therapy,per_hour,10200,True
+Amb Psych Dial Session,Ambulatory Psychiatric Dialysis Session,mapped_explicit_terms,Ambulatory Psychiatric Dialysis Session,per_procedure,355550,True
+Emer Ortho Consult,Emergency Orthopaedic Consultation,mapped_explicit_terms,Emergency Orthopaedic Consultation,per_procedure,418900,True
+Amb Ophthalmic Dial Sess,Ambulatory Ophthalmic Dialysis Session,mapped_explicit_terms,Ambulatory Ophthalmic Dialysis Session,per_procedure,479825,False
+Occupancy Rtn Pall Crit Cr,Routine Palliative Critical Care Occupancy,mapped_explicit_terms,Routine Palliative Critical Care Occupancy,per_night,96975,True
+Occ Inpt Msk Wd Bd,Inpatient Musculoskeletal Ward Bed Occupancy,mapped_explicit_terms,Inpatient Musculoskeletal Ward Bed Occupancy,per_day,35625,True
+Amb Urologic Img Interp,Ambulatory Urologic Imaging Interpretation,mapped_explicit_terms,Ambulatory Urologic Imaging Interpretation,per_test,42700,True
+Elect Cardiac Nutritional Supp /NG-3162,Elective Cardiac Nutritional Support,mapped_explicit_terms,Elective Cardiac Nutritional Support,per_day,158625,True
+Immun Endosc Proc Amb,Ambulatory Immunologic Endoscopic Procedure,mapped_explicit_terms,Ambulatory Immunologic Endoscopic Procedure,per_procedure,607900,True
+Std Endocrine Dialysis Sess /NG-9032,Standard Endocrine Dialysis Session,mapped_explicit_terms,Standard Endocrine Dialysis Session,per_visit,37600,False
+Continuous Psych Rehabilitation Prog,Continuous Psychiatric Rehabilitation Programme,mapped_explicit_terms,Continuous Psychiatric Rehabilitation Programme,per_visit,20300,True
+Advanced Rheum Lab Pnl,Advanced Rheumatologic Laboratory Panel,mapped_explicit_terms,Advanced Rheumatologic Laboratory Panel,per_test,14775,False
+Ent Thtr Tm Spclst,Specialist Otolaryngologic Theatre Time,mapped_explicit_terms,Specialist Otolaryngologic Theatre Time,per_hour,8025,False
+Ambulatory Immunologic Wd Bd Occ,Ambulatory Immunologic Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Immunologic Ward Bed Occupancy,per_day,87250,True
+Support Interm Neurological Nutr,Intermittent Neurological Nutritional Support,mapped_explicit_terms,Intermittent Neurological Nutritional Support,per_day,50275,True
+Care Extended Ger Wound,Extended Geriatric Wound Care,mapped_explicit_terms,Extended Geriatric Wound Care,per_item,10100,False
+Adv Metab Nursing Observation /NG-7035,Advanced Metabolic Nursing Observation,mapped_explicit_terms,Advanced Metabolic Nursing Observation,per_day,130125,False
+Intensive Gi Isolation Rm Occ,Intensive Gastrointestinal Isolation Room Occupancy,mapped_explicit_terms,Intensive Gastrointestinal Isolation Room Occupancy,per_night,160725,False
+Cont Ent Telem Monit,Continuous Otolaryngologic Telemetry Monitoring,mapped_explicit_terms,Continuous Otolaryngologic Telemetry Monitoring,per_day,111975,False
+Std - Biop Proc,Standard Paediatric Biopsy Procedure,mapped_explicit_terms,Standard Paediatric Biopsy Procedure,per_item,16100,False
+Programme Extended Vascular Rehab,Extended Vascular Rehabilitation Programme,mapped_explicit_terms,Extended Vascular Rehabilitation Programme,per_day,65400,True
+Continuous - Obst Rehab Programme,Continuous Obstetric Rehabilitation Programme,mapped_explicit_terms,Continuous Obstetric Rehabilitation Programme,per_day,112400,True
+Std Psychiatric Endosc Procedure /NG-5963,Standard Psychiatric Endoscopic Procedure,mapped_explicit_terms,Standard Psychiatric Endoscopic Procedure,per_procedure,242225,True
+Specialist Neuro Recovery Room Occ,Specialist Neurological Recovery Room Occupancy,mapped_explicit_terms,Specialist Neurological Recovery Room Occupancy,per_hour,15400,False
+Preoperative - Immun Endoscopic Procedure,Preoperative Immunologic Endoscopic Procedure,mapped_explicit_terms,Preoperative Immunologic Endoscopic Procedure,per_procedure,151975,False
+Session Inpt Endo Dial,Inpatient Endocrine Dialysis Session,mapped_explicit_terms,Inpatient Endocrine Dialysis Session,per_procedure,81750,True
+Ophth Radiother Fract Inpt,Inpatient Ophthalmic Radiotherapy Fraction,mapped_explicit_terms,Inpatient Ophthalmic Radiotherapy Fraction,per_item,25300,False
+Svc Rtn Gi Transfusion,Routine Gastrointestinal Transfusion Service,mapped_explicit_terms,Routine Gastrointestinal Transfusion Service,per_procedure,341525,True
+Supervised Msk Dialysis Sess,Supervised Musculoskeletal Dialysis Session,mapped_explicit_terms,Supervised Musculoskeletal Dialysis Session,per_visit,35150,False
+Interm - Diag Img /NG-6221,Intermittent Rheumatologic Diagnostic Imaging,mapped_explicit_terms,Intermittent Rheumatologic Diagnostic Imaging,per_procedure,197700,True
+Obs Continuous Card Nursing /NG-8292,Continuous Cardiac Nursing Observation,mapped_explicit_terms,Continuous Cardiac Nursing Observation,per_hour,9875,True
+Rtn Immunologic Wd Bed Occupancy,Routine Immunologic Ward Bed Occupancy,mapped_explicit_terms,Routine Immunologic Ward Bed Occupancy,per_night,215875,False
+Std Pulmonary Dial Sess,Standard Pulmonary Dialysis Session,mapped_explicit_terms,Standard Pulmonary Dialysis Session,per_visit,43175,False
+Vasc  Diagnostic Img,Inpatient Vascular Diagnostic Imaging,mapped_explicit_terms,Inpatient Vascular Diagnostic Imaging|Preoperative Vascular Diagnostic Imaging,per_item,12725,True
+Fraction  Std Ent Radiotherapy,Standard Otolaryngologic Radiotherapy Fraction,mapped_explicit_terms,Standard Otolaryngologic Radiotherapy Fraction,per_item,25250,False
+Consult Outpt Immun /NG-3689,Outpatient Immunologic Consultation,mapped_explicit_terms,Outpatient Immunologic Consultation,per_procedure,279225,True
+Occupancy Advanced Card Recov Rm,Advanced Cardiac Recovery Room Occupancy,mapped_explicit_terms,Advanced Cardiac Recovery Room Occupancy,per_hour,20000,False
+Pulm Wnd Cr Postop,Postoperative Pulmonary Wound Care,mapped_explicit_terms,Postoperative Pulmonary Wound Care,per_visit,18050,True
+Intens Gi Isolation Room Occupancy /NG-9835,Intensive Gastrointestinal Isolation Room Occupancy,mapped_explicit_terms,Intensive Gastrointestinal Isolation Room Occupancy,per_night,160725,False
+Preop Immun Endosc Proc,Preoperative Immunologic Endoscopic Procedure,mapped_explicit_terms,Preoperative Immunologic Endoscopic Procedure,per_procedure,151975,False
+Inpatient Pall Specimen Analysis /NG-4820,Inpatient Palliative Specimen Analysis,mapped_explicit_terms,Inpatient Palliative Specimen Analysis,per_item,29725,False
+Outpt Radiother Fraction,Outpatient Metabolic Radiotherapy Fraction,mapped_explicit_terms,Outpatient Metabolic Radiotherapy Fraction,per_item,22775,True
+Rtn Haem Inf Therapy,Routine Haematology Infusion Therapy,mapped_explicit_terms,Routine Haematology Infusion Therapy,per_hour,10200,True
+Extended Pall Laboratory Pnl,Extended Palliative Laboratory Panel,mapped_explicit_terms,Extended Palliative Laboratory Panel,per_test,17850,False
+Inpatient  Ophth Radiother Fraction,Inpatient Ophthalmic Radiotherapy Fraction,mapped_explicit_terms,Inpatient Ophthalmic Radiotherapy Fraction,per_item,25300,False
+Ext - Pall Panel,Extended Palliative Laboratory Panel,mapped_explicit_terms,Extended Palliative Laboratory Panel,per_test,17850,False
+Inpt Hep Physiotherapy Session,Inpatient Hepatic Physiotherapy Session,mapped_explicit_terms,Inpatient Hepatic Physiotherapy Session,per_visit,42600,False
+Spclst Otolaryngologic Thtr Tm,Specialist Otolaryngologic Theatre Time,mapped_explicit_terms,Specialist Otolaryngologic Theatre Time,per_hour,8025,False
+Amb - Urol Img Interp,Ambulatory Urologic Imaging Interpretation,mapped_explicit_terms,Ambulatory Urologic Imaging Interpretation,per_test,42700,True
+Observation Compr Infectious Nurs,Comprehensive Infectious Nursing Observation,mapped_explicit_terms,Comprehensive Infectious Nursing Observation,per_day,169825,False
+Amb Immun Endosc Proc,Ambulatory Immunologic Endoscopic Procedure,mapped_explicit_terms,Ambulatory Immunologic Endoscopic Procedure,per_procedure,607900,True
+Occ - Inpt Isol Rm /NG-2747,Inpatient Palliative Isolation Room Occupancy,mapped_explicit_terms,Inpatient Palliative Isolation Room Occupancy,per_night,179600,False
+Ren Radiotherapy Fract,Emergency Renal Radiotherapy Fraction,mapped_explicit_terms,Emergency Renal Radiotherapy Fraction|Inpatient Renal Radiotherapy Fraction,per_item,11000,False
+Preop Onc Consultation,Preoperative Oncology Consultation,mapped_explicit_terms,Preoperative Oncology Consultation,per_visit,42125,True
+Standard Endo Dial Sess,Standard Endocrine Dialysis Session,mapped_explicit_terms,Standard Endocrine Dialysis Session,per_visit,37600,False
+Interm Pulm Rehab Prog,Intermittent Pulmonary Rehabilitation Programme,mapped_explicit_terms,Intermittent Pulmonary Rehabilitation Programme,per_visit,13450,False
+Cr Focused Ent Wound,Focused Otolaryngologic Wound Care,mapped_explicit_terms,Focused Otolaryngologic Wound Care,per_visit,24725,True
+Occ Beds Otolaryngologic Recovery Room /NG-2212,Bedside Otolaryngologic Recovery Room Occupancy,mapped_explicit_terms,Bedside Otolaryngologic Recovery Room Occupancy,per_night,150450,True
+Infect Crit Cr Occ Rtn,Routine Infectious Critical Care Occupancy,mapped_explicit_terms,Routine Infectious Critical Care Occupancy,per_night,58375,False
+Inpt - Ophth Radiother Fract,Inpatient Ophthalmic Radiotherapy Fraction,mapped_explicit_terms,Inpatient Ophthalmic Radiotherapy Fraction,per_item,25300,False
+Ren Radiother Fract Inpt,Inpatient Renal Radiotherapy Fraction,mapped_explicit_terms,Inpatient Renal Radiotherapy Fraction,per_procedure,455300,True
+Imaging Interm Rheum Diagnostic,Intermittent Rheumatologic Diagnostic Imaging,mapped_explicit_terms,Intermittent Rheumatologic Diagnostic Imaging,per_procedure,197700,True
+Assisted  Urol Hm Vst,Assisted Urologic Home Visit,mapped_explicit_terms,Assisted Urologic Home Visit,per_visit,13625,True
+Compr Otolaryngologic Theatre Tm,Comprehensive Otolaryngologic Theatre Time,mapped_explicit_terms,Comprehensive Otolaryngologic Theatre Time,per_hour,32100,False
+Vasc Diag Img Preop,Preoperative Vascular Diagnostic Imaging,mapped_explicit_terms,Preoperative Vascular Diagnostic Imaging,per_procedure,396725,True
+Preoperative - Ger Vent Support /NG-6364,Preoperative Geriatric Ventilation Support,mapped_explicit_terms,Preoperative Geriatric Ventilation Support,per_hour,6875,False
+Ext Pall Lab Panel,Extended Palliative Laboratory Panel,mapped_explicit_terms,Extended Palliative Laboratory Panel,per_test,17850,False
+Rtn Cardiac Specimen,Routine Cardiac Specimen Analysis,mapped_explicit_terms,Routine Cardiac Specimen Analysis,per_item,23350,False
+Ambulatory Card Hm Visit /NG-9268,Ambulatory Cardiac Home Visit,mapped_explicit_terms,Ambulatory Cardiac Home Visit,per_visit,28425,True
+Advanced - Metab Nurs Obs,Advanced Metabolic Nursing Observation,mapped_explicit_terms,Advanced Metabolic Nursing Observation,per_day,130125,False
+Immun Wd Bd Occ Amb,Ambulatory Immunologic Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Immunologic Ward Bed Occupancy,per_day,87250,True
+Cont Immun Theatre Time /NG-9315,Continuous Immunologic Theatre Time,mapped_explicit_terms,Continuous Immunologic Theatre Time,per_hour,20975,False
+Routine - Onc Discharge Plng,Routine Oncology Discharge Planning,mapped_explicit_terms,Routine Oncology Discharge Planning,per_visit,29050,True
+Advanced Haem Physio Session,Advanced Haematology Physiotherapy Session,mapped_explicit_terms,Advanced Haematology Physiotherapy Session,per_hour,10150,True
+Rtn - Onc Discharge Plng,Routine Oncology Discharge Planning,mapped_explicit_terms,Routine Oncology Discharge Planning,per_visit,29050,True
+Standard Paed Biopsy Procedure,Standard Paediatric Biopsy Procedure,mapped_explicit_terms,Standard Paediatric Biopsy Procedure,per_item,16100,False
+Rtn Dermatologic Transfusion Svc,Routine Dermatologic Transfusion Service,mapped_explicit_terms,Routine Dermatologic Transfusion Service,per_unit_dispensed,5325,True
+Amb Psychiatric Dialysis Sess,Ambulatory Psychiatric Dialysis Session,mapped_explicit_terms,Ambulatory Psychiatric Dialysis Session,per_procedure,355550,True
+Inpt Hepatic Session,Inpatient Hepatic Physiotherapy Session,mapped_explicit_terms,Inpatient Hepatic Physiotherapy Session,per_visit,42600,False
+Obs Metab Nursing,Advanced Metabolic Nursing Observation,mapped_explicit_terms,Advanced Metabolic Nursing Observation,per_day,130125,False
+Immun Endosc Proc Preop,Preoperative Immunologic Endoscopic Procedure,mapped_explicit_terms,Preoperative Immunologic Endoscopic Procedure,per_procedure,151975,False
+Ther Assisted Ger Infusion,Assisted Geriatric Infusion Therapy,mapped_explicit_terms,Assisted Geriatric Infusion Therapy,per_unit_dispensed,7825,False
+Focused Orthopaedic Transp Svc,Focused Orthopaedic Transport Service,mapped_explicit_terms,Focused Orthopaedic Transport Service,per_visit,42100,False
+Adv Haem Physiotherapy Sess,Advanced Haematology Physiotherapy Session,mapped_explicit_terms,Advanced Haematology Physiotherapy Session,per_hour,10150,True
+Postop Pulmonary Wnd Care /NG-1729,Postoperative Pulmonary Wound Care,mapped_explicit_terms,Postoperative Pulmonary Wound Care,per_visit,18050,True
+Cont Psych Rehab Programme,Continuous Psychiatric Rehabilitation Programme,mapped_explicit_terms,Continuous Psychiatric Rehabilitation Programme,per_visit,20300,True
+Ophth Cs Conf Amb,Ambulatory Ophthalmic Case Conference,mapped_explicit_terms,Ambulatory Ophthalmic Case Conference,per_visit,16925,False
+Beds Otolaryngologic Recovery Room Occ,Bedside Otolaryngologic Recovery Room Occupancy,mapped_explicit_terms,Bedside Otolaryngologic Recovery Room Occupancy,per_night,150450,True
+Supervised Musculoskeletal Dialysis Sess /NG-6660,Supervised Musculoskeletal Dialysis Session,mapped_explicit_terms,Supervised Musculoskeletal Dialysis Session,per_visit,35150,False
+Compr - Otolaryngologic Rehab Prog,Comprehensive Otolaryngologic Rehabilitation Programme,mapped_explicit_terms,Comprehensive Otolaryngologic Rehabilitation Programme,per_visit,27025,True
+Fract Std Otolaryngologic Radiotherapy,Standard Otolaryngologic Radiotherapy Fraction,mapped_explicit_terms,Standard Otolaryngologic Radiotherapy Fraction,per_item,25250,False
+Elect  Card Nutritional Supp,Elective Cardiac Nutritional Support,mapped_explicit_terms,Elective Cardiac Nutritional Support,per_day,158625,True
+Continuous Otolaryngologic Telemetry Monit /NG-7391,Continuous Otolaryngologic Telemetry Monitoring,mapped_explicit_terms,Continuous Otolaryngologic Telemetry Monitoring,per_day,111975,False
+Routine - Gastrointestinal Transfusion Svc,Routine Gastrointestinal Transfusion Service,mapped_explicit_terms,Routine Gastrointestinal Transfusion Service,per_procedure,341525,True
+Asst Gastrointestinal Infusion Therapy,Assisted Gastrointestinal Infusion Therapy,mapped_explicit_terms,Assisted Gastrointestinal Infusion Therapy,per_hour,8925,True
+Focused Ent Cr /NG-9962,Focused Otolaryngologic Wound Care,mapped_explicit_terms,Focused Otolaryngologic Wound Care,per_visit,24725,True
+Inpt - Hep Physio Sess /NG-1999,Inpatient Hepatic Physiotherapy Session,mapped_explicit_terms,Inpatient Hepatic Physiotherapy Session,per_visit,42600,False
+Proc Std Psychiatric Endosc /NG-2345,Standard Psychiatric Endoscopic Procedure,mapped_explicit_terms,Standard Psychiatric Endoscopic Procedure,per_procedure,242225,True
+Ambulatory - Immunologic Wd Bed Occ /NG-8463,Ambulatory Immunologic Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Immunologic Ward Bed Occupancy,per_day,87250,True
+Outpatient Metab Radiother Fraction,Outpatient Metabolic Radiotherapy Fraction,mapped_explicit_terms,Outpatient Metabolic Radiotherapy Fraction,per_item,22775,True
+Amb Pulm Recov Rm Occupancy,Ambulatory Pulmonary Recovery Room Occupancy,mapped_explicit_terms,Ambulatory Pulmonary Recovery Room Occupancy,per_night,112825,False
+Conf Emergency Derm Cs,Emergency Dermatologic Case Conference,mapped_explicit_terms,Emergency Dermatologic Case Conference,per_hour,3775,False
+Inpt - Ren Radiotherapy Fract,Inpatient Renal Radiotherapy Fraction,mapped_explicit_terms,Inpatient Renal Radiotherapy Fraction,per_procedure,455300,True
+Sess Ambulatory Ophth Dialysis,Ambulatory Ophthalmic Dialysis Session,mapped_explicit_terms,Ambulatory Ophthalmic Dialysis Session,per_procedure,479825,False
+Session Beds Psychiatric Dialysis,Bedside Psychiatric Dialysis Session,mapped_explicit_terms,Bedside Psychiatric Dialysis Session,per_visit,20575,True
+Preop Geriatric Vent Supp,Preoperative Geriatric Ventilation Support,mapped_explicit_terms,Preoperative Geriatric Ventilation Support,per_hour,6875,False
+Postop Critical Cr Occupancy,Postoperative Metabolic Critical Care Occupancy,mapped_explicit_terms,Postoperative Metabolic Critical Care Occupancy,per_night,59700,True
+Preop Oncology Consult /NG-2424,Preoperative Oncology Consultation,mapped_explicit_terms,Preoperative Oncology Consultation,per_visit,42125,True
+Img Preop Vascular Diag,Preoperative Vascular Diagnostic Imaging,mapped_explicit_terms,Preoperative Vascular Diagnostic Imaging,per_procedure,396725,True
+Session Specialist Hep Physiotherapy,Specialist Hepatic Physiotherapy Session,mapped_explicit_terms,Specialist Hepatic Physiotherapy Session,per_hour,5350,True
+Svc Routine Derm Transf /NG-2484,Routine Dermatologic Transfusion Service,mapped_explicit_terms,Routine Dermatologic Transfusion Service,per_unit_dispensed,5325,True
+Inpatient Ophth Transport Svc,Inpatient Ophthalmic Transport Service,mapped_explicit_terms,Inpatient Ophthalmic Transport Service,per_item,4800,True
+Supp Interm Neuro Nutritional /NG-6247,Intermittent Neurological Nutritional Support,mapped_explicit_terms,Intermittent Neurological Nutritional Support,per_day,50275,True
+Psych Rehab Prog Rtn,Routine Psychiatric Rehabilitation Programme,mapped_explicit_terms,Routine Psychiatric Rehabilitation Programme,per_day,72500,False
+Ther Asst Gi Inf,Assisted Gastrointestinal Infusion Therapy,mapped_explicit_terms,Assisted Gastrointestinal Infusion Therapy,per_hour,8925,True
+Extended Haem Anaes Admin,,needs_review,,,,False
+Beds Psych Session,Bedside Psychiatric Dialysis Session,mapped_explicit_terms,Bedside Psychiatric Dialysis Session,per_visit,20575,True
+Therapy - Assisted Ger Infusion /NG-4561,Assisted Geriatric Infusion Therapy,mapped_explicit_terms,Assisted Geriatric Infusion Therapy,per_unit_dispensed,7825,False
+Inpatient Hepatic Physio Sess,Inpatient Hepatic Physiotherapy Session,mapped_explicit_terms,Inpatient Hepatic Physiotherapy Session,per_visit,42600,False
+Spclst  Derm Transp Svc /NG-4716,Specialist Dermatologic Transport Service,mapped_explicit_terms,Specialist Dermatologic Transport Service,per_visit,43575,False
+Cont Vasc Pharmaceutical Disp,Continuous Vascular Pharmaceutical Dispensing,mapped_explicit_terms,Continuous Vascular Pharmaceutical Dispensing,per_unit_dispensed,6750,True
+Compr Infectious Nursing Observation,Comprehensive Infectious Nursing Observation,mapped_explicit_terms,Comprehensive Infectious Nursing Observation,per_day,169825,False
+Preop Otolaryngologic Steril Svc,Preoperative Otolaryngologic Sterilisation Service,mapped_explicit_terms,Preoperative Otolaryngologic Sterilisation Service,per_procedure,134725,True
+Adv Metabolic Anaes Administration,Advanced Metabolic Anaesthesia Administration,mapped_explicit_terms,Advanced Metabolic Anaesthesia Administration,per_hour,9200,False
+Img Inpatient Diag,Inpatient Vascular Diagnostic Imaging,mapped_explicit_terms,Inpatient Vascular Diagnostic Imaging,per_item,12725,True
+Cr Foc Otolaryngologic Wound,Focused Otolaryngologic Wound Care,mapped_explicit_terms,Focused Otolaryngologic Wound Care,per_visit,24725,True
+Emer Orthopaedic Consultation,Emergency Orthopaedic Consultation,mapped_explicit_terms,Emergency Orthopaedic Consultation,per_procedure,418900,True
+Comprehensive - Onc Nurs Obs,Comprehensive Oncology Nursing Observation,mapped_explicit_terms,Comprehensive Oncology Nursing Observation,per_hour,8475,False
+Cont - Psychiatric Rehab Prog /NG-1498,Continuous Psychiatric Rehabilitation Programme,mapped_explicit_terms,Continuous Psychiatric Rehabilitation Programme,per_visit,20300,True
+Ambulatory Urol Imaging Interpretation,Ambulatory Urologic Imaging Interpretation,mapped_explicit_terms,Ambulatory Urologic Imaging Interpretation,per_test,42700,True
+Rtn Pall Crit Cr Occupancy,Routine Palliative Critical Care Occupancy,mapped_explicit_terms,Routine Palliative Critical Care Occupancy,per_night,96975,True
+Infect Crit Cr Occ Adv,Advanced Infectious Critical Care Occupancy,mapped_explicit_terms,Advanced Infectious Critical Care Occupancy,per_day,70925,False
+Conference Intens Ophth Cs,Intensive Ophthalmic Case Conference,mapped_explicit_terms,Intensive Ophthalmic Case Conference,per_hour,21875,False
+Extended Vasc Rehab Prog,Extended Vascular Rehabilitation Programme,mapped_explicit_terms,Extended Vascular Rehabilitation Programme,per_day,65400,True
+Svc Extended Ren Transp,Extended Renal Transport Service,mapped_explicit_terms,Extended Renal Transport Service,per_item,25650,True
+Inpt - Pall Specimen Analysis /NG-1173,Inpatient Palliative Specimen Analysis,mapped_explicit_terms,Inpatient Palliative Specimen Analysis,per_item,29725,False
+Cont Psychiatric Rehabilitation Programme,Continuous Psychiatric Rehabilitation Programme,mapped_explicit_terms,Continuous Psychiatric Rehabilitation Programme,per_visit,20300,True
+Interm Rheum Diagnostic Img /NG-6790,Intermittent Rheumatologic Diagnostic Imaging,mapped_explicit_terms,Intermittent Rheumatologic Diagnostic Imaging,per_procedure,197700,True
+Spclst Hepatic Physiotherapy Sess,Specialist Hepatic Physiotherapy Session,mapped_explicit_terms,Specialist Hepatic Physiotherapy Session,per_hour,5350,True
+Preop Oncology Consult /NG-7321,Preoperative Oncology Consultation,mapped_explicit_terms,Preoperative Oncology Consultation,per_visit,42125,True
+Outpatient - Metabolic Radiother Fract /NG-9469,Outpatient Metabolic Radiotherapy Fraction,mapped_explicit_terms,Outpatient Metabolic Radiotherapy Fraction,per_item,22775,True
+Ext Palliative Laboratory Pnl,Extended Palliative Laboratory Panel,mapped_explicit_terms,Extended Palliative Laboratory Panel,per_test,17850,False
+Spclst Ent Thtr Time,Specialist Otolaryngologic Theatre Time,mapped_explicit_terms,Specialist Otolaryngologic Theatre Time,per_hour,8025,False
+Care Cont Musculoskeletal Wnd /NG-8330,Continuous Musculoskeletal Wound Care,mapped_explicit_terms,Continuous Musculoskeletal Wound Care,per_day,36800,False
+Interm Derm Transfusion Service /NG-8116,Intermittent Dermatologic Transfusion Service,mapped_explicit_terms,Intermittent Dermatologic Transfusion Service,per_procedure,243150,True
+Inpatient Ophth Transp Svc,Inpatient Ophthalmic Transport Service,mapped_explicit_terms,Inpatient Ophthalmic Transport Service,per_item,4800,True
+Supervised Msk Dial Session,Supervised Musculoskeletal Dialysis Session,mapped_explicit_terms,Supervised Musculoskeletal Dialysis Session,per_visit,35150,False
+Amb Infectious Hm Visit,Ambulatory Infectious Home Visit,mapped_explicit_terms,Ambulatory Infectious Home Visit,per_visit,8225,True
+Inpatient - Ophth Transport,Inpatient Ophthalmic Transport Service,mapped_explicit_terms,Inpatient Ophthalmic Transport Service,per_item,4800,True
+Std Paediatric Proc,Standard Paediatric Biopsy Procedure,mapped_explicit_terms,Standard Paediatric Biopsy Procedure,per_item,16100,False
+Elect Cardiac Nutr Supp,Elective Cardiac Nutritional Support,mapped_explicit_terms,Elective Cardiac Nutritional Support,per_day,158625,True
+Advanced Haem Physiotherapy Session,Advanced Haematology Physiotherapy Session,mapped_explicit_terms,Advanced Haematology Physiotherapy Session,per_hour,10150,True
+Supervised - Ent Steril Svc /NG-7318,Supervised Otolaryngologic Sterilisation Service,mapped_explicit_terms,Supervised Otolaryngologic Sterilisation Service,per_item,24200,False
+Elective - Pulm Nutritional Supp,Elective Pulmonary Nutritional Support,mapped_explicit_terms,Elective Pulmonary Nutritional Support,per_unit_dispensed,7450,True
+Preop Endo Physio Sess,Preoperative Endocrine Physiotherapy Session,mapped_explicit_terms,Preoperative Endocrine Physiotherapy Session,per_visit,29975,True
+Inpt Palliative Isolation Rm Occupancy,Inpatient Palliative Isolation Room Occupancy,mapped_explicit_terms,Inpatient Palliative Isolation Room Occupancy,per_night,179600,False
+Postoperative Ophth Radiother Fract,Postoperative Ophthalmic Radiotherapy Fraction,mapped_explicit_terms,Postoperative Ophthalmic Radiotherapy Fraction,per_procedure,413325,False
+Adv Metabolic Anaesthesia Admin,Advanced Metabolic Anaesthesia Administration,mapped_explicit_terms,Advanced Metabolic Anaesthesia Administration,per_hour,9200,False
+Focused Otolaryngologic Wound Cr,Focused Otolaryngologic Wound Care,mapped_explicit_terms,Focused Otolaryngologic Wound Care,per_visit,24725,True
+Occ Beds Otolaryngologic Recov Room,Bedside Otolaryngologic Recovery Room Occupancy,mapped_explicit_terms,Bedside Otolaryngologic Recovery Room Occupancy,per_night,150450,True
+Ambulatory  Immunologic Wd Bd Occupancy,Ambulatory Immunologic Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Immunologic Ward Bed Occupancy,per_day,87250,True
+Proc Preoperative Immunologic Endoscopic /NG-1751,Preoperative Immunologic Endoscopic Procedure,mapped_explicit_terms,Preoperative Immunologic Endoscopic Procedure,per_procedure,151975,False
+Interm Rehab Programme,Intermittent Pulmonary Rehabilitation Programme,mapped_explicit_terms,Intermittent Pulmonary Rehabilitation Programme,per_visit,13450,False
+Supp Geriatric Vent /NG-9418,Preoperative Geriatric Ventilation Support,mapped_explicit_terms,Preoperative Geriatric Ventilation Support,per_hour,6875,False
+Anly Inpatient Palliative Specimen,Inpatient Palliative Specimen Analysis,mapped_explicit_terms,Inpatient Palliative Specimen Analysis,per_item,29725,False
+Therapy Rtn Haem Infusion /NG-2021,Routine Haematology Infusion Therapy,mapped_explicit_terms,Routine Haematology Infusion Therapy,per_hour,10200,True
+Inpt Palliative Isol Room Occupancy,Inpatient Palliative Isolation Room Occupancy,mapped_explicit_terms,Inpatient Palliative Isolation Room Occupancy,per_night,179600,False
+Ren Radiother Fract Emer,Emergency Renal Radiotherapy Fraction,mapped_explicit_terms,Emergency Renal Radiotherapy Fraction,per_item,11000,False
+Spclst Otolaryngologic Pharm Disp,Specialist Otolaryngologic Pharmaceutical Dispensing,mapped_explicit_terms,Specialist Otolaryngologic Pharmaceutical Dispensing,per_unit_dispensed,1425,True
+Ambulatory Card Home Vst,Ambulatory Cardiac Home Visit,mapped_explicit_terms,Ambulatory Cardiac Home Visit,per_visit,28425,True
+Rtn - Psychiatric Rehabilitation Prog,Routine Psychiatric Rehabilitation Programme,mapped_explicit_terms,Routine Psychiatric Rehabilitation Programme,per_day,72500,False
+Continuous Wnd Care,Continuous Musculoskeletal Wound Care,mapped_explicit_terms,Continuous Musculoskeletal Wound Care|Continuous Pulmonary Wound Care,per_day,36800,False
+Emer Orthopaedic Rehabilitation Prog,Emergency Orthopaedic Rehabilitation Programme,mapped_explicit_terms,Emergency Orthopaedic Rehabilitation Programme,per_visit,28950,True
+Cont Pulmonary Wnd Cr,Continuous Pulmonary Wound Care,mapped_explicit_terms,Continuous Pulmonary Wound Care,per_day,144900,True
+Supv Ent Steril Svc,Supervised Otolaryngologic Sterilisation Service,mapped_explicit_terms,Supervised Otolaryngologic Sterilisation Service,per_item,24200,False
+Specialist Ent Pharmaceutical Dispensing,Specialist Otolaryngologic Pharmaceutical Dispensing,mapped_explicit_terms,Specialist Otolaryngologic Pharmaceutical Dispensing,per_unit_dispensed,1425,True
+Specialist Paediatric Biop Proc /NG-5601,Specialist Paediatric Biopsy Procedure,mapped_explicit_terms,Specialist Paediatric Biopsy Procedure,per_procedure,257325,True
+Consultation Adv,Advanced Neurological Consultation,mapped_explicit_terms,Advanced Neurological Consultation,per_visit,14125,False
+Compr Infectious Nursing,Comprehensive Infectious Nursing Observation,mapped_explicit_terms,Comprehensive Infectious Nursing Observation,per_day,169825,False
+Admin Advanced Metabolic Anaes /NG-1114,Advanced Metabolic Anaesthesia Administration,mapped_explicit_terms,Advanced Metabolic Anaesthesia Administration,per_hour,9200,False
+Sess Inpatient Endo Dialysis,Inpatient Endocrine Dialysis Session,mapped_explicit_terms,Inpatient Endocrine Dialysis Session,per_procedure,81750,True
+Compr Ent Thtr Time,Comprehensive Otolaryngologic Theatre Time,mapped_explicit_terms,Comprehensive Otolaryngologic Theatre Time,per_hour,32100,False
+Proc - Amb Immun Endoscopic /NG-3634,Ambulatory Immunologic Endoscopic Procedure,mapped_explicit_terms,Ambulatory Immunologic Endoscopic Procedure,per_procedure,607900,True
+Routine  Biop Procedure,Routine Urologic Biopsy Procedure,mapped_explicit_terms,Routine Urologic Biopsy Procedure,per_procedure,226950,False
+Continuous - Card Nursing Observation,Continuous Cardiac Nursing Observation,mapped_explicit_terms,Continuous Cardiac Nursing Observation,per_hour,9875,True
+Beds Psych Dialysis Sess,Bedside Psychiatric Dialysis Session,mapped_explicit_terms,Bedside Psychiatric Dialysis Session,per_visit,20575,True
+Compr - Urol Transp Svc,Comprehensive Urologic Transport Service,mapped_explicit_terms,Comprehensive Urologic Transport Service,per_visit,42750,True
+Psych Dial Sess Beds,Bedside Psychiatric Dialysis Session,mapped_explicit_terms,Bedside Psychiatric Dialysis Session,per_visit,20575,True
+Compr Psychiatric Transf Service /NG-8081,Comprehensive Psychiatric Transfusion Service,mapped_explicit_terms,Comprehensive Psychiatric Transfusion Service,per_procedure,383650,True
+Care Preop Ren Wound,Preoperative Renal Wound Care,mapped_explicit_terms,Preoperative Renal Wound Care,per_visit,40325,False
+Session Std Endocrine Dialysis,Standard Endocrine Dialysis Session,mapped_explicit_terms,Standard Endocrine Dialysis Session,per_visit,37600,False
+Endo Dial Sess Inpt,Inpatient Endocrine Dialysis Session,mapped_explicit_terms,Inpatient Endocrine Dialysis Session,per_procedure,81750,True
+Advanced Infectious Crit Care Occ /NG-3293,Advanced Infectious Critical Care Occupancy,mapped_explicit_terms,Advanced Infectious Critical Care Occupancy,per_day,70925,False
+Inpt - Ophth Radiother Fract /NG-2420,Inpatient Ophthalmic Radiotherapy Fraction,mapped_explicit_terms,Inpatient Ophthalmic Radiotherapy Fraction,per_item,25300,False
+Specialist Paediatric Biop Procedure /NG-2447,Specialist Paediatric Biopsy Procedure,mapped_explicit_terms,Specialist Paediatric Biopsy Procedure,per_procedure,257325,True
+Img Preop Vasc Diagnostic,Preoperative Vascular Diagnostic Imaging,mapped_explicit_terms,Preoperative Vascular Diagnostic Imaging,per_procedure,396725,True
+Emergency Dermatologic Cs Conference,Emergency Dermatologic Case Conference,mapped_explicit_terms,Emergency Dermatologic Case Conference,per_hour,3775,False
+Amb Msk Wd Bd Occupancy /NG-3394,Ambulatory Musculoskeletal Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Musculoskeletal Ward Bed Occupancy,per_night,154575,True
+Occ - Postoperative Metabolic Critical Care,Postoperative Metabolic Critical Care Occupancy,mapped_explicit_terms,Postoperative Metabolic Critical Care Occupancy,per_night,59700,True
+Preoperative - Ren Wnd Cr,Preoperative Renal Wound Care,mapped_explicit_terms,Preoperative Renal Wound Care,per_visit,40325,False
+Std Geriatric Nutritional Supp,Standard Geriatric Nutritional Support,mapped_explicit_terms,Standard Geriatric Nutritional Support,per_day,42475,True
+Svc Intermittent Derm Transf /NG-9194,Intermittent Dermatologic Transfusion Service,mapped_explicit_terms,Intermittent Dermatologic Transfusion Service,per_procedure,243150,True
+Conference Amb Ophth Case,Ambulatory Ophthalmic Case Conference,mapped_explicit_terms,Ambulatory Ophthalmic Case Conference,per_visit,16925,False
+Extended Ren Transport Service,Extended Renal Transport Service,mapped_explicit_terms,Extended Renal Transport Service,per_item,25650,True
+Emergency Ren Radiotherapy Fract,Emergency Renal Radiotherapy Fraction,mapped_explicit_terms,Emergency Renal Radiotherapy Fraction,per_item,11000,False
+Session - Std Pulmonary Dial,Standard Pulmonary Dialysis Session,mapped_explicit_terms,Standard Pulmonary Dialysis Session,per_visit,43175,False
+Std Endocrine Endosc Procedure /NG-7684,Standard Endocrine Endoscopic Procedure,mapped_explicit_terms,Standard Endocrine Endoscopic Procedure,per_procedure,124450,False
+Inpt Musculoskeletal Wd Bed Occupancy /NG-8170,Inpatient Musculoskeletal Ward Bed Occupancy,mapped_explicit_terms,Inpatient Musculoskeletal Ward Bed Occupancy,per_day,35625,True
+Routine Pall Critical Care Occupancy /NG-1990,Routine Palliative Critical Care Occupancy,mapped_explicit_terms,Routine Palliative Critical Care Occupancy,per_night,96975,True
+Postop Ophthalmic Radiotherapy Fract,Postoperative Ophthalmic Radiotherapy Fraction,mapped_explicit_terms,Postoperative Ophthalmic Radiotherapy Fraction,per_procedure,413325,False
+Cont Vasc Pharmaceutical Dispensing,Continuous Vascular Pharmaceutical Dispensing,mapped_explicit_terms,Continuous Vascular Pharmaceutical Dispensing,per_unit_dispensed,6750,True
+Amb - Ophthalmic Cs Conf,Ambulatory Ophthalmic Case Conference,mapped_explicit_terms,Ambulatory Ophthalmic Case Conference,per_visit,16925,False
+Ext - Vascular Rehabilitation Prog,Extended Vascular Rehabilitation Programme,mapped_explicit_terms,Extended Vascular Rehabilitation Programme,per_day,65400,True
+Occupancy  Extended Metabolic Isol Rm /NG-3709,Extended Metabolic Isolation Room Occupancy,mapped_explicit_terms,Extended Metabolic Isolation Room Occupancy,per_night,87300,True
+Derm Transf Svc Interm,Intermittent Dermatologic Transfusion Service,mapped_explicit_terms,Intermittent Dermatologic Transfusion Service,per_procedure,243150,True
+Emer Ortho,Emergency Orthopaedic Consultation,mapped_explicit_terms,Emergency Orthopaedic Consultation|Emergency Orthopaedic Rehabilitation Programme,per_procedure,418900,True
+Assisted - Pulm Thtr Tm /NG-9868,Assisted Pulmonary Theatre Time,mapped_explicit_terms,Assisted Pulmonary Theatre Time,per_hour,6700,True
+Preoperative Otolaryngologic Steril Service,Preoperative Otolaryngologic Sterilisation Service,mapped_explicit_terms,Preoperative Otolaryngologic Sterilisation Service,per_procedure,134725,True
+Postoperative Pulm Wnd Cr,Postoperative Pulmonary Wound Care,mapped_explicit_terms,Postoperative Pulmonary Wound Care,per_visit,18050,True
+Amb Card Home Vst,Ambulatory Cardiac Home Visit,mapped_explicit_terms,Ambulatory Cardiac Home Visit,per_visit,28425,True
+Supervised Ent Steril Service,Supervised Otolaryngologic Sterilisation Service,mapped_explicit_terms,Supervised Otolaryngologic Sterilisation Service,per_item,24200,False
+Rtn - Urol Biop Procedure,Routine Urologic Biopsy Procedure,mapped_explicit_terms,Routine Urologic Biopsy Procedure,per_procedure,226950,False
+Inpt Ophth Transport Svc,Inpatient Ophthalmic Transport Service,mapped_explicit_terms,Inpatient Ophthalmic Transport Service,per_item,4800,True
+Psych Dial Sess Amb,Ambulatory Psychiatric Dialysis Session,mapped_explicit_terms,Ambulatory Psychiatric Dialysis Session,per_procedure,355550,True
+Hep Physio Sess Spclst,Specialist Hepatic Physiotherapy Session,mapped_explicit_terms,Specialist Hepatic Physiotherapy Session,per_hour,5350,True
+Care Focused Ent Wnd,Focused Otolaryngologic Wound Care,mapped_explicit_terms,Focused Otolaryngologic Wound Care,per_visit,24725,True
+Advanced Neuro Consult,Advanced Neurological Consultation,mapped_explicit_terms,Advanced Neurological Consultation,per_visit,14125,False
+Cr Cont Wnd,Continuous Musculoskeletal Wound Care,mapped_explicit_terms,Continuous Musculoskeletal Wound Care|Continuous Pulmonary Wound Care,per_day,36800,False
+Outpt - Immun Consultation /NG-3299,Outpatient Immunologic Consultation,mapped_explicit_terms,Outpatient Immunologic Consultation,per_procedure,279225,True
+Supv Ren Isol Rm Occupancy,Supervised Renal Isolation Room Occupancy,mapped_explicit_terms,Supervised Renal Isolation Room Occupancy,per_night,164500,True
+Assisted - Infect Disch Planning /NG-6257,Assisted Infectious Discharge Planning,mapped_explicit_terms,Assisted Infectious Discharge Planning,per_hour,8875,False
+Psychiatric Rehab Programme /NG-8199,Continuous Psychiatric Rehabilitation Programme,mapped_explicit_terms,Continuous Psychiatric Rehabilitation Programme|Routine Psychiatric Rehabilitation Programme,per_visit,20300,True
+Bedside Pulm Biopsy Proc,Bedside Pulmonary Biopsy Procedure,mapped_explicit_terms,Bedside Pulmonary Biopsy Procedure,per_procedure,316825,True
+Assisted Gi Inf Ther /NG-8862,Assisted Gastrointestinal Infusion Therapy,mapped_explicit_terms,Assisted Gastrointestinal Infusion Therapy,per_hour,8925,True
+Session Std Pulmonary Dialysis,Standard Pulmonary Dialysis Session,mapped_explicit_terms,Standard Pulmonary Dialysis Session,per_visit,43175,False
+Rtn - Transf Svc,Routine Dermatologic Transfusion Service,mapped_explicit_terms,Routine Dermatologic Transfusion Service|Routine Gastrointestinal Transfusion Service,per_unit_dispensed,5325,True
+Continuous Ent Telem Monit,Continuous Otolaryngologic Telemetry Monitoring,mapped_explicit_terms,Continuous Otolaryngologic Telemetry Monitoring,per_day,111975,False
+Spclst Hep Physio Session,Specialist Hepatic Physiotherapy Session,mapped_explicit_terms,Specialist Hepatic Physiotherapy Session,per_hour,5350,True
+Emer - Ortho Consultation,Emergency Orthopaedic Consultation,mapped_explicit_terms,Emergency Orthopaedic Consultation,per_procedure,418900,True
+Svc Interm Transf,Intermittent Dermatologic Transfusion Service,mapped_explicit_terms,Intermittent Dermatologic Transfusion Service,per_procedure,243150,True
+Ger Nutr Support /NG-2366,Intensive Geriatric Nutritional Support,mapped_explicit_terms,Intensive Geriatric Nutritional Support|Standard Geriatric Nutritional Support,per_unit_dispensed,4275,True
+Fract Std Ent,Standard Otolaryngologic Radiotherapy Fraction,mapped_explicit_terms,Standard Otolaryngologic Radiotherapy Fraction,per_item,25250,False
+Time Asst Pulm Theatre,Assisted Pulmonary Theatre Time,mapped_explicit_terms,Assisted Pulmonary Theatre Time,per_hour,6700,True
+Ambulatory Musculoskeletal Wd Bd Occ,Ambulatory Musculoskeletal Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Musculoskeletal Ward Bed Occupancy,per_night,154575,True
+Postoperative - Ophth Radiother Fract /NG-1408,Postoperative Ophthalmic Radiotherapy Fraction,mapped_explicit_terms,Postoperative Ophthalmic Radiotherapy Fraction,per_procedure,413325,False
+Preoperative Endocrine Physio Sess,Preoperative Endocrine Physiotherapy Session,mapped_explicit_terms,Preoperative Endocrine Physiotherapy Session,per_visit,29975,True
+Interm Neuro Nutr Supp /NG-9593,Intermittent Neurological Nutritional Support,mapped_explicit_terms,Intermittent Neurological Nutritional Support,per_day,50275,True
+Bedside Pulmonary Biop Proc,Bedside Pulmonary Biopsy Procedure,mapped_explicit_terms,Bedside Pulmonary Biopsy Procedure,per_procedure,316825,True
+Rtn Infect Crit Cr Occupancy,Routine Infectious Critical Care Occupancy,mapped_explicit_terms,Routine Infectious Critical Care Occupancy,per_night,58375,False
+Assisted Infect Disch Planning /NG-1542,Assisted Infectious Discharge Planning,mapped_explicit_terms,Assisted Infectious Discharge Planning,per_hour,8875,False
+Comprehensive Oncology Nurs Obs,Comprehensive Oncology Nursing Observation,mapped_explicit_terms,Comprehensive Oncology Nursing Observation,per_hour,8475,False
+Fraction Emergency Ren Radiotherapy,Emergency Renal Radiotherapy Fraction,mapped_explicit_terms,Emergency Renal Radiotherapy Fraction,per_item,11000,False
+Inpatient - Vasc Diagnostic Img,Inpatient Vascular Diagnostic Imaging,mapped_explicit_terms,Inpatient Vascular Diagnostic Imaging,per_item,12725,True
+Conference Amb Ophth Cs /NG-9862,Ambulatory Ophthalmic Case Conference,mapped_explicit_terms,Ambulatory Ophthalmic Case Conference,per_visit,16925,False
+Foc - Ortho Transp Service,Focused Orthopaedic Transport Service,mapped_explicit_terms,Focused Orthopaedic Transport Service,per_visit,42100,False
+Comprehensive Onc Nurs Observation,Comprehensive Oncology Nursing Observation,mapped_explicit_terms,Comprehensive Oncology Nursing Observation,per_hour,8475,False
+Fract Inpt Ophthalmic Radiotherapy /NG-8037,Inpatient Ophthalmic Radiotherapy Fraction,mapped_explicit_terms,Inpatient Ophthalmic Radiotherapy Fraction,per_item,25300,False
+Comprehensive Otolaryngologic Thtr Time,Comprehensive Otolaryngologic Theatre Time,mapped_explicit_terms,Comprehensive Otolaryngologic Theatre Time,per_hour,32100,False
+Compr Urologic Transp Service,Comprehensive Urologic Transport Service,mapped_explicit_terms,Comprehensive Urologic Transport Service,per_visit,42750,True
+Programme  Rtn Psych Rehab /NG-3241,Routine Psychiatric Rehabilitation Programme,mapped_explicit_terms,Routine Psychiatric Rehabilitation Programme,per_day,72500,False
+Elect - Card Supp,Elective Cardiac Nutritional Support,mapped_explicit_terms,Elective Cardiac Nutritional Support,per_day,158625,True
+Rtn Palliative Critical Cr Occ,Routine Palliative Critical Care Occupancy,mapped_explicit_terms,Routine Palliative Critical Care Occupancy,per_night,96975,True
+Pulmonary - Biopsy Proc,Bedside Pulmonary Biopsy Procedure,mapped_explicit_terms,Bedside Pulmonary Biopsy Procedure,per_procedure,316825,True
+Std Psychiatric Endoscopic Procedure /NG-6086,Standard Psychiatric Endoscopic Procedure,mapped_explicit_terms,Standard Psychiatric Endoscopic Procedure,per_procedure,242225,True
+Outpt Immun Consult /NG-9519,Outpatient Immunologic Consultation,mapped_explicit_terms,Outpatient Immunologic Consultation,per_procedure,279225,True
+Postoperative - Metab Crit Cr Occupancy,Postoperative Metabolic Critical Care Occupancy,mapped_explicit_terms,Postoperative Metabolic Critical Care Occupancy,per_night,59700,True
+Sess Ambulatory Psych Dialysis /NG-7178,Ambulatory Psychiatric Dialysis Session,mapped_explicit_terms,Ambulatory Psychiatric Dialysis Session,per_procedure,355550,True
+Ambulatory Endosc Procedure /NG-8034,Ambulatory Immunologic Endoscopic Procedure,mapped_explicit_terms,Ambulatory Immunologic Endoscopic Procedure,per_procedure,607900,True
+Spclst - Ent Thtr Tm /NG-7710,Specialist Otolaryngologic Theatre Time,mapped_explicit_terms,Specialist Otolaryngologic Theatre Time,per_hour,8025,False
+Extended Metab Isolation Room Occupancy,Extended Metabolic Isolation Room Occupancy,mapped_explicit_terms,Extended Metabolic Isolation Room Occupancy,per_night,87300,True
+Specialist Paed Biop Proc,Specialist Paediatric Biopsy Procedure,mapped_explicit_terms,Specialist Paediatric Biopsy Procedure,per_procedure,257325,True
+Rtn Palliative Critical Cr Occupancy,Routine Palliative Critical Care Occupancy,mapped_explicit_terms,Routine Palliative Critical Care Occupancy,per_night,96975,True
+Inpt Hepatic Physio Session /NG-3220,Inpatient Hepatic Physiotherapy Session,mapped_explicit_terms,Inpatient Hepatic Physiotherapy Session,per_visit,42600,False
+Outpt Immun Consultation,Outpatient Immunologic Consultation,mapped_explicit_terms,Outpatient Immunologic Consultation,per_procedure,279225,True
+Endo Dial Sess Std,Standard Endocrine Dialysis Session,mapped_explicit_terms,Standard Endocrine Dialysis Session,per_visit,37600,False
+Obs Continuous Card Nurs,Continuous Cardiac Nursing Observation,mapped_explicit_terms,Continuous Cardiac Nursing Observation,per_hour,9875,True
+Asst Pulmonary Theatre Time /NG-2448,Assisted Pulmonary Theatre Time,mapped_explicit_terms,Assisted Pulmonary Theatre Time,per_hour,6700,True
+Cont Msk Wound Cr,Continuous Musculoskeletal Wound Care,mapped_explicit_terms,Continuous Musculoskeletal Wound Care,per_day,36800,False
+Std Endocrine Endosc Proc,Standard Endocrine Endoscopic Procedure,mapped_explicit_terms,Standard Endocrine Endoscopic Procedure,per_procedure,124450,False
+Pulm Wnd Cr Cont,Continuous Pulmonary Wound Care,mapped_explicit_terms,Continuous Pulmonary Wound Care,per_day,144900,True
+Specialist  Neurological Recovery Rm Occ,Specialist Neurological Recovery Room Occupancy,mapped_explicit_terms,Specialist Neurological Recovery Room Occupancy,per_hour,15400,False
+Occ Inpatient Palliative Isolation Rm,Inpatient Palliative Isolation Room Occupancy,mapped_explicit_terms,Inpatient Palliative Isolation Room Occupancy,per_night,179600,False
+Advanced  Infect Crit Cr,Advanced Infectious Critical Care Occupancy,mapped_explicit_terms,Advanced Infectious Critical Care Occupancy,per_day,70925,False
+Rtn Immunologic Ward Bd Occ,Routine Immunologic Ward Bed Occupancy,mapped_explicit_terms,Routine Immunologic Ward Bed Occupancy,per_night,215875,False
+Supervised  Ren Isol Room Occ,Supervised Renal Isolation Room Occupancy,mapped_explicit_terms,Supervised Renal Isolation Room Occupancy,per_night,164500,True
+Inpt Endo Session,Inpatient Endocrine Dialysis Session,mapped_explicit_terms,Inpatient Endocrine Dialysis Session,per_procedure,81750,True
+Rtn Gi Svc /NG-4995,Routine Gastrointestinal Transfusion Service,mapped_explicit_terms,Routine Gastrointestinal Transfusion Service,per_procedure,341525,True
+Ambulatory Ophth Dial Sess,Ambulatory Ophthalmic Dialysis Session,mapped_explicit_terms,Ambulatory Ophthalmic Dialysis Session,per_procedure,479825,False
+Programme Continuous Obst Rehab,Continuous Obstetric Rehabilitation Programme,mapped_explicit_terms,Continuous Obstetric Rehabilitation Programme,per_day,112400,True
+Preop Geriatric Ventilation Support /NG-1168,Preoperative Geriatric Ventilation Support,mapped_explicit_terms,Preoperative Geriatric Ventilation Support,per_hour,6875,False
+Ambulatory Msk Ward Bd Occ /NG-7929,Ambulatory Musculoskeletal Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Musculoskeletal Ward Bed Occupancy,per_night,154575,True
+Supv Isol Rm Occupancy,Supervised Renal Isolation Room Occupancy,mapped_explicit_terms,Supervised Renal Isolation Room Occupancy,per_night,164500,True
+Visit Cardiac Hm,Ambulatory Cardiac Home Visit,mapped_explicit_terms,Ambulatory Cardiac Home Visit,per_visit,28425,True
+Preoperative Ent Steril Svc,Preoperative Otolaryngologic Sterilisation Service,mapped_explicit_terms,Preoperative Otolaryngologic Sterilisation Service,per_procedure,134725,True
+Beds Pulmonary Biop Proc /NG-6360,Bedside Pulmonary Biopsy Procedure,mapped_explicit_terms,Bedside Pulmonary Biopsy Procedure,per_procedure,316825,True
+Img Inpatient Vascular Diagnostic,Inpatient Vascular Diagnostic Imaging,mapped_explicit_terms,Inpatient Vascular Diagnostic Imaging,per_item,12725,True
+Plng Rtn Oncology Discharge,Routine Oncology Discharge Planning,mapped_explicit_terms,Routine Oncology Discharge Planning,per_visit,29050,True
+Intensive Ger Nutr Supp /NG-4079,Intensive Geriatric Nutritional Support,mapped_explicit_terms,Intensive Geriatric Nutritional Support,per_unit_dispensed,4275,True
+Support Intens Geriatric Nutritional,Intensive Geriatric Nutritional Support,mapped_explicit_terms,Intensive Geriatric Nutritional Support,per_unit_dispensed,4275,True
+Session  Interm Hep Dial,,needs_review,,,,False
+Adv Neuro Consultation /NG-3672,Advanced Neurological Consultation,mapped_explicit_terms,Advanced Neurological Consultation,per_visit,14125,False
+Inpt Msk Wd Bed Occ,Inpatient Musculoskeletal Ward Bed Occupancy,mapped_explicit_terms,Inpatient Musculoskeletal Ward Bed Occupancy,per_day,35625,True
+Procedure Routine Urol Biopsy,Routine Urologic Biopsy Procedure,mapped_explicit_terms,Routine Urologic Biopsy Procedure,per_procedure,226950,False
+Inpatient Ren Radiother Fraction,Inpatient Renal Radiotherapy Fraction,mapped_explicit_terms,Inpatient Renal Radiotherapy Fraction,per_procedure,455300,True
+Sess Amb Psych Dial,Ambulatory Psychiatric Dialysis Session,mapped_explicit_terms,Ambulatory Psychiatric Dialysis Session,per_procedure,355550,True
+Cont - Pulmonary Wnd Cr /NG-2407,Continuous Pulmonary Wound Care,mapped_explicit_terms,Continuous Pulmonary Wound Care,per_day,144900,True
+Vasc Diag Img Inpt,Inpatient Vascular Diagnostic Imaging,mapped_explicit_terms,Inpatient Vascular Diagnostic Imaging,per_item,12725,True
+Fract Emergency Ren Radiother,Emergency Renal Radiotherapy Fraction,mapped_explicit_terms,Emergency Renal Radiotherapy Fraction,per_item,11000,False
+Monit Cont Ent Telemetry /NG-2024,Continuous Otolaryngologic Telemetry Monitoring,mapped_explicit_terms,Continuous Otolaryngologic Telemetry Monitoring,per_day,111975,False
+Occupancy Postop Metabolic Crit Cr,Postoperative Metabolic Critical Care Occupancy,mapped_explicit_terms,Postoperative Metabolic Critical Care Occupancy,per_night,59700,True
+Asst - Gi Inf Therapy /NG-1139,Assisted Gastrointestinal Infusion Therapy,mapped_explicit_terms,Assisted Gastrointestinal Infusion Therapy,per_hour,8925,True
+Intens Ger Nutr Support,Intensive Geriatric Nutritional Support,mapped_explicit_terms,Intensive Geriatric Nutritional Support,per_unit_dispensed,4275,True
+Session Inpatient Endo Dial,Inpatient Endocrine Dialysis Session,mapped_explicit_terms,Inpatient Endocrine Dialysis Session,per_procedure,81750,True
+Ext Vasc Rehabilitation Prog,Extended Vascular Rehabilitation Programme,mapped_explicit_terms,Extended Vascular Rehabilitation Programme,per_day,65400,True
+Ger Nutr Supp Std,Standard Geriatric Nutritional Support,mapped_explicit_terms,Standard Geriatric Nutritional Support,per_day,42475,True
+Compr Urologic Transport Svc,Comprehensive Urologic Transport Service,mapped_explicit_terms,Comprehensive Urologic Transport Service,per_visit,42750,True
+Rtn Derm Transfusion Service /NG-2088,Routine Dermatologic Transfusion Service,mapped_explicit_terms,Routine Dermatologic Transfusion Service,per_unit_dispensed,5325,True
+Std Geriatric Nutritional Support,Standard Geriatric Nutritional Support,mapped_explicit_terms,Standard Geriatric Nutritional Support,per_day,42475,True
+Fraction Inpatient Ren Radiother,Inpatient Renal Radiotherapy Fraction,mapped_explicit_terms,Inpatient Renal Radiotherapy Fraction,per_procedure,455300,True
+Ambulatory - Immun Endosc Proc /NG-1182,Ambulatory Immunologic Endoscopic Procedure,mapped_explicit_terms,Ambulatory Immunologic Endoscopic Procedure,per_procedure,607900,True
+Rtn  - Derm Transf Svc,Routine Dermatologic Transfusion Service,mapped_explicit_terms,Routine Dermatologic Transfusion Service,per_unit_dispensed,5325,True
+Standard Paed Biop Proc /NG-2120,Standard Paediatric Biopsy Procedure,mapped_explicit_terms,Standard Paediatric Biopsy Procedure,per_item,16100,False
+Asst  Pulmonary Theatre Time,Assisted Pulmonary Theatre Time,mapped_explicit_terms,Assisted Pulmonary Theatre Time,per_hour,6700,True
+Cont Musculoskeletal Wound Care,Continuous Musculoskeletal Wound Care,mapped_explicit_terms,Continuous Musculoskeletal Wound Care,per_day,36800,False
+Preop Ent Sterilisation Svc /NG-3994,Preoperative Otolaryngologic Sterilisation Service,mapped_explicit_terms,Preoperative Otolaryngologic Sterilisation Service,per_procedure,134725,True
+Amb Gastrointestinal Discharge Plng,,needs_review,,,,False
+Advanced Metabolic Anaes Admin,Advanced Metabolic Anaesthesia Administration,mapped_explicit_terms,Advanced Metabolic Anaesthesia Administration,per_hour,9200,False
+Comprehensive Ent Thtr Time /NG-2399,Comprehensive Otolaryngologic Theatre Time,mapped_explicit_terms,Comprehensive Otolaryngologic Theatre Time,per_hour,32100,False
+Inpatient Vascular Diag Imaging,Inpatient Vascular Diagnostic Imaging,mapped_explicit_terms,Inpatient Vascular Diagnostic Imaging,per_item,12725,True
+Cont Obst Rehab Prog,Continuous Obstetric Rehabilitation Programme,mapped_explicit_terms,Continuous Obstetric Rehabilitation Programme,per_day,112400,True
+Adv Infect Critical Cr Occ /NG-1530,Advanced Infectious Critical Care Occupancy,mapped_explicit_terms,Advanced Infectious Critical Care Occupancy,per_day,70925,False
+Inpatient Endo Dial Sess,Inpatient Endocrine Dialysis Session,mapped_explicit_terms,Inpatient Endocrine Dialysis Session,per_procedure,81750,True
+Cont Pulm Spcm Analysis,,needs_review,,,,False
+Compr Otolaryngologic Rehab /NG-4700,Comprehensive Otolaryngologic Rehabilitation Programme,mapped_explicit_terms,Comprehensive Otolaryngologic Rehabilitation Programme,per_visit,27025,True
+Fract Outpatient Radiotherapy,Outpatient Metabolic Radiotherapy Fraction,mapped_explicit_terms,Outpatient Metabolic Radiotherapy Fraction,per_item,22775,True
+Intermittent Neurological Nutr Supp,Intermittent Neurological Nutritional Support,mapped_explicit_terms,Intermittent Neurological Nutritional Support,per_day,50275,True
+Spclst - Ent Pharmaceutical Dispensing /NG-9066,Specialist Otolaryngologic Pharmaceutical Dispensing,mapped_explicit_terms,Specialist Otolaryngologic Pharmaceutical Dispensing,per_unit_dispensed,1425,True
+Psych Rehab Prog Cont,Continuous Psychiatric Rehabilitation Programme,mapped_explicit_terms,Continuous Psychiatric Rehabilitation Programme,per_visit,20300,True
+Sess Standard Endo Dialysis,Standard Endocrine Dialysis Session,mapped_explicit_terms,Standard Endocrine Dialysis Session,per_visit,37600,False
+Ambulatory - Card Home Vst,Ambulatory Cardiac Home Visit,mapped_explicit_terms,Ambulatory Cardiac Home Visit,per_visit,28425,True
+Extended Ortho Ventilation Support,,needs_review,,,,False
+Outpatient Orthopaedic Pharm Dispensing /NG-2825,,needs_review,,,,False
+Rtn Derm Transfusion Service,Routine Dermatologic Transfusion Service,mapped_explicit_terms,Routine Dermatologic Transfusion Service,per_unit_dispensed,5325,True
+Supp Postoperative Ortho Nutritional,,needs_review,,,,False
+Occ Advanced Orthopaedic Recovery Rm /NG-2920,,needs_review,,,,False
+Metabolic - Lab Pnl,,needs_review,,,,False
+Adv  Renal Consultation,,needs_review,,,,False
+Asst Specimen Anly,,needs_review,,,,False

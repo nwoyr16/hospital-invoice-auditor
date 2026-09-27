@@ -1,0 +1,22 @@
+{
+  "flagged_records_needing_pricing": 45,
+  "unique_invoice_ids": 40,
+  "blocker_counts": {
+    "ambiguous_contract_unit": 8,
+    "ambiguous_invoice_identifier": 10,
+    "bundle_partner_unresolved": 5,
+    "daily_quantity_unresolved": 5,
+    "discount_utilisation_unresolved": 2,
+    "duplicate_service_allocation_unresolved": 5,
+    "exclusion_boundary_unresolved": 5,
+    "exclusion_trigger_unresolved": 7,
+    "invalid_service_date": 6,
+    "out_of_term_date": 5,
+    "possible_unresolved_same_day_service": 8,
+    "premium_quantity_unresolved": 7,
+    "unit_conversion_unresolved": 11,
+    "unresolved_service_mapping": 20
+  },
+  "counts_overlap": true,
+  "policy": "No record promoted. Known-line subtotal is not an expected invoice total."
+}

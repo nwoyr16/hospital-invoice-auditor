@@ -1,0 +1,3 @@
+# Only PDF generation needs a third-party package.
+# Audit execution and tests use the Python standard library.
+reportlab==4.4.9

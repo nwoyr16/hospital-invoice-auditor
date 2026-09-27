@@ -1,0 +1,535 @@
+description,contract_service,mapping_status,candidate_services,expected_unit_basis,base_rate_cents,plain_rate_eligible
+fract - INTENSIVE rheum RADIOTHERAPY /CW-4214,Intensive Rheumatologic Radiotherapy Fraction,mapped_explicit_terms,Intensive Rheumatologic Radiotherapy Fraction,per_item,23425,False
+anly INTENS spcm,,needs_review,Intensive Urologic Specimen Analysis,,,False
+OCC advanced ORTHO wd,Advanced Orthopaedic Ward Bed Occupancy,mapped_explicit_terms,Advanced Orthopaedic Ward Bed Occupancy,per_night,97925,False
+intens - VASC steril SVC /CW-4993,Intensive Vascular Sterilisation Service,mapped_explicit_terms,Intensive Vascular Sterilisation Service,per_item,25350,True
+PREOP - haem IMG interpretation /CW-4475,Preoperative Haematology Imaging Interpretation,mapped_explicit_terms,Preoperative Haematology Imaging Interpretation,per_test,11375,False
+foc UROL cs CONF /CW-7956,Focused Urologic Case Conference,mapped_explicit_terms,Focused Urologic Case Conference,per_hour,20200,False
+ASST urol NURS obs /CW-5982,Assisted Urologic Nursing Observation,mapped_explicit_terms,Assisted Urologic Nursing Observation,per_day,132675,False
+hep DISCH plng spclst,Specialist Hepatic Discharge Planning,mapped_explicit_terms,Specialist Hepatic Discharge Planning,per_visit,41175,False
+amb - IMMUN ward BD occupancy /CW-2184,Ambulatory Immunologic Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Immunologic Ward Bed Occupancy,per_day,74700,False
+SUPERVISED pulmonary HM visit /CW-7640,Supervised Pulmonary Home Visit,mapped_explicit_terms,Supervised Pulmonary Home Visit,per_visit,28675,False
+ASST - obst SPCM anly /CW-7565,Assisted Obstetric Specimen Analysis,mapped_explicit_terms,Assisted Obstetric Specimen Analysis,per_test,10100,True
+CONTINUOUS infectious CRITICAL occ,Continuous Infectious Critical Care Occupancy,mapped_explicit_terms,Continuous Infectious Critical Care Occupancy,per_hour,13925,False
+cont PSYCHIATRIC rehabilitation PROG,Continuous Psychiatric Rehabilitation Programme,mapped_explicit_terms,Continuous Psychiatric Rehabilitation Programme,per_day,34900,False
+amb MSK spcm ANLY,Ambulatory Musculoskeletal Specimen Analysis,mapped_explicit_terms,Ambulatory Musculoskeletal Specimen Analysis,per_item,9550,True
+interm ONC home VST /CW-1380,Intermittent Oncology Home Visit,mapped_explicit_terms,Intermittent Oncology Home Visit,per_visit,22050,True
+vst - INTERM onc HM,Intermittent Oncology Home Visit,mapped_explicit_terms,Intermittent Oncology Home Visit,per_visit,22050,True
+VST supv PULMONARY home /CW-3675,Supervised Pulmonary Home Visit,mapped_explicit_terms,Supervised Pulmonary Home Visit,per_visit,28675,False
+CARDIAC physio SESS /CW-4455,,needs_review,Emergency Cardiac Physiotherapy Session|Outpatient Cardiac Physiotherapy Session,,,False
+ext - OBST cs CONFERENCE /CW-3448,Extended Obstetric Case Conference,mapped_explicit_terms,Extended Obstetric Case Conference,per_visit,41425,False
+monit - EXT urol TELEM /CW-7204,Extended Urologic Telemetry Monitoring,mapped_explicit_terms,Extended Urologic Telemetry Monitoring,per_day,144825,False
+ext HEPATIC disch PLNG,Extended Hepatic Discharge Planning,mapped_explicit_terms,Extended Hepatic Discharge Planning,per_hour,7950,True
+SPCLST - immunologic CONSULT,Specialist Immunologic Consultation,mapped_explicit_terms,Specialist Immunologic Consultation,per_procedure,114500,False
+POSTOP - ger IMG interpretation /CW-5101,Postoperative Geriatric Imaging Interpretation,mapped_explicit_terms,Postoperative Geriatric Imaging Interpretation,per_test,43925,True
+PROC - foc METABOLIC biopsy /CW-1566,Focused Metabolic Biopsy Procedure,mapped_explicit_terms,Focused Metabolic Biopsy Procedure,per_item,15025,False
+EXT renal WD bed OCC,Extended Renal Ward Bed Occupancy,mapped_explicit_terms,Extended Renal Ward Bed Occupancy,per_night,174050,True
+inpatient - ORTHOPAEDIC anaes ADMIN /CW-3173,Inpatient Orthopaedic Anaesthesia Administration,mapped_explicit_terms,Inpatient Orthopaedic Anaesthesia Administration,per_procedure,145950,False
+INTERM  - urol TELEM monit /CW-1964,Intermittent Urologic Telemetry Monitoring,mapped_explicit_terms,Intermittent Urologic Telemetry Monitoring,,7275,False
+conf - UROL cs /CW-3094,,needs_review,Focused Urologic Case Conference,,,False
+ASSISTED spcm ANALYSIS /CW-2232,,needs_review,Assisted Obstetric Specimen Analysis,,,False
+standard - ONC bd OCC,Standard Oncology Ward Bed Occupancy,mapped_explicit_terms,Standard Oncology Ward Bed Occupancy,per_day,57950,False
+paed THTR tm asst,Assisted Paediatric Theatre Time,mapped_explicit_terms,Assisted Paediatric Theatre Time,per_hour,9275,False
+POSTOPERATIVE card CR,Postoperative Cardiac Wound Care,mapped_explicit_terms,Postoperative Cardiac Wound Care,per_item,17325,False
+EXT ren BD occupancy /CW-7024,Extended Renal Ward Bed Occupancy,mapped_explicit_terms,Extended Renal Ward Bed Occupancy,per_night,174050,True
+onc DIAG img preop,Preoperative Oncology Diagnostic Imaging,mapped_explicit_terms,Preoperative Oncology Diagnostic Imaging,per_procedure,102650,False
+CONSULT intens PAED /CW-3137,Intensive Paediatric Consultation,mapped_explicit_terms,Intensive Paediatric Consultation,per_visit,39175,False
+supervised  RHEUM dial SESSION /CW-9091,Supervised Rheumatologic Dialysis Session,mapped_explicit_terms,Supervised Rheumatologic Dialysis Session,per_visit,17375,False
+monit EXT urol TELEM,Extended Urologic Telemetry Monitoring,mapped_explicit_terms,Extended Urologic Telemetry Monitoring,per_day,144825,False
+ASST - urol NURS obs /CW-2623,Assisted Urologic Nursing Observation,mapped_explicit_terms,Assisted Urologic Nursing Observation,per_day,132675,False
+adv  - PAED thtr /CW-9651,Advanced Paediatric Theatre Time,mapped_explicit_terms,Advanced Paediatric Theatre Time,per_hour,37100,False
+panel  INTERM neuro LAB,Intermittent Neurological Laboratory Panel,mapped_explicit_terms,Intermittent Neurological Laboratory Panel,per_test,10175,False
+RTN cardiac HM visit,Routine Cardiac Home Visit,mapped_explicit_terms,Routine Cardiac Home Visit,per_visit,16200,False
+OCC  - ambulatory PAEDIATRIC critical CR,Ambulatory Paediatric Critical Care Occupancy,mapped_explicit_terms,Ambulatory Paediatric Critical Care Occupancy,per_hour,4750,False
+PROG - amb RHEUM rehabilitation /CW-6302,Ambulatory Rheumatologic Rehabilitation Programme,mapped_explicit_terms,Ambulatory Rheumatologic Rehabilitation Programme,per_visit,38325,False
+OUTPT recov RM occ,,needs_review,Outpatient Orthopaedic Recovery Room Occupancy,,,False
+asst - PAEDIATRIC physio SESS /CW-1557,Assisted Paediatric Physiotherapy Session,mapped_explicit_terms,Assisted Paediatric Physiotherapy Session,per_hour,3150,False
+AMB - rheumatologic REHAB prog,Ambulatory Rheumatologic Rehabilitation Programme,mapped_explicit_terms,Ambulatory Rheumatologic Rehabilitation Programme,per_visit,38325,False
+SUPP amb MSK vent /CW-8558,Ambulatory Musculoskeletal Ventilation Support,mapped_explicit_terms,Ambulatory Musculoskeletal Ventilation Support,per_day,157150,False
+spclst - CARDIAC vent SUPPORT /CW-5757,Specialist Cardiac Ventilation Support,mapped_explicit_terms,Specialist Cardiac Ventilation Support,per_hour,18125,False
+POSTOP  - rheumatologic NURSING observation /CW-6924,Postoperative Rheumatologic Nursing Observation,mapped_explicit_terms,Postoperative Rheumatologic Nursing Observation,per_day,46425,False
+STD - orthopaedic CRIT care OCC /CW-2102,Standard Orthopaedic Critical Care Occupancy,mapped_explicit_terms,Standard Orthopaedic Critical Care Occupancy,per_night,148975,False
+occ  - AMB card WD bd,Ambulatory Cardiac Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Cardiac Ward Bed Occupancy,per_day,46350,False
+PROC - ext PSYCH /CW-9029,Extended Psychiatric Endoscopic Procedure,mapped_explicit_terms,Extended Psychiatric Endoscopic Procedure,per_procedure,325800,False
+OUTPT - obst DIAL sess /CW-9914,Outpatient Obstetric Dialysis Session,mapped_explicit_terms,Outpatient Obstetric Dialysis Session,per_procedure,367900,True
+FOC - metab BIOP procedure /CW-1579,Focused Metabolic Biopsy Procedure,mapped_explicit_terms,Focused Metabolic Biopsy Procedure,per_item,15025,False
+SPCLST  - hep DISCH planning /CW-7438,Specialist Hepatic Discharge Planning,mapped_explicit_terms,Specialist Hepatic Discharge Planning,per_visit,41175,False
+intermittent - REN anaes,Intermittent Renal Anaesthesia Administration,mapped_explicit_terms,Intermittent Renal Anaesthesia Administration,per_hour,6600,True
+compr - OPHTH lab PANEL /CW-3670,Comprehensive Ophthalmic Laboratory Panel,mapped_explicit_terms,Comprehensive Ophthalmic Laboratory Panel,per_test,58525,False
+OCCUPANCY adv ONC wd BD,Advanced Oncology Ward Bed Occupancy,mapped_explicit_terms,Advanced Oncology Ward Bed Occupancy,per_night,68700,True
+PREOP geriatric IMG /CW-3234,Preoperative Geriatric Diagnostic Imaging,mapped_explicit_terms,Preoperative Geriatric Diagnostic Imaging,per_test,19550,False
+occ  - AMB card WARD bed /CW-8690,Ambulatory Cardiac Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Cardiac Ward Bed Occupancy,per_day,46350,False
+compr - OPHTH lab PNL,Comprehensive Ophthalmic Laboratory Panel,mapped_explicit_terms,Comprehensive Ophthalmic Laboratory Panel,per_test,58525,False
+ADVANCED - onc WARD bd OCC,Advanced Oncology Ward Bed Occupancy,mapped_explicit_terms,Advanced Oncology Ward Bed Occupancy,per_night,68700,True
+comprehensive - OPHTH lab PNL /CW-3198,Comprehensive Ophthalmic Laboratory Panel,mapped_explicit_terms,Comprehensive Ophthalmic Laboratory Panel,per_test,58525,False
+rheum NURS obs ext,Extended Rheumatologic Nursing Observation,mapped_explicit_terms,Extended Rheumatologic Nursing Observation,per_night,87375,True
+SPCLST - immunologic CONSULTATION /CW-3950,Specialist Immunologic Consultation,mapped_explicit_terms,Specialist Immunologic Consultation,per_procedure,114500,False
+sess - SUPV rheum DIALYSIS,Supervised Rheumatologic Dialysis Session,mapped_explicit_terms,Supervised Rheumatologic Dialysis Session,per_visit,17375,False
+asst REN nutr SUPP /CW-3943,Assisted Renal Nutritional Support,mapped_explicit_terms,Assisted Renal Nutritional Support,per_unit_dispensed,3575,True
+MONIT  interm UROLOGIC telemetry /CW-1251,Intermittent Urologic Telemetry Monitoring,mapped_explicit_terms,Intermittent Urologic Telemetry Monitoring,,7275,False
+vst STD vasc HM /CW-9701,Standard Vascular Home Visit,mapped_explicit_terms,Standard Vascular Home Visit,per_visit,26200,True
+PROCEDURE - beds GI biopsy /CW-5425,Bedside Gastrointestinal Biopsy Procedure,mapped_explicit_terms,Bedside Gastrointestinal Biopsy Procedure,per_item,11075,False
+ext - HEP transf SVC /CW-9407,Extended Hepatic Transfusion Service,mapped_explicit_terms,Extended Hepatic Transfusion Service,per_unit_dispensed,8450,False
+postop GERIATRIC cs CONF /CW-2720,Postoperative Geriatric Case Conference,mapped_explicit_terms,Postoperative Geriatric Case Conference,per_hour,4275,True
+OCC  - amb PAED crit CR,Ambulatory Paediatric Critical Care Occupancy,mapped_explicit_terms,Ambulatory Paediatric Critical Care Occupancy,per_hour,4750,False
+EMERGENCY - card PHYSIOTHERAPY sess,Emergency Cardiac Physiotherapy Session,mapped_explicit_terms,Emergency Cardiac Physiotherapy Session,per_hour,9875,False
+conf - EXT obstetric CS,Extended Obstetric Case Conference,mapped_explicit_terms,Extended Obstetric Case Conference,per_visit,41425,False
+ADV ortho WD bd OCCUPANCY,Advanced Orthopaedic Ward Bed Occupancy,mapped_explicit_terms,Advanced Orthopaedic Ward Bed Occupancy,per_night,97925,False
+urol TELEM monit interm,Intermittent Urologic Telemetry Monitoring,mapped_explicit_terms,Intermittent Urologic Telemetry Monitoring,,7275,False
+occ PALLIATIVE recov RM,,needs_review,Postoperative Palliative Recovery Room Occupancy,,,False
+OUTPT rheum ANAES admin /CW-4096,Outpatient Rheumatologic Anaesthesia Administration,mapped_explicit_terms,Outpatient Rheumatologic Anaesthesia Administration,per_hour,20875,True
+gi - IMG interp,Specialist Gastrointestinal Imaging Interpretation,mapped_reviewed_inference,Specialist Gastrointestinal Imaging Interpretation,per_procedure,83625,True
+PROG - interm PSYCH rehabilitation /CW-1715,Intermittent Psychiatric Rehabilitation Programme,mapped_explicit_terms,Intermittent Psychiatric Rehabilitation Programme,per_visit,32275,False
+FRACT - elect OPHTH radiotherapy /CW-2057,Elective Ophthalmic Radiotherapy Fraction,mapped_explicit_terms,Elective Ophthalmic Radiotherapy Fraction,per_procedure,373600,False
+POSTOP - ger INTERP /CW-6488,Postoperative Geriatric Imaging Interpretation,mapped_explicit_terms,Postoperative Geriatric Imaging Interpretation,per_test,43925,True
+POSTOP paed IMG interpretation /CW-2645,Postoperative Paediatric Imaging Interpretation,mapped_explicit_terms,Postoperative Paediatric Imaging Interpretation,per_procedure,88600,False
+ext - RHEUMATOLOGIC observation /CW-5150,Extended Rheumatologic Nursing Observation,mapped_explicit_terms,Extended Rheumatologic Nursing Observation,per_night,87375,True
+beds CARD hm /CW-4363,Bedside Cardiac Home Visit,mapped_explicit_terms,Bedside Cardiac Home Visit,per_visit,64800,True
+ASST  urol OBSERVATION /CW-2070,Assisted Urologic Nursing Observation,mapped_explicit_terms,Assisted Urologic Nursing Observation,per_day,132675,False
+OUTPT urol ENDOSC proc /CW-9583,Outpatient Urologic Endoscopic Procedure,mapped_explicit_terms,Outpatient Urologic Endoscopic Procedure,per_procedure,372925,True
+PREOPERATIVE ger DIAG img /CW-7580,Preoperative Geriatric Diagnostic Imaging,mapped_explicit_terms,Preoperative Geriatric Diagnostic Imaging,per_test,19550,False
+supervised PULM anaes ADMIN,Supervised Pulmonary Anaesthesia Administration,mapped_explicit_terms,Supervised Pulmonary Anaesthesia Administration,per_hour,13500,True
+SPCLST - hep DISCHARGE plng,Specialist Hepatic Discharge Planning,mapped_explicit_terms,Specialist Hepatic Discharge Planning,per_visit,41175,False
+gi NURS obs elect,Elective Gastrointestinal Nursing Observation,mapped_explicit_terms,Elective Gastrointestinal Nursing Observation,per_day,58925,False
+STD - hep INF ther /CW-6477,Standard Hepatic Infusion Therapy,mapped_explicit_terms,Standard Hepatic Infusion Therapy,per_unit_dispensed,3975,False
+INTERMITTENT - rheum DIAL sess /CW-4841,Intermittent Rheumatologic Dialysis Session,mapped_explicit_terms,Intermittent Rheumatologic Dialysis Session,per_procedure,126900,False
+IMMUN - spclst /CW-9956,,needs_review,Specialist Immunologic Consultation,,,False
+RHEUM dial SESS SUPV,Supervised Rheumatologic Dialysis Session,mapped_explicit_terms,Supervised Rheumatologic Dialysis Session,per_visit,17375,False
+SPCLST - consult,,needs_review,Specialist Immunologic Consultation,,,False
+FOC - metab BIOPSY proc /CW-9462,Focused Metabolic Biopsy Procedure,mapped_explicit_terms,Focused Metabolic Biopsy Procedure,per_item,15025,False
+img  COMPREHENSIVE urologic /CW-6158,Comprehensive Urologic Imaging Interpretation,mapped_explicit_terms,Comprehensive Urologic Imaging Interpretation,per_test,23075,True
+svc FOC vasc TRANSPORT,Focused Vascular Transport Service,mapped_explicit_terms,Focused Vascular Transport Service,per_item,24450,False
+intens - RHEUM radiotherapy /CW-4273,Intensive Rheumatologic Radiotherapy Fraction,mapped_explicit_terms,Intensive Rheumatologic Radiotherapy Fraction,per_item,23425,False
+ASST obst SPCM anly,Assisted Obstetric Specimen Analysis,mapped_explicit_terms,Assisted Obstetric Specimen Analysis,per_test,10100,True
+OCC  - standard ORTHO cr /CW-6124,Standard Orthopaedic Critical Care Occupancy,mapped_explicit_terms,Standard Orthopaedic Critical Care Occupancy,per_night,148975,False
+OBS postop RHEUMATOLOGIC nurs,Postoperative Rheumatologic Nursing Observation,mapped_explicit_terms,Postoperative Rheumatologic Nursing Observation,per_day,46425,False
+SUPERVISED  - vasc RADIOTHER,Supervised Vascular Radiotherapy Fraction,mapped_explicit_terms,Supervised Vascular Radiotherapy Fraction,per_item,15825,False
+ADMIN - outpt RHEUM anaes /CW-8338,Outpatient Rheumatologic Anaesthesia Administration,mapped_explicit_terms,Outpatient Rheumatologic Anaesthesia Administration,per_hour,20875,True
+SUPERVISED pulm HM vst /CW-7359,Supervised Pulmonary Home Visit,mapped_explicit_terms,Supervised Pulmonary Home Visit,per_visit,28675,False
+amb - HAEMATOLOGY transf SVC /CW-5136,Ambulatory Haematology Transfusion Service,mapped_explicit_terms,Ambulatory Haematology Transfusion Service,per_procedure,402275,False
+spclst GI img INTERP /CW-5639,Specialist Gastrointestinal Imaging Interpretation,mapped_explicit_terms,Specialist Gastrointestinal Imaging Interpretation,per_procedure,83625,True
+supp SPCLST card VENT /CW-2599,Specialist Cardiac Ventilation Support,mapped_explicit_terms,Specialist Cardiac Ventilation Support,per_hour,18125,False
+HEP - inf THERAPY,,needs_review,Standard Hepatic Infusion Therapy,,,False
+ther - FOC vasc INF /CW-4721,Focused Vascular Infusion Therapy,mapped_explicit_terms,Focused Vascular Infusion Therapy,per_unit_dispensed,5775,False
+AMBULATORY - obst CS conf,Ambulatory Obstetric Case Conference,mapped_explicit_terms,Ambulatory Obstetric Case Conference,per_hour,13975,False
+IMG - preop GER diag /CW-8799,Preoperative Geriatric Diagnostic Imaging,mapped_explicit_terms,Preoperative Geriatric Diagnostic Imaging,per_test,19550,False
+AMB musculoskeletal VENT supp /CW-8775,Ambulatory Musculoskeletal Ventilation Support,mapped_explicit_terms,Ambulatory Musculoskeletal Ventilation Support,per_day,157150,False
+SUPV vascular RADIOTHER fract /CW-1727,Supervised Vascular Radiotherapy Fraction,mapped_explicit_terms,Supervised Vascular Radiotherapy Fraction,per_item,15825,False
+hep DISCH plng ext,Extended Hepatic Discharge Planning,mapped_explicit_terms,Extended Hepatic Discharge Planning,per_hour,7950,True
+NURS - elect GASTROINTESTINAL /CW-1281,Elective Gastrointestinal Nursing Observation,mapped_explicit_terms,Elective Gastrointestinal Nursing Observation,per_day,58925,False
+fract EMER metabolic RADIOTHER,Emergency Metabolic Radiotherapy Fraction,mapped_explicit_terms,Emergency Metabolic Radiotherapy Fraction,per_procedure,364925,True
+COMPR neurological ENDOSC proc /CW-4675,Comprehensive Neurological Endoscopic Procedure,mapped_explicit_terms,Comprehensive Neurological Endoscopic Procedure,per_procedure,309275,True
+OUTPT - obst DIALYSIS sess,Outpatient Obstetric Dialysis Session,mapped_explicit_terms,Outpatient Obstetric Dialysis Session,per_procedure,367900,True
+img - POSTOP onc DIAG,Postoperative Oncology Diagnostic Imaging,mapped_explicit_terms,Postoperative Oncology Diagnostic Imaging,per_item,23250,False
+PSYCH rehab PROG CONT,Continuous Psychiatric Rehabilitation Programme,mapped_explicit_terms,Continuous Psychiatric Rehabilitation Programme,per_day,34900,False
+occ - POSTOP pall RECOVERY rm,Postoperative Palliative Recovery Room Occupancy,mapped_explicit_terms,Postoperative Palliative Recovery Room Occupancy,per_night,86550,False
+IMG - preop ONC diag /CW-7126,Preoperative Oncology Diagnostic Imaging,mapped_explicit_terms,Preoperative Oncology Diagnostic Imaging,per_procedure,102650,False
+AMB  - gi NUTRITIONAL support /CW-3607,Ambulatory Gastrointestinal Nutritional Support,mapped_explicit_terms,Ambulatory Gastrointestinal Nutritional Support,per_unit_dispensed,4175,False
+ext RHEUM nurs OBS,Extended Rheumatologic Nursing Observation,mapped_explicit_terms,Extended Rheumatologic Nursing Observation,per_night,87375,True
+ophth LAB pnl std,Standard Ophthalmic Laboratory Panel,mapped_explicit_terms,Standard Ophthalmic Laboratory Panel,per_item,17925,False
+AMB - rheum REHAB programme /CW-8508,Ambulatory Rheumatologic Rehabilitation Programme,mapped_explicit_terms,Ambulatory Rheumatologic Rehabilitation Programme,per_visit,38325,False
+OCC amb PAED crit CARE /CW-9108,Ambulatory Paediatric Critical Care Occupancy,mapped_explicit_terms,Ambulatory Paediatric Critical Care Occupancy,per_hour,4750,False
+AMBULATORY obst CS conf /CW-4745,Ambulatory Obstetric Case Conference,mapped_explicit_terms,Ambulatory Obstetric Case Conference,per_hour,13975,False
+foc - VASC inf THERAPY /CW-8936,Focused Vascular Infusion Therapy,mapped_explicit_terms,Focused Vascular Infusion Therapy,per_unit_dispensed,5775,False
+intermittent - NEURO laboratory PNL,Intermittent Neurological Laboratory Panel,mapped_explicit_terms,Intermittent Neurological Laboratory Panel,per_test,10175,False
+ELECT - ophthalmic RADIOTHERAPY fract /CW-3532,Elective Ophthalmic Radiotherapy Fraction,mapped_explicit_terms,Elective Ophthalmic Radiotherapy Fraction,per_procedure,373600,False
+ASST - gastrointestinal ANAES admin /CW-6527,Assisted Gastrointestinal Anaesthesia Administration,mapped_explicit_terms,Assisted Gastrointestinal Anaesthesia Administration,per_hour,3050,False
+outpatient  - GER diag /CW-5691,Outpatient Geriatric Diagnostic Imaging,mapped_explicit_terms,Outpatient Geriatric Diagnostic Imaging,per_procedure,190450,False
+std - VASC hm VST /CW-7377,Standard Vascular Home Visit,mapped_explicit_terms,Standard Vascular Home Visit,per_visit,26200,True
+POSTOP ger IMG interpretation,Postoperative Geriatric Imaging Interpretation,mapped_explicit_terms,Postoperative Geriatric Imaging Interpretation,per_test,43925,True
+postoperative CS conference /CW-1435,,needs_review,Postoperative Geriatric Case Conference,,,False
+outpt CARD sess,Outpatient Cardiac Physiotherapy Session,mapped_explicit_terms,Outpatient Cardiac Physiotherapy Session,per_visit,27300,True
+admin - INPATIENT ortho ANAES,Inpatient Orthopaedic Anaesthesia Administration,mapped_explicit_terms,Inpatient Orthopaedic Anaesthesia Administration,per_procedure,145950,False
+administration INTERM ren ANAES /CW-3269,Intermittent Renal Anaesthesia Administration,mapped_explicit_terms,Intermittent Renal Anaesthesia Administration,per_hour,6600,True
+ADMIN - outpt RHEUM,Outpatient Rheumatologic Anaesthesia Administration,mapped_explicit_terms,Outpatient Rheumatologic Anaesthesia Administration,per_hour,20875,True
+assisted - NUTR supp,,needs_review,Assisted Renal Nutritional Support,,,False
+EXT - psychiatric ENDOSC procedure,Extended Psychiatric Endoscopic Procedure,mapped_explicit_terms,Extended Psychiatric Endoscopic Procedure,per_procedure,325800,False
+OCC adv ONC ward BD /CW-1103,Advanced Oncology Ward Bed Occupancy,mapped_explicit_terms,Advanced Oncology Ward Bed Occupancy,per_night,68700,True
+SESS - emergency CARDIAC physio,Emergency Cardiac Physiotherapy Session,mapped_explicit_terms,Emergency Cardiac Physiotherapy Session,per_hour,9875,False
+OBST cs CONF EXT,Extended Obstetric Case Conference,mapped_explicit_terms,Extended Obstetric Case Conference,per_visit,41425,False
+ASST - paediatric THEATRE tm /CW-7535,Assisted Paediatric Theatre Time,mapped_explicit_terms,Assisted Paediatric Theatre Time,per_hour,9275,False
+SPCLST - hep DISCH planning,Specialist Hepatic Discharge Planning,mapped_explicit_terms,Specialist Hepatic Discharge Planning,per_visit,41175,False
+ADMIN - outpt RHEUM anaes,Outpatient Rheumatologic Anaesthesia Administration,mapped_explicit_terms,Outpatient Rheumatologic Anaesthesia Administration,per_hour,20875,True
+AMB paed CRIT cr OCCUPANCY /CW-5795,Ambulatory Paediatric Critical Care Occupancy,mapped_explicit_terms,Ambulatory Paediatric Critical Care Occupancy,per_hour,4750,False
+POSTOP  paed IMG interp,Postoperative Paediatric Imaging Interpretation,mapped_explicit_terms,Postoperative Paediatric Imaging Interpretation,per_procedure,88600,False
+SUPP - amb MSK vent /CW-6725,Ambulatory Musculoskeletal Ventilation Support,mapped_explicit_terms,Ambulatory Musculoskeletal Ventilation Support,per_day,157150,False
+foc VASCULAR transport SVC,Focused Vascular Transport Service,mapped_explicit_terms,Focused Vascular Transport Service,per_item,24450,False
+ASSISTED  - paed THTR tm /CW-7552,Assisted Paediatric Theatre Time,mapped_explicit_terms,Assisted Paediatric Theatre Time,per_hour,9275,False
+extended  HEP transfusion SVC,Extended Hepatic Transfusion Service,mapped_explicit_terms,Extended Hepatic Transfusion Service,per_unit_dispensed,8450,False
+POSTOP - card WND care /CW-5796,Postoperative Cardiac Wound Care,mapped_explicit_terms,Postoperative Cardiac Wound Care,per_item,17325,False
+tm OUTPT urol THTR,Outpatient Urologic Theatre Time,mapped_explicit_terms,Outpatient Urologic Theatre Time,per_hour,7650,True
+TM asst PAEDIATRIC thtr /CW-4279,Assisted Paediatric Theatre Time,mapped_explicit_terms,Assisted Paediatric Theatre Time,per_hour,9275,False
+adv  - PAED thtr TM,Advanced Paediatric Theatre Time,mapped_explicit_terms,Advanced Paediatric Theatre Time,per_hour,37100,False
+urol TELEM monit ext,Extended Urologic Telemetry Monitoring,mapped_explicit_terms,Extended Urologic Telemetry Monitoring,per_day,144825,False
+spclst - CARD ventilation SUPP /CW-4904,Specialist Cardiac Ventilation Support,mapped_explicit_terms,Specialist Cardiac Ventilation Support,per_hour,18125,False
+FOCUSED biop PROC,,needs_review,Focused Metabolic Biopsy Procedure,,,False
+ASST - gi ANAES admin,Assisted Gastrointestinal Anaesthesia Administration,mapped_explicit_terms,Assisted Gastrointestinal Anaesthesia Administration,per_hour,3050,False
+INTERP preoperative HAEM img,Preoperative Haematology Imaging Interpretation,mapped_explicit_terms,Preoperative Haematology Imaging Interpretation,per_test,11375,False
+AMB  msk VENT supp,Ambulatory Musculoskeletal Ventilation Support,mapped_explicit_terms,Ambulatory Musculoskeletal Ventilation Support,per_day,157150,False
+haematology - TRANSF svc,Ambulatory Haematology Transfusion Service,mapped_reviewed_inference,Ambulatory Haematology Transfusion Service,per_procedure,402275,False
+INPT - psych HM visit /CW-4170,Inpatient Psychiatric Home Visit,mapped_explicit_terms,Inpatient Psychiatric Home Visit,per_visit,19275,False
+ASSISTED gi ANAES admin /CW-1036,Assisted Gastrointestinal Anaesthesia Administration,mapped_explicit_terms,Assisted Gastrointestinal Anaesthesia Administration,per_hour,3050,False
+INPT psych HOME vst /CW-1371,Inpatient Psychiatric Home Visit,mapped_explicit_terms,Inpatient Psychiatric Home Visit,per_visit,19275,False
+OCC  - outpt ORTHOPAEDIC recov ROOM,Outpatient Orthopaedic Recovery Room Occupancy,mapped_explicit_terms,Outpatient Orthopaedic Recovery Room Occupancy,per_hour,11025,False
+elective - OBST transf SERVICE /CW-5652,Elective Obstetric Transfusion Service,mapped_explicit_terms,Elective Obstetric Transfusion Service,per_unit_dispensed,1425,False
+INTERMITTENT rheum DIALYSIS session /CW-3359,Intermittent Rheumatologic Dialysis Session,mapped_explicit_terms,Intermittent Rheumatologic Dialysis Session,per_procedure,126900,False
+beds CARD hm VST,Bedside Cardiac Home Visit,mapped_explicit_terms,Bedside Cardiac Home Visit,per_visit,64800,True
+SUPV - vascular RADIOTHERAPY fract,Supervised Vascular Radiotherapy Fraction,mapped_explicit_terms,Supervised Vascular Radiotherapy Fraction,per_item,15825,False
+PREOP - msk RECOVERY room OCCUPANCY /CW-7703,Preoperative Musculoskeletal Recovery Room Occupancy,mapped_explicit_terms,Preoperative Musculoskeletal Recovery Room Occupancy,per_night,162775,True
+elective - NEURO wd BD occ,Elective Neurological Ward Bed Occupancy,mapped_explicit_terms,Elective Neurological Ward Bed Occupancy,per_night,170125,True
+POSTOP - rheum NURS obs,Postoperative Rheumatologic Nursing Observation,mapped_explicit_terms,Postoperative Rheumatologic Nursing Observation,per_day,46425,False
+pnl - INTERM neuro LABORATORY /CW-8821,Intermittent Neurological Laboratory Panel,mapped_explicit_terms,Intermittent Neurological Laboratory Panel,per_test,10175,False
+INTENS - paed CONSULT,Intensive Paediatric Consultation,mapped_explicit_terms,Intensive Paediatric Consultation,per_visit,39175,False
+emer METAB radiother FRACT,Emergency Metabolic Radiotherapy Fraction,mapped_explicit_terms,Emergency Metabolic Radiotherapy Fraction,per_procedure,364925,True
+tm - OUTPT urol THEATRE /CW-3657,Outpatient Urologic Theatre Time,mapped_explicit_terms,Outpatient Urologic Theatre Time,per_hour,7650,True
+OUTPT  urol ENDOSCOPIC proc,Outpatient Urologic Endoscopic Procedure,mapped_explicit_terms,Outpatient Urologic Endoscopic Procedure,per_procedure,372925,True
+CARD hm VST RTN,Routine Cardiac Home Visit,mapped_explicit_terms,Routine Cardiac Home Visit,per_visit,16200,False
+INTERM - rheum SESS /CW-7476,Intermittent Rheumatologic Dialysis Session,mapped_explicit_terms,Intermittent Rheumatologic Dialysis Session,per_procedure,126900,False
+elect OBSTETRIC transf SVC /CW-6737,Elective Obstetric Transfusion Service,mapped_explicit_terms,Elective Obstetric Transfusion Service,per_unit_dispensed,1425,False
+std - PAED dial SESS /CW-6582,Standard Paediatric Dialysis Session,mapped_explicit_terms,Standard Paediatric Dialysis Session,per_procedure,368050,True
+RTN - card HM vst /CW-5145,Routine Cardiac Home Visit,mapped_explicit_terms,Routine Cardiac Home Visit,per_visit,16200,False
+OCC - std CRIT cr /CW-1779,,needs_review,Standard Orthopaedic Critical Care Occupancy,,,False
+ELECT - nurs OBS,,needs_review,Elective Gastrointestinal Nursing Observation,,,False
+OCCUPANCY - supv IMMUN wd BD /CW-8876,Supervised Immunologic Ward Bed Occupancy,mapped_explicit_terms,Supervised Immunologic Ward Bed Occupancy,per_night,194400,False
+SPECIALIST immunologic CONSULT /CW-1309,Specialist Immunologic Consultation,mapped_explicit_terms,Specialist Immunologic Consultation,per_procedure,114500,False
+GER diag IMG OUTPT,Outpatient Geriatric Diagnostic Imaging,mapped_explicit_terms,Outpatient Geriatric Diagnostic Imaging,per_procedure,190450,False
+INPT - psych HOME vst,Inpatient Psychiatric Home Visit,mapped_explicit_terms,Inpatient Psychiatric Home Visit,per_visit,19275,False
+CONF intens GER cs /CW-3922,Intensive Geriatric Case Conference,mapped_explicit_terms,Intensive Geriatric Case Conference,per_visit,10475,False
+postop - PALLIATIVE recov RM occ /CW-4182,Postoperative Palliative Recovery Room Occupancy,mapped_explicit_terms,Postoperative Palliative Recovery Room Occupancy,per_night,86550,False
+OBST cs CONF AMB,Ambulatory Obstetric Case Conference,mapped_explicit_terms,Ambulatory Obstetric Case Conference,per_hour,13975,False
+ONC wd BD occ ADV,Advanced Oncology Ward Bed Occupancy,mapped_explicit_terms,Advanced Oncology Ward Bed Occupancy,per_night,68700,True
+PREOP - musculoskeletal RECOV rm OCC,Preoperative Musculoskeletal Recovery Room Occupancy,mapped_explicit_terms,Preoperative Musculoskeletal Recovery Room Occupancy,per_night,162775,True
+OCCUPANCY - adv ORTHO wd BD /CW-5531,Advanced Orthopaedic Ward Bed Occupancy,mapped_explicit_terms,Advanced Orthopaedic Ward Bed Occupancy,per_night,97925,False
+GER cs CONF INTENS,Intensive Geriatric Case Conference,mapped_explicit_terms,Intensive Geriatric Case Conference,per_visit,10475,False
+ASST - card VENT supp,Assisted Cardiac Ventilation Support,mapped_explicit_terms,Assisted Cardiac Ventilation Support,per_day,155700,False
+monit  - POSTOP otolaryngologic TELEM /CW-5715,Postoperative Otolaryngologic Telemetry Monitoring,mapped_explicit_terms,Postoperative Otolaryngologic Telemetry Monitoring,per_hour,10000,False
+OCC supv IMMUN wd BED /CW-7552,Supervised Immunologic Ward Bed Occupancy,mapped_explicit_terms,Supervised Immunologic Ward Bed Occupancy,per_night,194400,False
+prog CONT rehab /CW-3359,,needs_review,Continuous Psychiatric Rehabilitation Programme,,,False
+std - DIAL sess /CW-2606,,needs_review,Standard Paediatric Dialysis Session,,,False
+emer  - METAB radiother,Emergency Metabolic Radiotherapy Fraction,mapped_explicit_terms,Emergency Metabolic Radiotherapy Fraction,per_procedure,364925,True
+CARE - postop CARDIAC wnd /CW-2116,Postoperative Cardiac Wound Care,mapped_explicit_terms,Postoperative Cardiac Wound Care,per_item,17325,False
+CONTINUOUS gi TRANSF svc,Continuous Gastrointestinal Transfusion Service,mapped_explicit_terms,Continuous Gastrointestinal Transfusion Service,per_procedure,308100,False
+focused UROL cs CONFERENCE,Focused Urologic Case Conference,mapped_explicit_terms,Focused Urologic Case Conference,per_hour,20200,False
+supp - ASSISTED renal NUTR /CW-6071,Assisted Renal Nutritional Support,mapped_explicit_terms,Assisted Renal Nutritional Support,per_unit_dispensed,3575,True
+INTENS - geriatric CS conference /CW-7622,Intensive Geriatric Case Conference,mapped_explicit_terms,Intensive Geriatric Case Conference,per_visit,10475,False
+INPATIENT - psych HM vst /CW-9305,Inpatient Psychiatric Home Visit,mapped_explicit_terms,Inpatient Psychiatric Home Visit,per_visit,19275,False
+postop  - PALLIATIVE recov ROOM occupancy /CW-6043,Postoperative Palliative Recovery Room Occupancy,mapped_explicit_terms,Postoperative Palliative Recovery Room Occupancy,per_night,86550,False
+svc - INTENS vasc STERILISATION,Intensive Vascular Sterilisation Service,mapped_explicit_terms,Intensive Vascular Sterilisation Service,per_item,25350,True
+ORTHOPAEDIC recov RM occupancy /CW-4525,,needs_review,Outpatient Orthopaedic Recovery Room Occupancy,,,False
+assisted - PAED physio SESS /CW-5564,Assisted Paediatric Physiotherapy Session,mapped_explicit_terms,Assisted Paediatric Physiotherapy Session,per_hour,3150,False
+CARD physio SESS EMER,Emergency Cardiac Physiotherapy Session,mapped_explicit_terms,Emergency Cardiac Physiotherapy Session,per_hour,9875,False
+prog CONT psych REHAB /CW-9206,Continuous Psychiatric Rehabilitation Programme,mapped_explicit_terms,Continuous Psychiatric Rehabilitation Programme,per_day,34900,False
+TRANSF - cont GI,Continuous Gastrointestinal Transfusion Service,mapped_explicit_terms,Continuous Gastrointestinal Transfusion Service,per_procedure,308100,False
+ortho - ANAES administration,,needs_review,Inpatient Orthopaedic Anaesthesia Administration,,,False
+COMPR neuro ENDOSCOPIC proc,Comprehensive Neurological Endoscopic Procedure,mapped_explicit_terms,Comprehensive Neurological Endoscopic Procedure,per_procedure,309275,True
+STD - ophthalmic LAB pnl,Standard Ophthalmic Laboratory Panel,mapped_explicit_terms,Standard Ophthalmic Laboratory Panel,per_item,17925,False
+prog - EMER rheum REHAB /CW-5035,Emergency Rheumatologic Rehabilitation Programme,mapped_explicit_terms,Emergency Rheumatologic Rehabilitation Programme,per_day,62000,False
+PREOP - haematology IMG,Preoperative Haematology Imaging Interpretation,mapped_explicit_terms,Preoperative Haematology Imaging Interpretation,per_test,11375,False
+STD - orthopaedic CRIT cr OCC /CW-7769,Standard Orthopaedic Critical Care Occupancy,mapped_explicit_terms,Standard Orthopaedic Critical Care Occupancy,per_night,148975,False
+supervised RHEUM dial SESS,Supervised Rheumatologic Dialysis Session,mapped_explicit_terms,Supervised Rheumatologic Dialysis Session,per_visit,17375,False
+PROC compr NEURO endoscopic /CW-6452,Comprehensive Neurological Endoscopic Procedure,mapped_explicit_terms,Comprehensive Neurological Endoscopic Procedure,per_procedure,309275,True
+AMBULATORY - paed CRITICAL cr OCC,Ambulatory Paediatric Critical Care Occupancy,mapped_explicit_terms,Ambulatory Paediatric Critical Care Occupancy,per_hour,4750,False
+foc UROL cs CONF /CW-2324,Focused Urologic Case Conference,mapped_explicit_terms,Focused Urologic Case Conference,per_hour,20200,False
+PREOP - haem INTERP,Preoperative Haematology Imaging Interpretation,mapped_explicit_terms,Preoperative Haematology Imaging Interpretation,per_test,11375,False
+rheum - RADIOTHERAPY fract /CW-5238,,needs_review,Intensive Rheumatologic Radiotherapy Fraction,,,False
+elect  OBSTETRIC transf SVC /CW-6472,Elective Obstetric Transfusion Service,mapped_explicit_terms,Elective Obstetric Transfusion Service,per_unit_dispensed,1425,False
+hm - ADV palliative,Advanced Palliative Home Visit,mapped_explicit_terms,Advanced Palliative Home Visit,per_visit,11450,True
+elective - NEURO ward BED occ,Elective Neurological Ward Bed Occupancy,mapped_explicit_terms,Elective Neurological Ward Bed Occupancy,per_night,170125,True
+POSTOP - ger IMG interp,Postoperative Geriatric Imaging Interpretation,mapped_explicit_terms,Postoperative Geriatric Imaging Interpretation,per_test,43925,True
+AMB - gastrointestinal NUTR supp /CW-3413,Ambulatory Gastrointestinal Nutritional Support,mapped_explicit_terms,Ambulatory Gastrointestinal Nutritional Support,per_unit_dispensed,4175,False
+therapy  - FOC vasc INFUSION /CW-1063,Focused Vascular Infusion Therapy,mapped_explicit_terms,Focused Vascular Infusion Therapy,per_unit_dispensed,5775,False
+REN - wd BD occ /CW-4382,,needs_review,Extended Renal Ward Bed Occupancy,,,False
+visit BEDS cardiac HM,Bedside Cardiac Home Visit,mapped_explicit_terms,Bedside Cardiac Home Visit,per_visit,64800,True
+postop - PALL recovery RM occupancy,Postoperative Palliative Recovery Room Occupancy,mapped_explicit_terms,Postoperative Palliative Recovery Room Occupancy,per_night,86550,False
+adv PALL hm VST /CW-7657,Advanced Palliative Home Visit,mapped_explicit_terms,Advanced Palliative Home Visit,per_visit,11450,True
+OUTPATIENT - obst DIAL sess,Outpatient Obstetric Dialysis Session,mapped_explicit_terms,Outpatient Obstetric Dialysis Session,per_procedure,367900,True
+STD - ophth LAB pnl /CW-8684,Standard Ophthalmic Laboratory Panel,mapped_explicit_terms,Standard Ophthalmic Laboratory Panel,per_item,17925,False
+amb IMMUN wd BD occ /CW-7522,Ambulatory Immunologic Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Immunologic Ward Bed Occupancy,per_day,74700,False
+INTERM - urol TELEM monit,Intermittent Urologic Telemetry Monitoring,mapped_explicit_terms,Intermittent Urologic Telemetry Monitoring,,7275,False
+postop ONC img /CW-9715,Postoperative Oncology Diagnostic Imaging,mapped_explicit_terms,Postoperative Oncology Diagnostic Imaging,per_item,23250,False
+rheum NURS obs postop,Postoperative Rheumatologic Nursing Observation,mapped_explicit_terms,Postoperative Rheumatologic Nursing Observation,per_day,46425,False
+standard - VASC home VST /CW-2287,Standard Vascular Home Visit,mapped_explicit_terms,Standard Vascular Home Visit,per_visit,26200,True
+occ - AMBULATORY immun WD bd,Ambulatory Immunologic Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Immunologic Ward Bed Occupancy,per_day,74700,False
+postop  PAED sterilisation SVC,Postoperative Paediatric Sterilisation Service,mapped_explicit_terms,Postoperative Paediatric Sterilisation Service,per_item,16050,False
+admin - SUPV pulm ANAES,Supervised Pulmonary Anaesthesia Administration,mapped_explicit_terms,Supervised Pulmonary Anaesthesia Administration,per_hour,13500,True
+THER - standard HEP inf /CW-8309,Standard Hepatic Infusion Therapy,mapped_explicit_terms,Standard Hepatic Infusion Therapy,per_unit_dispensed,3975,False
+conf  - EXT obst CS /CW-8663,Extended Obstetric Case Conference,mapped_explicit_terms,Extended Obstetric Case Conference,per_visit,41425,False
+intens  UROLOGIC spcm ANALYSIS /CW-5532,Intensive Urologic Specimen Analysis,mapped_explicit_terms,Intensive Urologic Specimen Analysis,per_item,19675,False
+CONF  intens GER case,Intensive Geriatric Case Conference,mapped_explicit_terms,Intensive Geriatric Case Conference,per_visit,10475,False
+AMB gi NUTR supp,Ambulatory Gastrointestinal Nutritional Support,mapped_explicit_terms,Ambulatory Gastrointestinal Nutritional Support,per_unit_dispensed,4175,False
+outpt GER diag IMG /CW-6232,Outpatient Geriatric Diagnostic Imaging,mapped_explicit_terms,Outpatient Geriatric Diagnostic Imaging,per_procedure,190450,False
+ADV - ortho WD bd OCC,Advanced Orthopaedic Ward Bed Occupancy,mapped_explicit_terms,Advanced Orthopaedic Ward Bed Occupancy,per_night,97925,False
+THER std HEP inf /CW-1052,Standard Hepatic Infusion Therapy,mapped_explicit_terms,Standard Hepatic Infusion Therapy,per_unit_dispensed,3975,False
+INTERM  - rheum DIAL sess /CW-1055,Intermittent Rheumatologic Dialysis Session,mapped_explicit_terms,Intermittent Rheumatologic Dialysis Session,per_procedure,126900,False
+GER cs CONF POSTOP,Postoperative Geriatric Case Conference,mapped_explicit_terms,Postoperative Geriatric Case Conference,per_hour,4275,True
+postop ONCOLOGY imaging /CW-3721,Postoperative Oncology Diagnostic Imaging,mapped_explicit_terms,Postoperative Oncology Diagnostic Imaging,per_item,23250,False
+PLANNING spclst HEP disch,Specialist Hepatic Discharge Planning,mapped_explicit_terms,Specialist Hepatic Discharge Planning,per_visit,41175,False
+rheum REHAB prog amb,Ambulatory Rheumatologic Rehabilitation Programme,mapped_explicit_terms,Ambulatory Rheumatologic Rehabilitation Programme,per_visit,38325,False
+OBS - gi NURS /CW-2992,,needs_review,Elective Gastrointestinal Nursing Observation|Supervised Gastrointestinal Nursing Observation,,,False
+CR std ORTHOPAEDIC crit,Standard Orthopaedic Critical Care Occupancy,mapped_explicit_terms,Standard Orthopaedic Critical Care Occupancy,per_night,148975,False
+conference - POSTOPERATIVE ger CS /CW-6353,Postoperative Geriatric Case Conference,mapped_explicit_terms,Postoperative Geriatric Case Conference,per_hour,4275,True
+admin REN anaesthesia,Intermittent Renal Anaesthesia Administration,mapped_reviewed_inference,Intermittent Renal Anaesthesia Administration,per_hour,6600,True
+PROG - interm PSYCH,Intermittent Psychiatric Rehabilitation Programme,mapped_explicit_terms,Intermittent Psychiatric Rehabilitation Programme,per_visit,32275,False
+BEDS  gi BIOPSY proc /CW-1241,Bedside Gastrointestinal Biopsy Procedure,mapped_explicit_terms,Bedside Gastrointestinal Biopsy Procedure,per_item,11075,False
+ONC wd BD occ STD,Standard Oncology Ward Bed Occupancy,mapped_explicit_terms,Standard Oncology Ward Bed Occupancy,per_day,57950,False
+OBSERVATION  postop RHEUM nurs,Postoperative Rheumatologic Nursing Observation,mapped_explicit_terms,Postoperative Rheumatologic Nursing Observation,per_day,46425,False
+interp - COMPR urol IMG /CW-7467,Comprehensive Urologic Imaging Interpretation,mapped_explicit_terms,Comprehensive Urologic Imaging Interpretation,per_test,23075,True
+ortho  - ANAES admin /CW-7356,,needs_review,Inpatient Orthopaedic Anaesthesia Administration,,,False
+monit  POSTOPERATIVE otolaryngologic TELEMETRY,Postoperative Otolaryngologic Telemetry Monitoring,mapped_explicit_terms,Postoperative Otolaryngologic Telemetry Monitoring,per_hour,10000,False
+POSTOPERATIVE rheum NURS obs /CW-2573,Postoperative Rheumatologic Nursing Observation,mapped_explicit_terms,Postoperative Rheumatologic Nursing Observation,per_day,46425,False
+AMBULATORY obst CS conf /CW-8021,Ambulatory Obstetric Case Conference,mapped_explicit_terms,Ambulatory Obstetric Case Conference,per_hour,13975,False
+AMB obst CONF /CW-5695,Ambulatory Obstetric Case Conference,mapped_explicit_terms,Ambulatory Obstetric Case Conference,per_hour,13975,False
+PREOP msk RECOV rm OCC,Preoperative Musculoskeletal Recovery Room Occupancy,mapped_explicit_terms,Preoperative Musculoskeletal Recovery Room Occupancy,per_night,162775,True
+outpt CARDIAC physiotherapy SESS /CW-3911,Outpatient Cardiac Physiotherapy Session,mapped_explicit_terms,Outpatient Cardiac Physiotherapy Session,per_visit,27300,True
+adv - PALL hm VST /CW-2046,Advanced Palliative Home Visit,mapped_explicit_terms,Advanced Palliative Home Visit,per_visit,11450,True
+foc UROLOGIC cs CONFERENCE,Focused Urologic Case Conference,mapped_explicit_terms,Focused Urologic Case Conference,per_hour,20200,False
+ext HEPATIC transfusion SVC /CW-8250,Extended Hepatic Transfusion Service,mapped_explicit_terms,Extended Hepatic Transfusion Service,per_unit_dispensed,8450,False
+CARE postop CARDIAC wnd,Postoperative Cardiac Wound Care,mapped_explicit_terms,Postoperative Cardiac Wound Care,per_item,17325,False
+STD - ophth LAB pnl,Standard Ophthalmic Laboratory Panel,mapped_explicit_terms,Standard Ophthalmic Laboratory Panel,per_item,17925,False
+EXT psych ENDOSC proc,Extended Psychiatric Endoscopic Procedure,mapped_explicit_terms,Extended Psychiatric Endoscopic Procedure,per_procedure,325800,False
+outpt - CARDIAC physio,Outpatient Cardiac Physiotherapy Session,mapped_explicit_terms,Outpatient Cardiac Physiotherapy Session,per_visit,27300,True
+STD ophthalmic LAB pnl,Standard Ophthalmic Laboratory Panel,mapped_explicit_terms,Standard Ophthalmic Laboratory Panel,per_item,17925,False
+visit STD vasc,Standard Vascular Home Visit,mapped_explicit_terms,Standard Vascular Home Visit,per_visit,26200,True
+ext - HEPATIC transfusion SVC /CW-2178,Extended Hepatic Transfusion Service,mapped_explicit_terms,Extended Hepatic Transfusion Service,per_unit_dispensed,8450,False
+amb - MSK spcm ANLY,Ambulatory Musculoskeletal Specimen Analysis,mapped_explicit_terms,Ambulatory Musculoskeletal Specimen Analysis,per_item,9550,True
+CARD physio SESS OUTPT,Outpatient Cardiac Physiotherapy Session,mapped_explicit_terms,Outpatient Cardiac Physiotherapy Session,per_visit,27300,True
+RHEUM rehabilitation PROGRAMME /CW-4700,,needs_review,Ambulatory Rheumatologic Rehabilitation Programme|Emergency Rheumatologic Rehabilitation Programme,,,False
+IMMUN wd BD occ AMB,Ambulatory Immunologic Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Immunologic Ward Bed Occupancy,per_day,74700,False
+msk - SPCM analysis,,needs_review,Ambulatory Musculoskeletal Specimen Analysis,,,False
+OUTPT - obst DIAL sess /CW-7015,Outpatient Obstetric Dialysis Session,mapped_explicit_terms,Outpatient Obstetric Dialysis Session,per_procedure,367900,True
+ENDOSC - outpatient UROLOGIC /CW-5618,Outpatient Urologic Endoscopic Procedure,mapped_explicit_terms,Outpatient Urologic Endoscopic Procedure,per_procedure,372925,True
+occ AMB cardiac WD bd,Ambulatory Cardiac Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Cardiac Ward Bed Occupancy,per_day,46350,False
+OUTPATIENT - rheum ADMINISTRATION /CW-5971,Outpatient Rheumatologic Anaesthesia Administration,mapped_explicit_terms,Outpatient Rheumatologic Anaesthesia Administration,per_hour,20875,True
+PROC - outpt UROL endosc /CW-2734,Outpatient Urologic Endoscopic Procedure,mapped_explicit_terms,Outpatient Urologic Endoscopic Procedure,per_procedure,372925,True
+FRACT - elect OPHTH radiother /CW-4974,Elective Ophthalmic Radiotherapy Fraction,mapped_explicit_terms,Elective Ophthalmic Radiotherapy Fraction,per_procedure,373600,False
+SESS  outpt OBST dial /CW-7039,Outpatient Obstetric Dialysis Session,mapped_explicit_terms,Outpatient Obstetric Dialysis Session,per_procedure,367900,True
+supv RHEUM sess /CW-6316,Supervised Rheumatologic Dialysis Session,mapped_explicit_terms,Supervised Rheumatologic Dialysis Session,per_visit,17375,False
+SESS interm RHEUM dial /CW-5468,Intermittent Rheumatologic Dialysis Session,mapped_explicit_terms,Intermittent Rheumatologic Dialysis Session,per_procedure,126900,False
+OCC - supv IMMUN wd BED /CW-6089,Supervised Immunologic Ward Bed Occupancy,mapped_explicit_terms,Supervised Immunologic Ward Bed Occupancy,per_night,194400,False
+STD - ophth LAB pnl /CW-2452,Standard Ophthalmic Laboratory Panel,mapped_explicit_terms,Standard Ophthalmic Laboratory Panel,per_item,17925,False
+spclst - GI img INTERP /CW-7861,Specialist Gastrointestinal Imaging Interpretation,mapped_explicit_terms,Specialist Gastrointestinal Imaging Interpretation,per_procedure,83625,True
+SUPERVISED - pulmonary HM vst /CW-3719,Supervised Pulmonary Home Visit,mapped_explicit_terms,Supervised Pulmonary Home Visit,per_visit,28675,False
+foc - VASC transp SVC,Focused Vascular Transport Service,mapped_explicit_terms,Focused Vascular Transport Service,per_item,24450,False
+SUPP  ambulatory GI nutr /CW-8509,Ambulatory Gastrointestinal Nutritional Support,mapped_explicit_terms,Ambulatory Gastrointestinal Nutritional Support,per_unit_dispensed,4175,False
+outpt - GER diagnostic IMG,Outpatient Geriatric Diagnostic Imaging,mapped_explicit_terms,Outpatient Geriatric Diagnostic Imaging,per_procedure,190450,False
+amb MSK spcm,Ambulatory Musculoskeletal Specimen Analysis,mapped_explicit_terms,Ambulatory Musculoskeletal Specimen Analysis,per_item,9550,True
+INTENS - ger CASE conf,Intensive Geriatric Case Conference,mapped_explicit_terms,Intensive Geriatric Case Conference,per_visit,10475,False
+AMB obst CS conf,Ambulatory Obstetric Case Conference,mapped_explicit_terms,Ambulatory Obstetric Case Conference,per_hour,13975,False
+amb  - HAEM transfusion SVC /CW-5631,Ambulatory Haematology Transfusion Service,mapped_explicit_terms,Ambulatory Haematology Transfusion Service,per_procedure,402275,False
+adv - VASC endosc PROCEDURE /CW-2084,Advanced Vascular Endoscopic Procedure,mapped_explicit_terms,Advanced Vascular Endoscopic Procedure,per_procedure,321775,False
+sess  - STD paediatric DIAL /CW-3203,Standard Paediatric Dialysis Session,mapped_explicit_terms,Standard Paediatric Dialysis Session,per_procedure,368050,True
+interm NEURO lab PNL,Intermittent Neurological Laboratory Panel,mapped_explicit_terms,Intermittent Neurological Laboratory Panel,per_test,10175,False
+SPCLST immunologic /CW-6493,,needs_review,Specialist Immunologic Consultation,,,False
+postop ONC diagnostic IMG,Postoperative Oncology Diagnostic Imaging,mapped_explicit_terms,Postoperative Oncology Diagnostic Imaging,per_item,23250,False
+supv  NURSING obs,,needs_review,Supervised Gastrointestinal Nursing Observation,,,False
+IMG - preoperative ONC,Preoperative Oncology Diagnostic Imaging,mapped_explicit_terms,Preoperative Oncology Diagnostic Imaging,per_procedure,102650,False
+beds - OBST img INTERPRETATION,Bedside Obstetric Imaging Interpretation,mapped_explicit_terms,Bedside Obstetric Imaging Interpretation,per_procedure,365675,True
+supv  - GASTROINTESTINAL nurs OBS,Supervised Gastrointestinal Nursing Observation,mapped_explicit_terms,Supervised Gastrointestinal Nursing Observation,per_night,156825,False
+img - OUTPT ger,Outpatient Geriatric Diagnostic Imaging,mapped_explicit_terms,Outpatient Geriatric Diagnostic Imaging,per_procedure,190450,False
+interm - ONCOLOGY hm VST /CW-7658,Intermittent Oncology Home Visit,mapped_explicit_terms,Intermittent Oncology Home Visit,per_visit,22050,True
+PREOP - onc DIAGNOSTIC img /CW-1315,Preoperative Oncology Diagnostic Imaging,mapped_explicit_terms,Preoperative Oncology Diagnostic Imaging,per_procedure,102650,False
+service - POSTOP paed STERIL,Postoperative Paediatric Sterilisation Service,mapped_explicit_terms,Postoperative Paediatric Sterilisation Service,per_item,16050,False
+PREOP - onc DIAG /CW-5837,Preoperative Oncology Diagnostic Imaging,mapped_explicit_terms,Preoperative Oncology Diagnostic Imaging,per_procedure,102650,False
+obs SUPERVISED gi NURSING /CW-4223,Supervised Gastrointestinal Nursing Observation,mapped_explicit_terms,Supervised Gastrointestinal Nursing Observation,per_night,156825,False
+adv PAED thtr TM,Advanced Paediatric Theatre Time,mapped_explicit_terms,Advanced Paediatric Theatre Time,per_hour,37100,False
+supp  SPCLST cardiac VENT /CW-8694,Specialist Cardiac Ventilation Support,mapped_explicit_terms,Specialist Cardiac Ventilation Support,per_hour,18125,False
+intens - UROL spcm ANALYSIS /CW-2272,Intensive Urologic Specimen Analysis,mapped_explicit_terms,Intensive Urologic Specimen Analysis,per_item,19675,False
+beds - OBST img INTERP,Bedside Obstetric Imaging Interpretation,mapped_explicit_terms,Bedside Obstetric Imaging Interpretation,per_procedure,365675,True
+svc - EXT hep TRANSF,Extended Hepatic Transfusion Service,mapped_explicit_terms,Extended Hepatic Transfusion Service,per_unit_dispensed,8450,False
+elective - NEURO wd BED occ,Elective Neurological Ward Bed Occupancy,mapped_explicit_terms,Elective Neurological Ward Bed Occupancy,per_night,170125,True
+outpt - GERIATRIC diagnostic IMG /CW-5122,Outpatient Geriatric Diagnostic Imaging,mapped_explicit_terms,Outpatient Geriatric Diagnostic Imaging,per_procedure,190450,False
+ASST  card VENT supp /CW-7623,Assisted Cardiac Ventilation Support,mapped_explicit_terms,Assisted Cardiac Ventilation Support,per_day,155700,False
+compr UROL img INTERPRETATION,Comprehensive Urologic Imaging Interpretation,mapped_explicit_terms,Comprehensive Urologic Imaging Interpretation,per_test,23075,True
+monit POSTOP otolaryngologic TELEM /CW-4406,Postoperative Otolaryngologic Telemetry Monitoring,mapped_explicit_terms,Postoperative Otolaryngologic Telemetry Monitoring,per_hour,10000,False
+gi NURS obs supv,Supervised Gastrointestinal Nursing Observation,mapped_explicit_terms,Supervised Gastrointestinal Nursing Observation,per_night,156825,False
+advanced VASC endosc PROC /CW-6163,Advanced Vascular Endoscopic Procedure,mapped_explicit_terms,Advanced Vascular Endoscopic Procedure,per_procedure,321775,False
+sess ASSISTED paed PHYSIO /CW-7619,Assisted Paediatric Physiotherapy Session,mapped_explicit_terms,Assisted Paediatric Physiotherapy Session,per_hour,3150,False
+CONT - gi TRANSFUSION svc,Continuous Gastrointestinal Transfusion Service,mapped_explicit_terms,Continuous Gastrointestinal Transfusion Service,per_procedure,308100,False
+SUPV - vascular RADIOTHER fract /CW-4865,Supervised Vascular Radiotherapy Fraction,mapped_explicit_terms,Supervised Vascular Radiotherapy Fraction,per_item,15825,False
+CONF ger CS,,needs_review,Intensive Geriatric Case Conference|Postoperative Geriatric Case Conference,,,False
+PREOPERATIVE - haematology IMG interp /CW-7886,Preoperative Haematology Imaging Interpretation,mapped_explicit_terms,Preoperative Haematology Imaging Interpretation,per_test,11375,False
+supv PULM anaes ADMINISTRATION,Supervised Pulmonary Anaesthesia Administration,mapped_explicit_terms,Supervised Pulmonary Anaesthesia Administration,per_hour,13500,True
+occupancy ONC wd BD,,needs_review,Advanced Oncology Ward Bed Occupancy|Standard Oncology Ward Bed Occupancy,,,False
+foc  - VASC transport SVC /CW-9116,Focused Vascular Transport Service,mapped_explicit_terms,Focused Vascular Transport Service,per_item,24450,False
+intens - UROL specimen ANLY /CW-8319,Intensive Urologic Specimen Analysis,mapped_explicit_terms,Intensive Urologic Specimen Analysis,per_item,19675,False
+occ ELECTIVE neuro WARD bd,Elective Neurological Ward Bed Occupancy,mapped_explicit_terms,Elective Neurological Ward Bed Occupancy,per_night,170125,True
+emer METABOLIC radiotherapy FRACTION /CW-3320,Emergency Metabolic Radiotherapy Fraction,mapped_explicit_terms,Emergency Metabolic Radiotherapy Fraction,per_procedure,364925,True
+obs - EXT rheum NURS /CW-3692,Extended Rheumatologic Nursing Observation,mapped_explicit_terms,Extended Rheumatologic Nursing Observation,per_night,87375,True
+IMG preoperative ONCOLOGY /CW-9430,Preoperative Oncology Diagnostic Imaging,mapped_explicit_terms,Preoperative Oncology Diagnostic Imaging,per_procedure,102650,False
+asst - PAED physio SESS,Assisted Paediatric Physiotherapy Session,mapped_explicit_terms,Assisted Paediatric Physiotherapy Session,per_hour,3150,False
+occupancy  - AMBULATORY card WD bd,Ambulatory Cardiac Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Cardiac Ward Bed Occupancy,per_day,46350,False
+PREOP - msk RECOVERY rm OCCUPANCY /CW-6079,Preoperative Musculoskeletal Recovery Room Occupancy,mapped_explicit_terms,Preoperative Musculoskeletal Recovery Room Occupancy,per_night,162775,True
+supervised - PULM admin,Supervised Pulmonary Anaesthesia Administration,mapped_explicit_terms,Supervised Pulmonary Anaesthesia Administration,per_hour,13500,True
+spclst  - CARD vent SUPP,Specialist Cardiac Ventilation Support,mapped_explicit_terms,Specialist Cardiac Ventilation Support,per_hour,18125,False
+interp - BEDSIDE obst IMG,Bedside Obstetric Imaging Interpretation,mapped_explicit_terms,Bedside Obstetric Imaging Interpretation,per_procedure,365675,True
+AMB - paed CRIT cr OCC /CW-3496,Ambulatory Paediatric Critical Care Occupancy,mapped_explicit_terms,Ambulatory Paediatric Critical Care Occupancy,per_hour,4750,False
+ASST - gi ANAES administration,Assisted Gastrointestinal Anaesthesia Administration,mapped_explicit_terms,Assisted Gastrointestinal Anaesthesia Administration,per_hour,3050,False
+ext - UROL telem MONIT /CW-1191,Extended Urologic Telemetry Monitoring,mapped_explicit_terms,Extended Urologic Telemetry Monitoring,per_day,144825,False
+ASSISTED card VENTILATION supp /CW-6226,Assisted Cardiac Ventilation Support,mapped_explicit_terms,Assisted Cardiac Ventilation Support,per_day,155700,False
+interp BEDSIDE obst IMG /CW-4098,Bedside Obstetric Imaging Interpretation,mapped_explicit_terms,Bedside Obstetric Imaging Interpretation,per_procedure,365675,True
+INTERPRETATION - postop PAED imaging /CW-8171,Postoperative Paediatric Imaging Interpretation,mapped_explicit_terms,Postoperative Paediatric Imaging Interpretation,per_procedure,88600,False
+service - INTENS steril /CW-8257,,needs_review,Intensive Vascular Sterilisation Service,,,False
+asst RENAL nutr /CW-4158,Assisted Renal Nutritional Support,mapped_explicit_terms,Assisted Renal Nutritional Support,per_unit_dispensed,3575,True
+EMER - card PHYSIO sess /CW-1742,Emergency Cardiac Physiotherapy Session,mapped_explicit_terms,Emergency Cardiac Physiotherapy Session,per_hour,9875,False
+intens - VASCULAR steril SVC /CW-7067,Intensive Vascular Sterilisation Service,mapped_explicit_terms,Intensive Vascular Sterilisation Service,per_item,25350,True
+SUPP asst VENTILATION /CW-3888,,needs_review,Assisted Cardiac Ventilation Support,,,False
+bedside OBST img,Bedside Obstetric Imaging Interpretation,mapped_explicit_terms,Bedside Obstetric Imaging Interpretation,per_procedure,365675,True
+ADVANCED - ortho WD bd OCCUPANCY /CW-3359,Advanced Orthopaedic Ward Bed Occupancy,mapped_explicit_terms,Advanced Orthopaedic Ward Bed Occupancy,per_night,97925,False
+INTENSIVE  - paediatric CONSULT /CW-8569,Intensive Paediatric Consultation,mapped_explicit_terms,Intensive Paediatric Consultation,per_visit,39175,False
+supervised  PULMONARY anaes ADMIN,Supervised Pulmonary Anaesthesia Administration,mapped_explicit_terms,Supervised Pulmonary Anaesthesia Administration,per_hour,13500,True
+INFECT - critical CARE occ,,needs_review,Continuous Infectious Critical Care Occupancy,,,False
+std - ONC wd BED occ /CW-1173,Standard Oncology Ward Bed Occupancy,mapped_explicit_terms,Standard Oncology Ward Bed Occupancy,per_day,57950,False
+elect OBST transf SVC /CW-1798,Elective Obstetric Transfusion Service,mapped_explicit_terms,Elective Obstetric Transfusion Service,per_unit_dispensed,1425,False
+SPCM  - asst OBST /CW-9843,Assisted Obstetric Specimen Analysis,mapped_explicit_terms,Assisted Obstetric Specimen Analysis,per_test,10100,True
+INTERMITTENT psych REHAB prog,Intermittent Psychiatric Rehabilitation Programme,mapped_explicit_terms,Intermittent Psychiatric Rehabilitation Programme,per_visit,32275,False
+ger - CASE conf,,needs_review,Intensive Geriatric Case Conference|Postoperative Geriatric Case Conference,,,False
+adv - PALLIATIVE hm VISIT /CW-4841,Advanced Palliative Home Visit,mapped_explicit_terms,Advanced Palliative Home Visit,per_visit,11450,True
+interm - NEUROLOGICAL lab PNL /CW-3443,Intermittent Neurological Laboratory Panel,mapped_explicit_terms,Intermittent Neurological Laboratory Panel,per_test,10175,False
+SVC - ortho STERILISATION,,needs_review,,,,False
+CONSULT rtn NEURO /CW-8916,,needs_review,,,,False
+postop  - ONC img,Postoperative Oncology Diagnostic Imaging,mapped_explicit_terms,Postoperative Oncology Diagnostic Imaging,per_item,23250,False
+postop PAED steril SVC,Postoperative Paediatric Sterilisation Service,mapped_explicit_terms,Postoperative Paediatric Sterilisation Service,per_item,16050,False
+ext - OBSTETRIC conf,Extended Obstetric Case Conference,mapped_explicit_terms,Extended Obstetric Case Conference,per_visit,41425,False
+OCCUPANCY - outpt ORTHO recov ROOM /CW-9263,Outpatient Orthopaedic Recovery Room Occupancy,mapped_explicit_terms,Outpatient Orthopaedic Recovery Room Occupancy,per_hour,11025,False
+compr - OPHTH laboratory PNL /CW-7966,Comprehensive Ophthalmic Laboratory Panel,mapped_explicit_terms,Comprehensive Ophthalmic Laboratory Panel,per_test,58525,False
+VST - supv PULMONARY /CW-3511,Supervised Pulmonary Home Visit,mapped_explicit_terms,Supervised Pulmonary Home Visit,per_visit,28675,False
+adv - VASC proc,Advanced Vascular Endoscopic Procedure,mapped_explicit_terms,Advanced Vascular Endoscopic Procedure,per_procedure,321775,False
+INPT  psych HM vst /CW-4923,Inpatient Psychiatric Home Visit,mapped_explicit_terms,Inpatient Psychiatric Home Visit,per_visit,19275,False
+ELECT - ophthalmic RADIOTHER fract /CW-9522,Elective Ophthalmic Radiotherapy Fraction,mapped_explicit_terms,Elective Ophthalmic Radiotherapy Fraction,per_procedure,373600,False
+emergency - RHEUM rehabilitation PROG /CW-2482,Emergency Rheumatologic Rehabilitation Programme,mapped_explicit_terms,Emergency Rheumatologic Rehabilitation Programme,per_day,62000,False
+amb MSK spcm ANLY /CW-5350,Ambulatory Musculoskeletal Specimen Analysis,mapped_explicit_terms,Ambulatory Musculoskeletal Specimen Analysis,per_item,9550,True
+OUTPT - urologic ENDOSC proc,Outpatient Urologic Endoscopic Procedure,mapped_explicit_terms,Outpatient Urologic Endoscopic Procedure,per_procedure,372925,True
+foc VASC infusion THER,Focused Vascular Infusion Therapy,mapped_explicit_terms,Focused Vascular Infusion Therapy,per_unit_dispensed,5775,False
+occ AMB card WARD /CW-1077,Ambulatory Cardiac Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Cardiac Ward Bed Occupancy,per_day,46350,False
+onc DIAG img postop,Postoperative Oncology Diagnostic Imaging,mapped_explicit_terms,Postoperative Oncology Diagnostic Imaging,per_item,23250,False
+supv  - DIAL sess /CW-1782,,needs_review,Supervised Rheumatologic Dialysis Session,,,False
+tm - OUTPT urol THTR /CW-8902,Outpatient Urologic Theatre Time,mapped_explicit_terms,Outpatient Urologic Theatre Time,per_hour,7650,True
+supv - GI nurs OBS /CW-9063,Supervised Gastrointestinal Nursing Observation,mapped_explicit_terms,Supervised Gastrointestinal Nursing Observation,per_night,156825,False
+vst BEDS card HM,Bedside Cardiac Home Visit,mapped_explicit_terms,Bedside Cardiac Home Visit,per_visit,64800,True
+POSTOP paed IMG interp /CW-2275,Postoperative Paediatric Imaging Interpretation,mapped_explicit_terms,Postoperative Paediatric Imaging Interpretation,per_procedure,88600,False
+adv VASC endosc PROC /CW-8230,Advanced Vascular Endoscopic Procedure,mapped_explicit_terms,Advanced Vascular Endoscopic Procedure,per_procedure,321775,False
+prog  - CONT psych REHABILITATION /CW-5824,Continuous Psychiatric Rehabilitation Programme,mapped_explicit_terms,Continuous Psychiatric Rehabilitation Programme,per_day,34900,False
+specialist - GI imaging INTERPRETATION /CW-3195,Specialist Gastrointestinal Imaging Interpretation,mapped_explicit_terms,Specialist Gastrointestinal Imaging Interpretation,per_procedure,83625,True
+SUPV immun WD bd OCC /CW-1811,Supervised Immunologic Ward Bed Occupancy,mapped_explicit_terms,Supervised Immunologic Ward Bed Occupancy,per_night,194400,False
+RTN card HM vst /CW-6536,Routine Cardiac Home Visit,mapped_explicit_terms,Routine Cardiac Home Visit,per_visit,16200,False
+AMB - rheum REHAB prog /CW-9454,Ambulatory Rheumatologic Rehabilitation Programme,mapped_explicit_terms,Ambulatory Rheumatologic Rehabilitation Programme,per_visit,38325,False
+postoperative - PALL recov ROOM occupancy,Postoperative Palliative Recovery Room Occupancy,mapped_explicit_terms,Postoperative Palliative Recovery Room Occupancy,per_night,86550,False
+ortho - ANAES admin /CW-8548,,needs_review,Inpatient Orthopaedic Anaesthesia Administration,,,False
+SESS intermittent RHEUM dial,Intermittent Rheumatologic Dialysis Session,mapped_explicit_terms,Intermittent Rheumatologic Dialysis Session,per_procedure,126900,False
+SUPV - immun WARD bd OCC,Supervised Immunologic Ward Bed Occupancy,mapped_explicit_terms,Supervised Immunologic Ward Bed Occupancy,per_night,194400,False
+adv  VASC endosc PROC /CW-5904,Advanced Vascular Endoscopic Procedure,mapped_explicit_terms,Advanced Vascular Endoscopic Procedure,per_procedure,321775,False
+intensive  - VASCULAR steril SVC /CW-1594,Intensive Vascular Sterilisation Service,mapped_explicit_terms,Intensive Vascular Sterilisation Service,per_item,25350,True
+BEDSIDE - gi BIOP proc /CW-7056,Bedside Gastrointestinal Biopsy Procedure,mapped_explicit_terms,Bedside Gastrointestinal Biopsy Procedure,per_item,11075,False
+card VENT supp asst,Assisted Cardiac Ventilation Support,mapped_explicit_terms,Assisted Cardiac Ventilation Support,per_day,155700,False
+ext RHEUM obs,Extended Rheumatologic Nursing Observation,mapped_explicit_terms,Extended Rheumatologic Nursing Observation,per_night,87375,True
+PREOP msk ROOM occ,Preoperative Musculoskeletal Recovery Room Occupancy,mapped_explicit_terms,Preoperative Musculoskeletal Recovery Room Occupancy,per_night,162775,True
+inpt - ORTHO anaes ADMINISTRATION,Inpatient Orthopaedic Anaesthesia Administration,mapped_explicit_terms,Inpatient Orthopaedic Anaesthesia Administration,per_procedure,145950,False
+amb IMMUN ward BD occ,Ambulatory Immunologic Ward Bed Occupancy,mapped_explicit_terms,Ambulatory Immunologic Ward Bed Occupancy,per_day,74700,False
+ext  UROLOGIC telem,Extended Urologic Telemetry Monitoring,mapped_explicit_terms,Extended Urologic Telemetry Monitoring,per_day,144825,False
+foc - VASC transport SERVICE,Focused Vascular Transport Service,mapped_explicit_terms,Focused Vascular Transport Service,per_item,24450,False
+OCCUPANCY - advanced ONC wd BD /CW-2874,Advanced Oncology Ward Bed Occupancy,mapped_explicit_terms,Advanced Oncology Ward Bed Occupancy,per_night,68700,True
+paed THTR tm adv,Advanced Paediatric Theatre Time,mapped_explicit_terms,Advanced Paediatric Theatre Time,per_hour,37100,False
+POSTOP - paediatric IMAGING interp,Postoperative Paediatric Imaging Interpretation,mapped_explicit_terms,Postoperative Paediatric Imaging Interpretation,per_procedure,88600,False
+INTERM - psych REHAB prog,Intermittent Psychiatric Rehabilitation Programme,mapped_explicit_terms,Intermittent Psychiatric Rehabilitation Programme,per_visit,32275,False
+assisted - REN nutr SUPP /CW-6761,Assisted Renal Nutritional Support,mapped_explicit_terms,Assisted Renal Nutritional Support,per_unit_dispensed,3575,True
+tm OUTPATIENT urol /CW-9136,Outpatient Urologic Theatre Time,mapped_explicit_terms,Outpatient Urologic Theatre Time,per_hour,7650,True
+ext  HEP disch PLNG /CW-1975,Extended Hepatic Discharge Planning,mapped_explicit_terms,Extended Hepatic Discharge Planning,per_hour,7950,True
+plng EXT disch /CW-9928,,needs_review,Extended Hepatic Discharge Planning,,,False
+emer - RHEUMATOLOGIC prog /CW-1178,Emergency Rheumatologic Rehabilitation Programme,mapped_explicit_terms,Emergency Rheumatologic Rehabilitation Programme,per_day,62000,False
+std - VASC vst,Standard Vascular Home Visit,mapped_explicit_terms,Standard Vascular Home Visit,per_visit,26200,True
+ELECT ophth RADIOTHER fract /CW-4480,Elective Ophthalmic Radiotherapy Fraction,mapped_explicit_terms,Elective Ophthalmic Radiotherapy Fraction,per_procedure,373600,False
+EXT  - psych ENDOSC proc /CW-4756,Extended Psychiatric Endoscopic Procedure,mapped_explicit_terms,Extended Psychiatric Endoscopic Procedure,per_procedure,325800,False
+OCCUPANCY - std ORTHOPAEDIC crit CR /CW-7040,Standard Orthopaedic Critical Care Occupancy,mapped_explicit_terms,Standard Orthopaedic Critical Care Occupancy,per_night,148975,False
+ASSISTED urol NURS obs /CW-3340,Assisted Urologic Nursing Observation,mapped_explicit_terms,Assisted Urologic Nursing Observation,per_day,132675,False
+PSYCH rehab PROG INTERM,Intermittent Psychiatric Rehabilitation Programme,mapped_explicit_terms,Intermittent Psychiatric Rehabilitation Programme,per_visit,32275,False
+svc AMB haem TRANSFUSION /CW-4630,Ambulatory Haematology Transfusion Service,mapped_explicit_terms,Ambulatory Haematology Transfusion Service,per_procedure,402275,False
+standard - ONC ward BD occ /CW-4538,Standard Oncology Ward Bed Occupancy,mapped_explicit_terms,Standard Oncology Ward Bed Occupancy,per_day,57950,False
+sess STANDARD paed DIAL,Standard Paediatric Dialysis Session,mapped_explicit_terms,Standard Paediatric Dialysis Session,per_procedure,368050,True
+intermittent  NEURO lab PNL /CW-9905,Intermittent Neurological Laboratory Panel,mapped_explicit_terms,Intermittent Neurological Laboratory Panel,per_test,10175,False
+POSTOP ger IMG interp /CW-1229,Postoperative Geriatric Imaging Interpretation,mapped_explicit_terms,Postoperative Geriatric Imaging Interpretation,per_test,43925,True
+interp - BEDS obst IMG /CW-9860,Bedside Obstetric Imaging Interpretation,mapped_explicit_terms,Bedside Obstetric Imaging Interpretation,per_procedure,365675,True
+fract - INTENS rheum RADIOTHER /CW-1555,Intensive Rheumatologic Radiotherapy Fraction,mapped_explicit_terms,Intensive Rheumatologic Radiotherapy Fraction,per_item,23425,False
+outpt CARD physio SESSION /CW-1340,Outpatient Cardiac Physiotherapy Session,mapped_explicit_terms,Outpatient Cardiac Physiotherapy Session,per_visit,27300,True
+ANLY assisted OBST spcm,Assisted Obstetric Specimen Analysis,mapped_explicit_terms,Assisted Obstetric Specimen Analysis,per_test,10100,True
+EXT ren WD occ /CW-7113,Extended Renal Ward Bed Occupancy,mapped_explicit_terms,Extended Renal Ward Bed Occupancy,per_night,174050,True
+prog EMER rheum REHABILITATION /CW-3222,Emergency Rheumatologic Rehabilitation Programme,mapped_explicit_terms,Emergency Rheumatologic Rehabilitation Programme,per_day,62000,False
+ELECT - ophth RADIOTHER /CW-6461,Elective Ophthalmic Radiotherapy Fraction,mapped_explicit_terms,Elective Ophthalmic Radiotherapy Fraction,per_procedure,373600,False
+CONT infectious CRIT cr OCCUPANCY,Continuous Infectious Critical Care Occupancy,mapped_explicit_terms,Continuous Infectious Critical Care Occupancy,per_hour,13925,False
+PROCEDURE - comprehensive NEURO endosc,Comprehensive Neurological Endoscopic Procedure,mapped_explicit_terms,Comprehensive Neurological Endoscopic Procedure,per_procedure,309275,True
+admin - INTERM ren ANAES /CW-9520,Intermittent Renal Anaesthesia Administration,mapped_explicit_terms,Intermittent Renal Anaesthesia Administration,per_hour,6600,True
+asst - RENAL nutritional SUPP,Assisted Renal Nutritional Support,mapped_explicit_terms,Assisted Renal Nutritional Support,per_unit_dispensed,3575,True
+THER std HEP inf,Standard Hepatic Infusion Therapy,mapped_explicit_terms,Standard Hepatic Infusion Therapy,per_unit_dispensed,3975,False
+interpretation - COMPR img /CW-2951,,needs_review,Comprehensive Urologic Imaging Interpretation,,,False
+OCCUPANCY  adv ONC bd /CW-4545,Advanced Oncology Ward Bed Occupancy,mapped_explicit_terms,Advanced Oncology Ward Bed Occupancy,per_night,68700,True
+ext - HEP disch PLANNING,Extended Hepatic Discharge Planning,mapped_explicit_terms,Extended Hepatic Discharge Planning,per_hour,7950,True
+SUPPORT - amb MSK vent,Ambulatory Musculoskeletal Ventilation Support,mapped_explicit_terms,Ambulatory Musculoskeletal Ventilation Support,per_day,157150,False
+CONT  infect CRIT care OCC,Continuous Infectious Critical Care Occupancy,mapped_explicit_terms,Continuous Infectious Critical Care Occupancy,per_hour,13925,False
+ext - HEP disch PLANNING /CW-9770,Extended Hepatic Discharge Planning,mapped_explicit_terms,Extended Hepatic Discharge Planning,per_hour,7950,True
+ENDOSC - ext PSYCHIATRIC /CW-9075,Extended Psychiatric Endoscopic Procedure,mapped_explicit_terms,Extended Psychiatric Endoscopic Procedure,per_procedure,325800,False
+advanced PAED thtr TM /CW-5259,Advanced Paediatric Theatre Time,mapped_explicit_terms,Advanced Paediatric Theatre Time,per_hour,37100,False
+FOCUSED metabolic BIOP proc /CW-3860,Focused Metabolic Biopsy Procedure,mapped_explicit_terms,Focused Metabolic Biopsy Procedure,per_item,15025,False
+proc ADV vasc ENDOSC /CW-8189,Advanced Vascular Endoscopic Procedure,mapped_explicit_terms,Advanced Vascular Endoscopic Procedure,per_procedure,321775,False
+PROC - beds GASTROINTESTINAL biop /CW-9191,Bedside Gastrointestinal Biopsy Procedure,mapped_explicit_terms,Bedside Gastrointestinal Biopsy Procedure,per_item,11075,False
+GER diag IMG PREOP,Preoperative Geriatric Diagnostic Imaging,mapped_explicit_terms,Preoperative Geriatric Diagnostic Imaging,per_test,19550,False
+interm - ONC hm VST,Intermittent Oncology Home Visit,mapped_explicit_terms,Intermittent Oncology Home Visit,per_visit,22050,True
+VST - supv PULMONARY hm /CW-6997,Supervised Pulmonary Home Visit,mapped_explicit_terms,Supervised Pulmonary Home Visit,per_visit,28675,False
+renal ANAES admin,Intermittent Renal Anaesthesia Administration,mapped_reviewed_inference,Intermittent Renal Anaesthesia Administration,per_hour,6600,True
+postop PAED steril SVC /CW-1683,Postoperative Paediatric Sterilisation Service,mapped_explicit_terms,Postoperative Paediatric Sterilisation Service,per_item,16050,False
+ext - HEP transf SVC /CW-5339,Extended Hepatic Transfusion Service,mapped_explicit_terms,Extended Hepatic Transfusion Service,per_unit_dispensed,8450,False
+INTERM urologic TELEM monit /CW-6015,Intermittent Urologic Telemetry Monitoring,mapped_explicit_terms,Intermittent Urologic Telemetry Monitoring,,7275,False
+RTN - card HM visit,Routine Cardiac Home Visit,mapped_explicit_terms,Routine Cardiac Home Visit,per_visit,16200,False
+INTERP - postop PAEDIATRIC img /CW-8778,Postoperative Paediatric Imaging Interpretation,mapped_explicit_terms,Postoperative Paediatric Imaging Interpretation,per_procedure,88600,False
+amb WD bed OCC /CW-2964,,needs_review,Ambulatory Cardiac Ward Bed Occupancy|Ambulatory Immunologic Ward Bed Occupancy,,,False
+PREOP - ger DIAG /CW-2259,Preoperative Geriatric Diagnostic Imaging,mapped_explicit_terms,Preoperative Geriatric Diagnostic Imaging,per_test,19550,False
+OCC  - outpt ORTHO recov ROOM /CW-6062,Outpatient Orthopaedic Recovery Room Occupancy,mapped_explicit_terms,Outpatient Orthopaedic Recovery Room Occupancy,per_hour,11025,False
+interp COMPR img /CW-6998,,needs_review,Comprehensive Urologic Imaging Interpretation,,,False
+card  - HOME vst,,needs_review,Bedside Cardiac Home Visit|Routine Cardiac Home Visit,,,False
+PREOP ger DIAGNOSTIC img,Preoperative Geriatric Diagnostic Imaging,mapped_explicit_terms,Preoperative Geriatric Diagnostic Imaging,per_test,19550,False
+postoperative - ENT telem MONIT /CW-9058,Postoperative Otolaryngologic Telemetry Monitoring,mapped_explicit_terms,Postoperative Otolaryngologic Telemetry Monitoring,per_hour,10000,False
+OUTPT - obst DIAL /CW-3474,Outpatient Obstetric Dialysis Session,mapped_explicit_terms,Outpatient Obstetric Dialysis Session,per_procedure,367900,True
+FOCUSED metab BIOP proc /CW-3728,Focused Metabolic Biopsy Procedure,mapped_explicit_terms,Focused Metabolic Biopsy Procedure,per_item,15025,False
+INTERM - urol TELEMETRY /CW-3304,Intermittent Urologic Telemetry Monitoring,mapped_explicit_terms,Intermittent Urologic Telemetry Monitoring,,7275,False
+INTENS  - paed CONSULTATION /CW-2377,Intensive Paediatric Consultation,mapped_explicit_terms,Intensive Paediatric Consultation,per_visit,39175,False
+ADMIN spclst NEURO anaes /CW-6871,,needs_review,,,,False
+foc VASCULAR transp SERVICE /CW-7821,Focused Vascular Transport Service,mapped_explicit_terms,Focused Vascular Transport Service,per_item,24450,False
+occ - ELECT neuro WD bd /CW-9688,Elective Neurological Ward Bed Occupancy,mapped_explicit_terms,Elective Neurological Ward Bed Occupancy,per_night,170125,True
+OCC adv ONC wd BD /CW-8074,Advanced Oncology Ward Bed Occupancy,mapped_explicit_terms,Advanced Oncology Ward Bed Occupancy,per_night,68700,True
+RTN - ortho TRANSF service /CW-3818,,needs_review,,,,False
+imaging  OUTPT ger DIAG /CW-9918,Outpatient Geriatric Diagnostic Imaging,mapped_explicit_terms,Outpatient Geriatric Diagnostic Imaging,per_procedure,190450,False
+visit - BEDSIDE card HM,Bedside Cardiac Home Visit,mapped_explicit_terms,Bedside Cardiac Home Visit,per_visit,64800,True
+SVC cont GI transfusion /CW-1126,Continuous Gastrointestinal Transfusion Service,mapped_explicit_terms,Continuous Gastrointestinal Transfusion Service,per_procedure,308100,False
+occ - ELECT neuro WD bd /CW-3182,Elective Neurological Ward Bed Occupancy,mapped_explicit_terms,Elective Neurological Ward Bed Occupancy,per_night,170125,True
+ASST - obstetric TRANSP svc /CW-7850,,needs_review,,,,False
+VST  foc NEURO /CW-8682,,needs_review,,,,False
+rheum REHAB prog emer,Emergency Rheumatologic Rehabilitation Programme,mapped_explicit_terms,Emergency Rheumatologic Rehabilitation Programme,per_day,62000,False
+compr - UROL img INTERP,Comprehensive Urologic Imaging Interpretation,mapped_explicit_terms,Comprehensive Urologic Imaging Interpretation,per_test,23075,True
+ASST - paed TM /CW-5883,Assisted Paediatric Theatre Time,mapped_explicit_terms,Assisted Paediatric Theatre Time,per_hour,9275,False
+card VENT support,,needs_review,Assisted Cardiac Ventilation Support|Specialist Cardiac Ventilation Support,,,False
+INTERM urol TELEM monit,Intermittent Urologic Telemetry Monitoring,mapped_explicit_terms,Intermittent Urologic Telemetry Monitoring,,7275,False
+adv - PALL hm VST /CW-4754,Advanced Palliative Home Visit,mapped_explicit_terms,Advanced Palliative Home Visit,per_visit,11450,True
+PROCEDURE  - outpt UROL endosc /CW-5587,Outpatient Urologic Endoscopic Procedure,mapped_explicit_terms,Outpatient Urologic Endoscopic Procedure,per_procedure,372925,True
+card VENT supp spclst,Specialist Cardiac Ventilation Support,mapped_explicit_terms,Specialist Cardiac Ventilation Support,per_hour,18125,False
+hep - DISCHARGE plng /CW-2290,,needs_review,Extended Hepatic Discharge Planning|Specialist Hepatic Discharge Planning,,,False
+ELECTIVE gi NURS obs /CW-7280,Elective Gastrointestinal Nursing Observation,mapped_explicit_terms,Elective Gastrointestinal Nursing Observation,per_day,58925,False
+SESS - emergency CARD physio /CW-9661,Emergency Cardiac Physiotherapy Session,mapped_explicit_terms,Emergency Cardiac Physiotherapy Session,per_hour,9875,False
+IMMUN wd BD occ SUPV,Supervised Immunologic Ward Bed Occupancy,mapped_explicit_terms,Supervised Immunologic Ward Bed Occupancy,per_night,194400,False
+PREOP - haem IMG interp /CW-1749,Preoperative Haematology Imaging Interpretation,mapped_explicit_terms,Preoperative Haematology Imaging Interpretation,per_test,11375,False
+PROG - intermittent PSYCH rehab /CW-3340,Intermittent Psychiatric Rehabilitation Programme,mapped_explicit_terms,Intermittent Psychiatric Rehabilitation Programme,per_visit,32275,False
+CARD hm VST BEDS,Bedside Cardiac Home Visit,mapped_explicit_terms,Bedside Cardiac Home Visit,per_visit,64800,True
+GI - transfusion SVC /CW-9161,,needs_review,Continuous Gastrointestinal Transfusion Service,,,False
+ophth LAB pnl compr,Comprehensive Ophthalmic Laboratory Panel,mapped_explicit_terms,Comprehensive Ophthalmic Laboratory Panel,per_test,58525,False
+OCC cont INFECTIOUS crit CR /CW-4807,Continuous Infectious Critical Care Occupancy,mapped_explicit_terms,Continuous Infectious Critical Care Occupancy,per_hour,13925,False
+INTERM  psych REHAB prog /CW-7902,Intermittent Psychiatric Rehabilitation Programme,mapped_explicit_terms,Intermittent Psychiatric Rehabilitation Programme,per_visit,32275,False
+INPATIENT psychiatric HM visit /CW-6666,Inpatient Psychiatric Home Visit,mapped_explicit_terms,Inpatient Psychiatric Home Visit,per_visit,19275,False
+RHEUM dial SESS INTERM,Intermittent Rheumatologic Dialysis Session,mapped_explicit_terms,Intermittent Rheumatologic Dialysis Session,per_procedure,126900,False
+POSTOP ger IMAGING interp,Postoperative Geriatric Imaging Interpretation,mapped_explicit_terms,Postoperative Geriatric Imaging Interpretation,per_test,43925,True
+ADMIN  - gi ANAES /CW-1500,,needs_review,Assisted Gastrointestinal Anaesthesia Administration,,,False
+OUTPT metabolic PHARM disp,,needs_review,,,,False
+foc - UROL cs CONF,Focused Urologic Case Conference,mapped_explicit_terms,Focused Urologic Case Conference,per_hour,20200,False
+SPCLST wnd CR /CW-6542,,needs_review,,,,False
+PLNG cont OTOLARYNGOLOGIC disch,,needs_review,,,,False
+service POSTOP paediatric STERIL,Postoperative Paediatric Sterilisation Service,mapped_explicit_terms,Postoperative Paediatric Sterilisation Service,per_item,16050,False
+LAB  - emer DERM /CW-2124,,needs_review,,,,False
+BEDS - oncology TRANSF /CW-9855,,needs_review,,,,False
+INTENS  neurological DIAG img /CW-9312,,needs_review,,,,False
+AMB haem ENDOSC proc /CW-9607,,needs_review,,,,False

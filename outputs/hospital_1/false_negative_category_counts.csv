@@ -1,0 +1,12 @@
+error_category,missed_invoice_count
+unit_price_mismatch,6
+unknown_service,6
+premium_incorrectly_applied,4
+daily_cap_exceeded,3
+volume_discount_omitted,3
+bundle_not_applied,2
+cross_invoice_duplicate,2
+volume_discount_incorrectly_applied,1
+premium_omitted,1
+exclusion_window_violation,1
+wrong_unit_basis,1

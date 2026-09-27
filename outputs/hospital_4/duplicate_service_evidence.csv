@@ -1,0 +1,11 @@
+duplicate_group_id,record_id,invoice_id,line_id,patient_id,service_date,contract_service,description,quantity,unit_basis_as_billed,unit_price_cents,line_total_cents
+DUP-0001,18,INV-H4-000018,H4-L00018-07,PT-H4-000069,2024-01-22,Assisted Renal Nutritional Support,supp - ASSISTED renal NUTR /CW-6071,40,per_unit_dispensed,3575,143000
+DUP-0001,693,INV-H4-000693,H4-L00693-16,PT-H4-000069,2024-01-22,Assisted Renal Nutritional Support,supp - ASSISTED renal NUTR /CW-6071,40,per_unit_dispensed,3575,143000
+DUP-0002,69,INV-H4-000069,H4-L00069-13,PT-H4-000134,2024-03-10,Preoperative Musculoskeletal Recovery Room Occupancy,PREOP msk ROOM occ,5,per_night,162775,813875
+DUP-0002,309,INV-H4-000309,H4-L00309-14,PT-H4-000134,2024-03-10,Preoperative Musculoskeletal Recovery Room Occupancy,PREOP msk ROOM occ,5,per_night,162775,813875
+DUP-0003,84,INV-H4-000084,H4-L00084-02,PT-H4-000168,2024-03-23,Bedside Obstetric Imaging Interpretation,interp - BEDS obst IMG /CW-9860,2,per_procedure,365675,731350
+DUP-0003,473,INV-H4-000473,H4-L00473-07,PT-H4-000168,2024-03-23,Bedside Obstetric Imaging Interpretation,interp - BEDS obst IMG /CW-9860,2,per_procedure,365675,731350
+DUP-0004,264,INV-H4-000264,H4-L00264-09,PT-H4-000210,2024-09-04,Advanced Oncology Ward Bed Occupancy,OCC adv ONC ward BD /CW-1103,1,per_night,68700,68700
+DUP-0004,458,INV-H4-000458,H4-L00458-10,PT-H4-000210,2024-09-04,Advanced Oncology Ward Bed Occupancy,OCC adv ONC ward BD /CW-1103,1,per_night,68700,68700
+DUP-0005,264,INV-H4-000264,H4-L00264-08,PT-H4-000210,2024-09-04,Intermittent Oncology Home Visit,vst - INTERM onc HM,1,per_visit,22050,22050
+DUP-0005,458,INV-H4-000458,H4-L00458-09,PT-H4-000210,2024-09-04,Intermittent Oncology Home Visit,vst - INTERM onc HM,1,per_visit,22050,22050

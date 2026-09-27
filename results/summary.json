@@ -1,0 +1,58 @@
+{
+  "hospital_1": {
+    "invoice_records": 918,
+    "line_items": 11415,
+    "records_with_findings": 62,
+    "complete_totals": 591,
+    "complete_flagged": 16,
+    "findings_without_complete_totals": 46,
+    "mapped_lines": 11131,
+    "inferred_lines": 560
+  },
+  "h1_development": {
+    "invoices_evaluated": 908,
+    "excluded_records": 10,
+    "tp": 52,
+    "fp": 0,
+    "fn": 1,
+    "tn": 855,
+    "precision": 1.0,
+    "recall": 0.9811320754716981,
+    "f1": 0.9904761904761905,
+    "cost_5fn_plus_fp": 5,
+    "complete_totals_evaluated": 591,
+    "correct_complete_totals": 590,
+    "correct_complete_flags_and_totals": 590,
+    "note": "Development evaluation after H1-assisted rule development. Not held-out calibration or H4 accuracy. Categories compared literally."
+  },
+  "hospital_3": {
+    "invoice_records": 939,
+    "line_items": 11655,
+    "records_with_findings": 77,
+    "complete_totals": 597,
+    "complete_flagged": 19,
+    "findings_without_complete_totals": 58,
+    "mapped_lines": 11504,
+    "inferred_lines": 838
+  },
+  "hospital_4": {
+    "invoice_records": 840,
+    "line_items": 10560,
+    "records_with_findings": 67,
+    "complete_totals": 546,
+    "complete_flagged": 22,
+    "findings_without_complete_totals": 45,
+    "mapped_lines": 10366,
+    "inferred_lines": 788
+  },
+  "submission": {
+    "hospitals": [
+      3,
+      4
+    ],
+    "rows": 1143,
+    "flagged": 41
+  },
+  "confidence_note": "0.40/0.60 remain subjective, uncalibrated estimates. H3/H4 accuracy is unknown. Inference exposure includes same-patient mappings and global discount-service mappings.",
+  "scope_note": "H3 and H4 supported for submission; selected scope appears in submission.hospitals. H1 is development-only. H2/H5 not yet supported. Incomplete totals are omitted."
+}

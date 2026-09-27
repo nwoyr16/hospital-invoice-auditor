@@ -1,0 +1,489 @@
+description,contract_service,mapping_status,candidate_services
+Procedure Routine Urologic Biop /NG-3022,Routine Urologic Biopsy Procedure,explicit_terms,Routine Urologic Biopsy Procedure
+Case - Intensive Ophth /NG-3641,Intensive Ophthalmic Case Conference,explicit_terms,Intensive Ophthalmic Case Conference
+Visit Amb Hm,,unresolved,Ambulatory Cardiac Home Visit|Ambulatory Infectious Home Visit
+Elective Pulmonary Nutr Support,Elective Pulmonary Nutritional Support,explicit_terms,Elective Pulmonary Nutritional Support
+Fraction Std Otolaryngologic Radiother,Standard Otolaryngologic Radiotherapy Fraction,explicit_terms,Standard Otolaryngologic Radiotherapy Fraction
+Postop Metabolic Critical Cr Occ,Postoperative Metabolic Critical Care Occupancy,explicit_terms,Postoperative Metabolic Critical Care Occupancy
+Intens - Ophthalmic Cs Conference /NG-6174,Intensive Ophthalmic Case Conference,explicit_terms,Intensive Ophthalmic Case Conference
+Occ Supervised Ren Isolation Rm,Supervised Renal Isolation Room Occupancy,explicit_terms,Supervised Renal Isolation Room Occupancy
+Neuro - Nutr Supp,Intermittent Neurological Nutritional Support,unique_partial_inference,Intermittent Neurological Nutritional Support
+Inpt Ophthalmic Transport Svc,Inpatient Ophthalmic Transport Service,explicit_terms,Inpatient Ophthalmic Transport Service
+Msk Dial Sess,Supervised Musculoskeletal Dialysis Session,unique_partial_inference,Supervised Musculoskeletal Dialysis Session
+Preoperative Onc Consultation,Preoperative Oncology Consultation,explicit_terms,Preoperative Oncology Consultation
+Consult Advanced Neuro /NG-5114,Advanced Neurological Consultation,explicit_terms,Advanced Neurological Consultation
+Adv Infect Critical Care Occ /NG-2548,Advanced Infectious Critical Care Occupancy,explicit_terms,Advanced Infectious Critical Care Occupancy
+Foc Immunologic Physio Sess,Focused Immunologic Physiotherapy Session,explicit_terms,Focused Immunologic Physiotherapy Session
+Ambulatory  Pulm Recov Rm Occupancy /NG-9869,Ambulatory Pulmonary Recovery Room Occupancy,explicit_terms,Ambulatory Pulmonary Recovery Room Occupancy
+Intermittent - Derm Transf Svc,Intermittent Dermatologic Transfusion Service,explicit_terms,Intermittent Dermatologic Transfusion Service
+Msk Wd Bd Occ Inpt,Inpatient Musculoskeletal Ward Bed Occupancy,explicit_terms,Inpatient Musculoskeletal Ward Bed Occupancy
+Ext - Geriatric Wound Care /NG-2898,Extended Geriatric Wound Care,explicit_terms,Extended Geriatric Wound Care
+Rtn Infect Critical Care Occ,Routine Infectious Critical Care Occupancy,explicit_terms,Routine Infectious Critical Care Occupancy
+Inpt - Ren Radiotherapy Fraction,Inpatient Renal Radiotherapy Fraction,explicit_terms,Inpatient Renal Radiotherapy Fraction
+Occ Routine Infectious Critical Cr,Routine Infectious Critical Care Occupancy,explicit_terms,Routine Infectious Critical Care Occupancy
+Therapy Asst Ger Inf,Assisted Geriatric Infusion Therapy,explicit_terms,Assisted Geriatric Infusion Therapy
+Immun Consult,Outpatient Immunologic Consultation,unique_partial_inference,Outpatient Immunologic Consultation
+Prog Emergency Ortho Rehabilitation /NG-5611,Emergency Orthopaedic Rehabilitation Programme,explicit_terms,Emergency Orthopaedic Rehabilitation Programme
+Compr - Psych Transf Svc,Comprehensive Psychiatric Transfusion Service,explicit_terms,Comprehensive Psychiatric Transfusion Service
+Rtn Immun Ward Bed Occupancy,Routine Immunologic Ward Bed Occupancy,explicit_terms,Routine Immunologic Ward Bed Occupancy
+Interm - Derm Transf Svc,Intermittent Dermatologic Transfusion Service,explicit_terms,Intermittent Dermatologic Transfusion Service
+Img Vasc Diagnostic,,unresolved,Inpatient Vascular Diagnostic Imaging|Preoperative Vascular Diagnostic Imaging
+Svc Preop Ent Steril,Preoperative Otolaryngologic Sterilisation Service,explicit_terms,Preoperative Otolaryngologic Sterilisation Service
+Cont Obst Rehab Prog /NG-1357,Continuous Obstetric Rehabilitation Programme,explicit_terms,Continuous Obstetric Rehabilitation Programme
+Std Endo Dial Session /NG-7220,Standard Endocrine Dialysis Session,explicit_terms,Standard Endocrine Dialysis Session
+Outpt Metab Radiother Fract,Outpatient Metabolic Radiotherapy Fraction,explicit_terms,Outpatient Metabolic Radiotherapy Fraction
+Assisted Pulm Theatre Tm /NG-8055,Assisted Pulmonary Theatre Time,explicit_terms,Assisted Pulmonary Theatre Time
+Emergency - Orthopaedic Rehab Prog,Emergency Orthopaedic Rehabilitation Programme,explicit_terms,Emergency Orthopaedic Rehabilitation Programme
+Interm Pulm Rehab Prog /NG-4176,Intermittent Pulmonary Rehabilitation Programme,explicit_terms,Intermittent Pulmonary Rehabilitation Programme
+Preop - Immun Endoscopic Procedure /NG-3497,Preoperative Immunologic Endoscopic Procedure,explicit_terms,Preoperative Immunologic Endoscopic Procedure
+Routine Card Specimen Analysis,Routine Cardiac Specimen Analysis,explicit_terms,Routine Cardiac Specimen Analysis
+Std Nutritional Supp,Standard Geriatric Nutritional Support,unique_partial_inference,Standard Geriatric Nutritional Support
+Postoperative Pulmonary Wnd Cr /NG-8823,Postoperative Pulmonary Wound Care,explicit_terms,Postoperative Pulmonary Wound Care
+Supervised - Ren Isolation Room Occupancy,Supervised Renal Isolation Room Occupancy,explicit_terms,Supervised Renal Isolation Room Occupancy
+Service - Foc Ortho Transp,Focused Orthopaedic Transport Service,explicit_terms,Focused Orthopaedic Transport Service
+Ext Ger Wnd Cr,Extended Geriatric Wound Care,explicit_terms,Extended Geriatric Wound Care
+Msk Wd Bd Occ Amb,Ambulatory Musculoskeletal Ward Bed Occupancy,explicit_terms,Ambulatory Musculoskeletal Ward Bed Occupancy
+Routine - Oncology Disch,Routine Oncology Discharge Planning,explicit_terms,Routine Oncology Discharge Planning
+Derm Transf Svc Rtn,Routine Dermatologic Transfusion Service,explicit_terms,Routine Dermatologic Transfusion Service
+Elective Pulm Nutr Support,Elective Pulmonary Nutritional Support,explicit_terms,Elective Pulmonary Nutritional Support
+Preop Oncology Consult /NG-5826,Preoperative Oncology Consultation,explicit_terms,Preoperative Oncology Consultation
+Extended Ren Transp,Extended Renal Transport Service,explicit_terms,Extended Renal Transport Service
+Comprehensive Infect Nursing,Comprehensive Infectious Nursing Observation,explicit_terms,Comprehensive Infectious Nursing Observation
+Std Endo Endoscopic Procedure,Standard Endocrine Endoscopic Procedure,explicit_terms,Standard Endocrine Endoscopic Procedure
+Adv Rheumatologic Lab Panel,Advanced Rheumatologic Laboratory Panel,explicit_terms,Advanced Rheumatologic Laboratory Panel
+Advanced Neuro Consultation,Advanced Neurological Consultation,explicit_terms,Advanced Neurological Consultation
+Occupancy Postoperative Obstetric Isol Rm,Postoperative Obstetric Isolation Room Occupancy,explicit_terms,Postoperative Obstetric Isolation Room Occupancy
+Spclst Derm Transport Service,Specialist Dermatologic Transport Service,explicit_terms,Specialist Dermatologic Transport Service
+Preop Endo Physiotherapy Sess,Preoperative Endocrine Physiotherapy Session,explicit_terms,Preoperative Endocrine Physiotherapy Session
+Occupancy Bedside Ent Recovery Room,Bedside Otolaryngologic Recovery Room Occupancy,explicit_terms,Bedside Otolaryngologic Recovery Room Occupancy
+Therapy Asst Gi Inf,Assisted Gastrointestinal Infusion Therapy,explicit_terms,Assisted Gastrointestinal Infusion Therapy
+Ambulatory  Pulm Recovery Room Occupancy,Ambulatory Pulmonary Recovery Room Occupancy,explicit_terms,Ambulatory Pulmonary Recovery Room Occupancy
+Continuous - Ent Telemetry Monit /NG-9499,Continuous Otolaryngologic Telemetry Monitoring,explicit_terms,Continuous Otolaryngologic Telemetry Monitoring
+Focused - Orthopaedic Transp Svc,Focused Orthopaedic Transport Service,explicit_terms,Focused Orthopaedic Transport Service
+Interm Rheumatologic Diag Img,Intermittent Rheumatologic Diagnostic Imaging,explicit_terms,Intermittent Rheumatologic Diagnostic Imaging
+Standard Ent Radiotherapy Fract,Standard Otolaryngologic Radiotherapy Fraction,explicit_terms,Standard Otolaryngologic Radiotherapy Fraction
+Intens - Nutr Support,Intensive Geriatric Nutritional Support,unique_partial_inference,Intensive Geriatric Nutritional Support
+Occupancy Inpatient Palliative Isol Room,Inpatient Palliative Isolation Room Occupancy,explicit_terms,Inpatient Palliative Isolation Room Occupancy
+Paed Biop Proc Std,Standard Paediatric Biopsy Procedure,explicit_terms,Standard Paediatric Biopsy Procedure
+Occupancy - Beds Otolaryngologic Recov Room,Bedside Otolaryngologic Recovery Room Occupancy,explicit_terms,Bedside Otolaryngologic Recovery Room Occupancy
+Cs Amb Ophthalmic /NG-7838,Ambulatory Ophthalmic Case Conference,explicit_terms,Ambulatory Ophthalmic Case Conference
+Fraction Outpatient Metab Radiotherapy /NG-5514,Outpatient Metabolic Radiotherapy Fraction,explicit_terms,Outpatient Metabolic Radiotherapy Fraction
+Rtn Cardiac Spcm Anly /NG-6683,Routine Cardiac Specimen Analysis,explicit_terms,Routine Cardiac Specimen Analysis
+Specialist Neurological Recovery Rm /NG-7294,Specialist Neurological Recovery Room Occupancy,explicit_terms,Specialist Neurological Recovery Room Occupancy
+Ambulatory Ophthalmic Dial Session,Ambulatory Ophthalmic Dialysis Session,explicit_terms,Ambulatory Ophthalmic Dialysis Session
+Disp Specialist Otolaryngologic Pharmaceutical,Specialist Otolaryngologic Pharmaceutical Dispensing,explicit_terms,Specialist Otolaryngologic Pharmaceutical Dispensing
+Compr Psychiatric Transfusion Svc,Comprehensive Psychiatric Transfusion Service,explicit_terms,Comprehensive Psychiatric Transfusion Service
+Extended Metabolic Isol Rm Occupancy /NG-9372,Extended Metabolic Isolation Room Occupancy,explicit_terms,Extended Metabolic Isolation Room Occupancy
+Ger Nutr Supp Intens,Intensive Geriatric Nutritional Support,explicit_terms,Intensive Geriatric Nutritional Support
+Specialist - Otolaryngologic Pharm Disp /NG-4235,Specialist Otolaryngologic Pharmaceutical Dispensing,explicit_terms,Specialist Otolaryngologic Pharmaceutical Dispensing
+Elective Pulmonary Nutr Supp,Elective Pulmonary Nutritional Support,explicit_terms,Elective Pulmonary Nutritional Support
+Compr Onc Nurs Observation,Comprehensive Oncology Nursing Observation,explicit_terms,Comprehensive Oncology Nursing Observation
+Hep Physio Sess Inpt,Inpatient Hepatic Physiotherapy Session,explicit_terms,Inpatient Hepatic Physiotherapy Session
+Spclst Ent Theatre Tm,Specialist Otolaryngologic Theatre Time,explicit_terms,Specialist Otolaryngologic Theatre Time
+Ent Thtr Tm Compr,Comprehensive Otolaryngologic Theatre Time,explicit_terms,Comprehensive Otolaryngologic Theatre Time
+Compr Infectious Nurs,Comprehensive Infectious Nursing Observation,explicit_terms,Comprehensive Infectious Nursing Observation
+Conf Amb Ophth Cs /NG-4640,Ambulatory Ophthalmic Case Conference,explicit_terms,Ambulatory Ophthalmic Case Conference
+Conference Emer Dermatologic Cs,Emergency Dermatologic Case Conference,explicit_terms,Emergency Dermatologic Case Conference
+Care Cont Musculoskeletal Wnd /NG-8990,Continuous Musculoskeletal Wound Care,explicit_terms,Continuous Musculoskeletal Wound Care
+Prog Comprehensive Otolaryngologic Rehab,Comprehensive Otolaryngologic Rehabilitation Programme,explicit_terms,Comprehensive Otolaryngologic Rehabilitation Programme
+Ophth Radiother Fract Postop,Postoperative Ophthalmic Radiotherapy Fraction,explicit_terms,Postoperative Ophthalmic Radiotherapy Fraction
+Intens Gastrointestinal Isolation Rm Occupancy,Intensive Gastrointestinal Isolation Room Occupancy,explicit_terms,Intensive Gastrointestinal Isolation Room Occupancy
+Cont - Pulmonary Wnd Cr,Continuous Pulmonary Wound Care,explicit_terms,Continuous Pulmonary Wound Care
+Ortho Transp Svc,Focused Orthopaedic Transport Service,unique_partial_inference,Focused Orthopaedic Transport Service
+Visit - Assisted Urol Home /NG-4509,Assisted Urologic Home Visit,explicit_terms,Assisted Urologic Home Visit
+Cont Pharmaceutical Disp,Continuous Vascular Pharmaceutical Dispensing,unique_partial_inference,Continuous Vascular Pharmaceutical Dispensing
+Occupancy - Spclst Neurological Recovery Rm /NG-4948,Specialist Neurological Recovery Room Occupancy,explicit_terms,Specialist Neurological Recovery Room Occupancy
+Asst Infectious Discharge Plng,Assisted Infectious Discharge Planning,explicit_terms,Assisted Infectious Discharge Planning
+Preop - Geriatric Ventilation Supp,Preoperative Geriatric Ventilation Support,explicit_terms,Preoperative Geriatric Ventilation Support
+Emer Ortho Rehabilitation Prog,Emergency Orthopaedic Rehabilitation Programme,explicit_terms,Emergency Orthopaedic Rehabilitation Programme
+Foc - Immunologic Physio,Focused Immunologic Physiotherapy Session,explicit_terms,Focused Immunologic Physiotherapy Session
+Cont - Immunologic Thtr Tm,Continuous Immunologic Theatre Time,explicit_terms,Continuous Immunologic Theatre Time
+Preop Renal Wnd Cr,Preoperative Renal Wound Care,explicit_terms,Preoperative Renal Wound Care
+Asst Urologic Home Vst,Assisted Urologic Home Visit,explicit_terms,Assisted Urologic Home Visit
+Psych Rehab Programme,,unresolved,Continuous Psychiatric Rehabilitation Programme|Routine Psychiatric Rehabilitation Programme
+Specialist - Neuro Recov Rm Occ,Specialist Neurological Recovery Room Occupancy,explicit_terms,Specialist Neurological Recovery Room Occupancy
+Ent Steril Svc Preop,Preoperative Otolaryngologic Sterilisation Service,explicit_terms,Preoperative Otolaryngologic Sterilisation Service
+Procedure Immun Endosc,,unresolved,Ambulatory Immunologic Endoscopic Procedure|Preoperative Immunologic Endoscopic Procedure
+Immun Wd Bd Occ Rtn,Routine Immunologic Ward Bed Occupancy,explicit_terms,Routine Immunologic Ward Bed Occupancy
+Compr Oncology Nurs Obs,Comprehensive Oncology Nursing Observation,explicit_terms,Comprehensive Oncology Nursing Observation
+Standard Pulm Dial Sess,Standard Pulmonary Dialysis Session,explicit_terms,Standard Pulmonary Dialysis Session
+Paed Biop Proc Spclst,Specialist Paediatric Biopsy Procedure,explicit_terms,Specialist Paediatric Biopsy Procedure
+Cont Obstetric Rehab Programme /NG-9792,Continuous Obstetric Rehabilitation Programme,explicit_terms,Continuous Obstetric Rehabilitation Programme
+Ambulatory Psych Dial Session,Ambulatory Psychiatric Dialysis Session,explicit_terms,Ambulatory Psychiatric Dialysis Session
+Ext Pall Lab Panel /NG-9077,Extended Palliative Laboratory Panel,explicit_terms,Extended Palliative Laboratory Panel
+Advanced Rheum Laboratory Pnl /NG-2701,Advanced Rheumatologic Laboratory Panel,explicit_terms,Advanced Rheumatologic Laboratory Panel
+Compr Otolaryngologic Rehab Prog /NG-9048,Comprehensive Otolaryngologic Rehabilitation Programme,explicit_terms,Comprehensive Otolaryngologic Rehabilitation Programme
+Preop Endocrine Physio Session,Preoperative Endocrine Physiotherapy Session,explicit_terms,Preoperative Endocrine Physiotherapy Session
+Occ  - Postoperative Obstetric Isol Rm,Postoperative Obstetric Isolation Room Occupancy,explicit_terms,Postoperative Obstetric Isolation Room Occupancy
+Inpatient Ren Radiotherapy Fraction /NG-3532,Inpatient Renal Radiotherapy Fraction,explicit_terms,Inpatient Renal Radiotherapy Fraction
+Amb Urol Imaging Interpretation,Ambulatory Urologic Imaging Interpretation,explicit_terms,Ambulatory Urologic Imaging Interpretation
+Focused Immun Physiotherapy Sess,Focused Immunologic Physiotherapy Session,explicit_terms,Focused Immunologic Physiotherapy Session
+Obs Cont Card Nursing,Continuous Cardiac Nursing Observation,explicit_terms,Continuous Cardiac Nursing Observation
+Continuous Immun Theatre Time /NG-4759,Continuous Immunologic Theatre Time,explicit_terms,Continuous Immunologic Theatre Time
+Amb Infectious Visit,Ambulatory Infectious Home Visit,explicit_terms,Ambulatory Infectious Home Visit
+Adv Card Recov Rm,Advanced Cardiac Recovery Room Occupancy,explicit_terms,Advanced Cardiac Recovery Room Occupancy
+Advanced Metab Anaes,Advanced Metabolic Anaesthesia Administration,explicit_terms,Advanced Metabolic Anaesthesia Administration
+Advanced Critical Cr Occupancy,Advanced Infectious Critical Care Occupancy,unique_partial_inference,Advanced Infectious Critical Care Occupancy
+Beds Pulmonary Biop Proc,Bedside Pulmonary Biopsy Procedure,explicit_terms,Bedside Pulmonary Biopsy Procedure
+Ophth Cs Conf Intens,Intensive Ophthalmic Case Conference,explicit_terms,Intensive Ophthalmic Case Conference
+Compr - Urologic Transport Service,Comprehensive Urologic Transport Service,explicit_terms,Comprehensive Urologic Transport Service
+Programme Interm Pulmonary Rehab,Intermittent Pulmonary Rehabilitation Programme,explicit_terms,Intermittent Pulmonary Rehabilitation Programme
+Specialist Derm Transp,Specialist Dermatologic Transport Service,explicit_terms,Specialist Dermatologic Transport Service
+Observation Cont Nurs,Continuous Cardiac Nursing Observation,unique_partial_inference,Continuous Cardiac Nursing Observation
+Procedure Standard Endocrine Endosc,Standard Endocrine Endoscopic Procedure,explicit_terms,Standard Endocrine Endoscopic Procedure
+Ent Steril Svc Supv,Supervised Otolaryngologic Sterilisation Service,explicit_terms,Supervised Otolaryngologic Sterilisation Service
+Rtn Biop Proc /NG-7762,Routine Urologic Biopsy Procedure,unique_partial_inference,Routine Urologic Biopsy Procedure
+Standard Ger Nutr Support /NG-7257,Standard Geriatric Nutritional Support,explicit_terms,Standard Geriatric Nutritional Support
+Postoperative Ophthalmic Radiother Fract /NG-5937,Postoperative Ophthalmic Radiotherapy Fraction,explicit_terms,Postoperative Ophthalmic Radiotherapy Fraction
+Occupancy Postop Obstetric Isol Room,Postoperative Obstetric Isolation Room Occupancy,explicit_terms,Postoperative Obstetric Isolation Room Occupancy
+Ext Geriatric Wnd Cr /NG-7617,Extended Geriatric Wound Care,explicit_terms,Extended Geriatric Wound Care
+Procedure Amb Immunologic Endoscopic,Ambulatory Immunologic Endoscopic Procedure,explicit_terms,Ambulatory Immunologic Endoscopic Procedure
+Advanced Card Recov Rm Occ,Advanced Cardiac Recovery Room Occupancy,explicit_terms,Advanced Cardiac Recovery Room Occupancy
+Therapy Rtn Haem Inf,Routine Haematology Infusion Therapy,explicit_terms,Routine Haematology Infusion Therapy
+Amb Psych Dial Session,Ambulatory Psychiatric Dialysis Session,explicit_terms,Ambulatory Psychiatric Dialysis Session
+Emer Ortho Consult,Emergency Orthopaedic Consultation,explicit_terms,Emergency Orthopaedic Consultation
+Amb Ophthalmic Dial Sess,Ambulatory Ophthalmic Dialysis Session,explicit_terms,Ambulatory Ophthalmic Dialysis Session
+Occupancy Rtn Pall Crit Cr,Routine Palliative Critical Care Occupancy,explicit_terms,Routine Palliative Critical Care Occupancy
+Occ Inpt Msk Wd Bd,Inpatient Musculoskeletal Ward Bed Occupancy,explicit_terms,Inpatient Musculoskeletal Ward Bed Occupancy
+Amb Urologic Img Interp,Ambulatory Urologic Imaging Interpretation,explicit_terms,Ambulatory Urologic Imaging Interpretation
+Elect Cardiac Nutritional Supp /NG-3162,Elective Cardiac Nutritional Support,explicit_terms,Elective Cardiac Nutritional Support
+Immun Endosc Proc Amb,Ambulatory Immunologic Endoscopic Procedure,explicit_terms,Ambulatory Immunologic Endoscopic Procedure
+Std Endocrine Dialysis Sess /NG-9032,Standard Endocrine Dialysis Session,explicit_terms,Standard Endocrine Dialysis Session
+Continuous Psych Rehabilitation Prog,Continuous Psychiatric Rehabilitation Programme,explicit_terms,Continuous Psychiatric Rehabilitation Programme
+Advanced Rheum Lab Pnl,Advanced Rheumatologic Laboratory Panel,explicit_terms,Advanced Rheumatologic Laboratory Panel
+Ent Thtr Tm Spclst,Specialist Otolaryngologic Theatre Time,explicit_terms,Specialist Otolaryngologic Theatre Time
+Ambulatory Immunologic Wd Bd Occ,Ambulatory Immunologic Ward Bed Occupancy,explicit_terms,Ambulatory Immunologic Ward Bed Occupancy
+Support Interm Neurological Nutr,Intermittent Neurological Nutritional Support,explicit_terms,Intermittent Neurological Nutritional Support
+Care Extended Ger Wound,Extended Geriatric Wound Care,explicit_terms,Extended Geriatric Wound Care
+Adv Metab Nursing Observation /NG-7035,Advanced Metabolic Nursing Observation,explicit_terms,Advanced Metabolic Nursing Observation
+Intensive Gi Isolation Rm Occ,Intensive Gastrointestinal Isolation Room Occupancy,explicit_terms,Intensive Gastrointestinal Isolation Room Occupancy
+Cont Ent Telem Monit,Continuous Otolaryngologic Telemetry Monitoring,explicit_terms,Continuous Otolaryngologic Telemetry Monitoring
+Std - Biop Proc,Standard Paediatric Biopsy Procedure,unique_partial_inference,Standard Paediatric Biopsy Procedure
+Programme Extended Vascular Rehab,Extended Vascular Rehabilitation Programme,explicit_terms,Extended Vascular Rehabilitation Programme
+Continuous - Obst Rehab Programme,Continuous Obstetric Rehabilitation Programme,explicit_terms,Continuous Obstetric Rehabilitation Programme
+Std Psychiatric Endosc Procedure /NG-5963,Standard Psychiatric Endoscopic Procedure,explicit_terms,Standard Psychiatric Endoscopic Procedure
+Specialist Neuro Recovery Room Occ,Specialist Neurological Recovery Room Occupancy,explicit_terms,Specialist Neurological Recovery Room Occupancy
+Preoperative - Immun Endoscopic Procedure,Preoperative Immunologic Endoscopic Procedure,explicit_terms,Preoperative Immunologic Endoscopic Procedure
+Session Inpt Endo Dial,Inpatient Endocrine Dialysis Session,explicit_terms,Inpatient Endocrine Dialysis Session
+Ophth Radiother Fract Inpt,Inpatient Ophthalmic Radiotherapy Fraction,explicit_terms,Inpatient Ophthalmic Radiotherapy Fraction
+Svc Rtn Gi Transfusion,Routine Gastrointestinal Transfusion Service,explicit_terms,Routine Gastrointestinal Transfusion Service
+Supervised Msk Dialysis Sess,Supervised Musculoskeletal Dialysis Session,explicit_terms,Supervised Musculoskeletal Dialysis Session
+Interm - Diag Img /NG-6221,Intermittent Rheumatologic Diagnostic Imaging,unique_partial_inference,Intermittent Rheumatologic Diagnostic Imaging
+Obs Continuous Card Nursing /NG-8292,Continuous Cardiac Nursing Observation,explicit_terms,Continuous Cardiac Nursing Observation
+Rtn Immunologic Wd Bed Occupancy,Routine Immunologic Ward Bed Occupancy,explicit_terms,Routine Immunologic Ward Bed Occupancy
+Std Pulmonary Dial Sess,Standard Pulmonary Dialysis Session,explicit_terms,Standard Pulmonary Dialysis Session
+Vasc  Diagnostic Img,,unresolved,Inpatient Vascular Diagnostic Imaging|Preoperative Vascular Diagnostic Imaging
+Fraction  Std Ent Radiotherapy,Standard Otolaryngologic Radiotherapy Fraction,explicit_terms,Standard Otolaryngologic Radiotherapy Fraction
+Consult Outpt Immun /NG-3689,Outpatient Immunologic Consultation,explicit_terms,Outpatient Immunologic Consultation
+Occupancy Advanced Card Recov Rm,Advanced Cardiac Recovery Room Occupancy,explicit_terms,Advanced Cardiac Recovery Room Occupancy
+Pulm Wnd Cr Postop,Postoperative Pulmonary Wound Care,explicit_terms,Postoperative Pulmonary Wound Care
+Intens Gi Isolation Room Occupancy /NG-9835,Intensive Gastrointestinal Isolation Room Occupancy,explicit_terms,Intensive Gastrointestinal Isolation Room Occupancy
+Preop Immun Endosc Proc,Preoperative Immunologic Endoscopic Procedure,explicit_terms,Preoperative Immunologic Endoscopic Procedure
+Inpatient Pall Specimen Analysis /NG-4820,Inpatient Palliative Specimen Analysis,explicit_terms,Inpatient Palliative Specimen Analysis
+Outpt Radiother Fraction,Outpatient Metabolic Radiotherapy Fraction,unique_partial_inference,Outpatient Metabolic Radiotherapy Fraction
+Rtn Haem Inf Therapy,Routine Haematology Infusion Therapy,explicit_terms,Routine Haematology Infusion Therapy
+Extended Pall Laboratory Pnl,Extended Palliative Laboratory Panel,explicit_terms,Extended Palliative Laboratory Panel
+Inpatient  Ophth Radiother Fraction,Inpatient Ophthalmic Radiotherapy Fraction,explicit_terms,Inpatient Ophthalmic Radiotherapy Fraction
+Ext - Pall Panel,Extended Palliative Laboratory Panel,explicit_terms,Extended Palliative Laboratory Panel
+Inpt Hep Physiotherapy Session,Inpatient Hepatic Physiotherapy Session,explicit_terms,Inpatient Hepatic Physiotherapy Session
+Spclst Otolaryngologic Thtr Tm,Specialist Otolaryngologic Theatre Time,explicit_terms,Specialist Otolaryngologic Theatre Time
+Amb - Urol Img Interp,Ambulatory Urologic Imaging Interpretation,explicit_terms,Ambulatory Urologic Imaging Interpretation
+Observation Compr Infectious Nurs,Comprehensive Infectious Nursing Observation,explicit_terms,Comprehensive Infectious Nursing Observation
+Amb Immun Endosc Proc,Ambulatory Immunologic Endoscopic Procedure,explicit_terms,Ambulatory Immunologic Endoscopic Procedure
+Occ - Inpt Isol Rm /NG-2747,Inpatient Palliative Isolation Room Occupancy,unique_partial_inference,Inpatient Palliative Isolation Room Occupancy
+Ren Radiotherapy Fract,,unresolved,Emergency Renal Radiotherapy Fraction|Inpatient Renal Radiotherapy Fraction
+Preop Onc Consultation,Preoperative Oncology Consultation,explicit_terms,Preoperative Oncology Consultation
+Standard Endo Dial Sess,Standard Endocrine Dialysis Session,explicit_terms,Standard Endocrine Dialysis Session
+Interm Pulm Rehab Prog,Intermittent Pulmonary Rehabilitation Programme,explicit_terms,Intermittent Pulmonary Rehabilitation Programme
+Cr Focused Ent Wound,Focused Otolaryngologic Wound Care,explicit_terms,Focused Otolaryngologic Wound Care
+Occ Beds Otolaryngologic Recovery Room /NG-2212,Bedside Otolaryngologic Recovery Room Occupancy,explicit_terms,Bedside Otolaryngologic Recovery Room Occupancy
+Infect Crit Cr Occ Rtn,Routine Infectious Critical Care Occupancy,explicit_terms,Routine Infectious Critical Care Occupancy
+Inpt - Ophth Radiother Fract,Inpatient Ophthalmic Radiotherapy Fraction,explicit_terms,Inpatient Ophthalmic Radiotherapy Fraction
+Ren Radiother Fract Inpt,Inpatient Renal Radiotherapy Fraction,explicit_terms,Inpatient Renal Radiotherapy Fraction
+Imaging Interm Rheum Diagnostic,Intermittent Rheumatologic Diagnostic Imaging,explicit_terms,Intermittent Rheumatologic Diagnostic Imaging
+Assisted  Urol Hm Vst,Assisted Urologic Home Visit,explicit_terms,Assisted Urologic Home Visit
+Compr Otolaryngologic Theatre Tm,Comprehensive Otolaryngologic Theatre Time,explicit_terms,Comprehensive Otolaryngologic Theatre Time
+Vasc Diag Img Preop,Preoperative Vascular Diagnostic Imaging,explicit_terms,Preoperative Vascular Diagnostic Imaging
+Preoperative - Ger Vent Support /NG-6364,Preoperative Geriatric Ventilation Support,explicit_terms,Preoperative Geriatric Ventilation Support
+Ext Pall Lab Panel,Extended Palliative Laboratory Panel,explicit_terms,Extended Palliative Laboratory Panel
+Rtn Cardiac Specimen,Routine Cardiac Specimen Analysis,explicit_terms,Routine Cardiac Specimen Analysis
+Ambulatory Card Hm Visit /NG-9268,Ambulatory Cardiac Home Visit,explicit_terms,Ambulatory Cardiac Home Visit
+Advanced - Metab Nurs Obs,Advanced Metabolic Nursing Observation,explicit_terms,Advanced Metabolic Nursing Observation
+Immun Wd Bd Occ Amb,Ambulatory Immunologic Ward Bed Occupancy,explicit_terms,Ambulatory Immunologic Ward Bed Occupancy
+Cont Immun Theatre Time /NG-9315,Continuous Immunologic Theatre Time,explicit_terms,Continuous Immunologic Theatre Time
+Routine - Onc Discharge Plng,Routine Oncology Discharge Planning,explicit_terms,Routine Oncology Discharge Planning
+Advanced Haem Physio Session,Advanced Haematology Physiotherapy Session,explicit_terms,Advanced Haematology Physiotherapy Session
+Rtn - Onc Discharge Plng,Routine Oncology Discharge Planning,explicit_terms,Routine Oncology Discharge Planning
+Standard Paed Biopsy Procedure,Standard Paediatric Biopsy Procedure,explicit_terms,Standard Paediatric Biopsy Procedure
+Rtn Dermatologic Transfusion Svc,Routine Dermatologic Transfusion Service,explicit_terms,Routine Dermatologic Transfusion Service
+Amb Psychiatric Dialysis Sess,Ambulatory Psychiatric Dialysis Session,explicit_terms,Ambulatory Psychiatric Dialysis Session
+Inpt Hepatic Session,Inpatient Hepatic Physiotherapy Session,explicit_terms,Inpatient Hepatic Physiotherapy Session
+Obs Metab Nursing,Advanced Metabolic Nursing Observation,unique_partial_inference,Advanced Metabolic Nursing Observation
+Immun Endosc Proc Preop,Preoperative Immunologic Endoscopic Procedure,explicit_terms,Preoperative Immunologic Endoscopic Procedure
+Ther Assisted Ger Infusion,Assisted Geriatric Infusion Therapy,explicit_terms,Assisted Geriatric Infusion Therapy
+Focused Orthopaedic Transp Svc,Focused Orthopaedic Transport Service,explicit_terms,Focused Orthopaedic Transport Service
+Adv Haem Physiotherapy Sess,Advanced Haematology Physiotherapy Session,explicit_terms,Advanced Haematology Physiotherapy Session
+Postop Pulmonary Wnd Care /NG-1729,Postoperative Pulmonary Wound Care,explicit_terms,Postoperative Pulmonary Wound Care
+Cont Psych Rehab Programme,Continuous Psychiatric Rehabilitation Programme,explicit_terms,Continuous Psychiatric Rehabilitation Programme
+Ophth Cs Conf Amb,Ambulatory Ophthalmic Case Conference,explicit_terms,Ambulatory Ophthalmic Case Conference
+Beds Otolaryngologic Recovery Room Occ,Bedside Otolaryngologic Recovery Room Occupancy,explicit_terms,Bedside Otolaryngologic Recovery Room Occupancy
+Supervised Musculoskeletal Dialysis Sess /NG-6660,Supervised Musculoskeletal Dialysis Session,explicit_terms,Supervised Musculoskeletal Dialysis Session
+Compr - Otolaryngologic Rehab Prog,Comprehensive Otolaryngologic Rehabilitation Programme,explicit_terms,Comprehensive Otolaryngologic Rehabilitation Programme
+Fract Std Otolaryngologic Radiotherapy,Standard Otolaryngologic Radiotherapy Fraction,explicit_terms,Standard Otolaryngologic Radiotherapy Fraction
+Elect  Card Nutritional Supp,Elective Cardiac Nutritional Support,explicit_terms,Elective Cardiac Nutritional Support
+Continuous Otolaryngologic Telemetry Monit /NG-7391,Continuous Otolaryngologic Telemetry Monitoring,explicit_terms,Continuous Otolaryngologic Telemetry Monitoring
+Routine - Gastrointestinal Transfusion Svc,Routine Gastrointestinal Transfusion Service,explicit_terms,Routine Gastrointestinal Transfusion Service
+Asst Gastrointestinal Infusion Therapy,Assisted Gastrointestinal Infusion Therapy,explicit_terms,Assisted Gastrointestinal Infusion Therapy
+Focused Ent Cr /NG-9962,Focused Otolaryngologic Wound Care,explicit_terms,Focused Otolaryngologic Wound Care
+Inpt - Hep Physio Sess /NG-1999,Inpatient Hepatic Physiotherapy Session,explicit_terms,Inpatient Hepatic Physiotherapy Session
+Proc Std Psychiatric Endosc /NG-2345,Standard Psychiatric Endoscopic Procedure,explicit_terms,Standard Psychiatric Endoscopic Procedure
+Ambulatory - Immunologic Wd Bed Occ /NG-8463,Ambulatory Immunologic Ward Bed Occupancy,explicit_terms,Ambulatory Immunologic Ward Bed Occupancy
+Outpatient Metab Radiother Fraction,Outpatient Metabolic Radiotherapy Fraction,explicit_terms,Outpatient Metabolic Radiotherapy Fraction
+Amb Pulm Recov Rm Occupancy,Ambulatory Pulmonary Recovery Room Occupancy,explicit_terms,Ambulatory Pulmonary Recovery Room Occupancy
+Conf Emergency Derm Cs,Emergency Dermatologic Case Conference,explicit_terms,Emergency Dermatologic Case Conference
+Inpt - Ren Radiotherapy Fract,Inpatient Renal Radiotherapy Fraction,explicit_terms,Inpatient Renal Radiotherapy Fraction
+Sess Ambulatory Ophth Dialysis,Ambulatory Ophthalmic Dialysis Session,explicit_terms,Ambulatory Ophthalmic Dialysis Session
+Session Beds Psychiatric Dialysis,Bedside Psychiatric Dialysis Session,explicit_terms,Bedside Psychiatric Dialysis Session
+Preop Geriatric Vent Supp,Preoperative Geriatric Ventilation Support,explicit_terms,Preoperative Geriatric Ventilation Support
+Postop Critical Cr Occupancy,Postoperative Metabolic Critical Care Occupancy,unique_partial_inference,Postoperative Metabolic Critical Care Occupancy
+Preop Oncology Consult /NG-2424,Preoperative Oncology Consultation,explicit_terms,Preoperative Oncology Consultation
+Img Preop Vascular Diag,Preoperative Vascular Diagnostic Imaging,explicit_terms,Preoperative Vascular Diagnostic Imaging
+Session Specialist Hep Physiotherapy,Specialist Hepatic Physiotherapy Session,explicit_terms,Specialist Hepatic Physiotherapy Session
+Svc Routine Derm Transf /NG-2484,Routine Dermatologic Transfusion Service,explicit_terms,Routine Dermatologic Transfusion Service
+Inpatient Ophth Transport Svc,Inpatient Ophthalmic Transport Service,explicit_terms,Inpatient Ophthalmic Transport Service
+Supp Interm Neuro Nutritional /NG-6247,Intermittent Neurological Nutritional Support,explicit_terms,Intermittent Neurological Nutritional Support
+Psych Rehab Prog Rtn,Routine Psychiatric Rehabilitation Programme,explicit_terms,Routine Psychiatric Rehabilitation Programme
+Ther Asst Gi Inf,Assisted Gastrointestinal Infusion Therapy,explicit_terms,Assisted Gastrointestinal Infusion Therapy
+Extended Haem Anaes Admin,,unresolved,
+Beds Psych Session,Bedside Psychiatric Dialysis Session,explicit_terms,Bedside Psychiatric Dialysis Session
+Therapy - Assisted Ger Infusion /NG-4561,Assisted Geriatric Infusion Therapy,explicit_terms,Assisted Geriatric Infusion Therapy
+Inpatient Hepatic Physio Sess,Inpatient Hepatic Physiotherapy Session,explicit_terms,Inpatient Hepatic Physiotherapy Session
+Spclst  Derm Transp Svc /NG-4716,Specialist Dermatologic Transport Service,explicit_terms,Specialist Dermatologic Transport Service
+Cont Vasc Pharmaceutical Disp,Continuous Vascular Pharmaceutical Dispensing,explicit_terms,Continuous Vascular Pharmaceutical Dispensing
+Compr Infectious Nursing Observation,Comprehensive Infectious Nursing Observation,explicit_terms,Comprehensive Infectious Nursing Observation
+Preop Otolaryngologic Steril Svc,Preoperative Otolaryngologic Sterilisation Service,explicit_terms,Preoperative Otolaryngologic Sterilisation Service
+Adv Metabolic Anaes Administration,Advanced Metabolic Anaesthesia Administration,explicit_terms,Advanced Metabolic Anaesthesia Administration
+Img Inpatient Diag,Inpatient Vascular Diagnostic Imaging,unique_partial_inference,Inpatient Vascular Diagnostic Imaging
+Cr Foc Otolaryngologic Wound,Focused Otolaryngologic Wound Care,explicit_terms,Focused Otolaryngologic Wound Care
+Emer Orthopaedic Consultation,Emergency Orthopaedic Consultation,explicit_terms,Emergency Orthopaedic Consultation
+Comprehensive - Onc Nurs Obs,Comprehensive Oncology Nursing Observation,explicit_terms,Comprehensive Oncology Nursing Observation
+Cont - Psychiatric Rehab Prog /NG-1498,Continuous Psychiatric Rehabilitation Programme,explicit_terms,Continuous Psychiatric Rehabilitation Programme
+Ambulatory Urol Imaging Interpretation,Ambulatory Urologic Imaging Interpretation,explicit_terms,Ambulatory Urologic Imaging Interpretation
+Rtn Pall Crit Cr Occupancy,Routine Palliative Critical Care Occupancy,explicit_terms,Routine Palliative Critical Care Occupancy
+Infect Crit Cr Occ Adv,Advanced Infectious Critical Care Occupancy,explicit_terms,Advanced Infectious Critical Care Occupancy
+Conference Intens Ophth Cs,Intensive Ophthalmic Case Conference,explicit_terms,Intensive Ophthalmic Case Conference
+Extended Vasc Rehab Prog,Extended Vascular Rehabilitation Programme,explicit_terms,Extended Vascular Rehabilitation Programme
+Svc Extended Ren Transp,Extended Renal Transport Service,explicit_terms,Extended Renal Transport Service
+Inpt - Pall Specimen Analysis /NG-1173,Inpatient Palliative Specimen Analysis,explicit_terms,Inpatient Palliative Specimen Analysis
+Cont Psychiatric Rehabilitation Programme,Continuous Psychiatric Rehabilitation Programme,explicit_terms,Continuous Psychiatric Rehabilitation Programme
+Interm Rheum Diagnostic Img /NG-6790,Intermittent Rheumatologic Diagnostic Imaging,explicit_terms,Intermittent Rheumatologic Diagnostic Imaging
+Spclst Hepatic Physiotherapy Sess,Specialist Hepatic Physiotherapy Session,explicit_terms,Specialist Hepatic Physiotherapy Session
+Preop Oncology Consult /NG-7321,Preoperative Oncology Consultation,explicit_terms,Preoperative Oncology Consultation
+Outpatient - Metabolic Radiother Fract /NG-9469,Outpatient Metabolic Radiotherapy Fraction,explicit_terms,Outpatient Metabolic Radiotherapy Fraction
+Ext Palliative Laboratory Pnl,Extended Palliative Laboratory Panel,explicit_terms,Extended Palliative Laboratory Panel
+Spclst Ent Thtr Time,Specialist Otolaryngologic Theatre Time,explicit_terms,Specialist Otolaryngologic Theatre Time
+Care Cont Musculoskeletal Wnd /NG-8330,Continuous Musculoskeletal Wound Care,explicit_terms,Continuous Musculoskeletal Wound Care
+Interm Derm Transfusion Service /NG-8116,Intermittent Dermatologic Transfusion Service,explicit_terms,Intermittent Dermatologic Transfusion Service
+Inpatient Ophth Transp Svc,Inpatient Ophthalmic Transport Service,explicit_terms,Inpatient Ophthalmic Transport Service
+Supervised Msk Dial Session,Supervised Musculoskeletal Dialysis Session,explicit_terms,Supervised Musculoskeletal Dialysis Session
+Amb Infectious Hm Visit,Ambulatory Infectious Home Visit,explicit_terms,Ambulatory Infectious Home Visit
+Inpatient - Ophth Transport,Inpatient Ophthalmic Transport Service,explicit_terms,Inpatient Ophthalmic Transport Service
+Std Paediatric Proc,Standard Paediatric Biopsy Procedure,explicit_terms,Standard Paediatric Biopsy Procedure
+Elect Cardiac Nutr Supp,Elective Cardiac Nutritional Support,explicit_terms,Elective Cardiac Nutritional Support
+Advanced Haem Physiotherapy Session,Advanced Haematology Physiotherapy Session,explicit_terms,Advanced Haematology Physiotherapy Session
+Supervised - Ent Steril Svc /NG-7318,Supervised Otolaryngologic Sterilisation Service,explicit_terms,Supervised Otolaryngologic Sterilisation Service
+Elective - Pulm Nutritional Supp,Elective Pulmonary Nutritional Support,explicit_terms,Elective Pulmonary Nutritional Support
+Preop Endo Physio Sess,Preoperative Endocrine Physiotherapy Session,explicit_terms,Preoperative Endocrine Physiotherapy Session
+Inpt Palliative Isolation Rm Occupancy,Inpatient Palliative Isolation Room Occupancy,explicit_terms,Inpatient Palliative Isolation Room Occupancy
+Postoperative Ophth Radiother Fract,Postoperative Ophthalmic Radiotherapy Fraction,explicit_terms,Postoperative Ophthalmic Radiotherapy Fraction
+Adv Metabolic Anaesthesia Admin,Advanced Metabolic Anaesthesia Administration,explicit_terms,Advanced Metabolic Anaesthesia Administration
+Focused Otolaryngologic Wound Cr,Focused Otolaryngologic Wound Care,explicit_terms,Focused Otolaryngologic Wound Care
+Occ Beds Otolaryngologic Recov Room,Bedside Otolaryngologic Recovery Room Occupancy,explicit_terms,Bedside Otolaryngologic Recovery Room Occupancy
+Ambulatory  Immunologic Wd Bd Occupancy,Ambulatory Immunologic Ward Bed Occupancy,explicit_terms,Ambulatory Immunologic Ward Bed Occupancy
+Proc Preoperative Immunologic Endoscopic /NG-1751,Preoperative Immunologic Endoscopic Procedure,explicit_terms,Preoperative Immunologic Endoscopic Procedure
+Interm Rehab Programme,Intermittent Pulmonary Rehabilitation Programme,unique_partial_inference,Intermittent Pulmonary Rehabilitation Programme
+Supp Geriatric Vent /NG-9418,Preoperative Geriatric Ventilation Support,unique_partial_inference,Preoperative Geriatric Ventilation Support
+Anly Inpatient Palliative Specimen,Inpatient Palliative Specimen Analysis,explicit_terms,Inpatient Palliative Specimen Analysis
+Therapy Rtn Haem Infusion /NG-2021,Routine Haematology Infusion Therapy,explicit_terms,Routine Haematology Infusion Therapy
+Inpt Palliative Isol Room Occupancy,Inpatient Palliative Isolation Room Occupancy,explicit_terms,Inpatient Palliative Isolation Room Occupancy
+Ren Radiother Fract Emer,Emergency Renal Radiotherapy Fraction,explicit_terms,Emergency Renal Radiotherapy Fraction
+Spclst Otolaryngologic Pharm Disp,Specialist Otolaryngologic Pharmaceutical Dispensing,explicit_terms,Specialist Otolaryngologic Pharmaceutical Dispensing
+Ambulatory Card Home Vst,Ambulatory Cardiac Home Visit,explicit_terms,Ambulatory Cardiac Home Visit
+Rtn - Psychiatric Rehabilitation Prog,Routine Psychiatric Rehabilitation Programme,explicit_terms,Routine Psychiatric Rehabilitation Programme
+Continuous Wnd Care,,unresolved,Continuous Musculoskeletal Wound Care|Continuous Pulmonary Wound Care
+Emer Orthopaedic Rehabilitation Prog,Emergency Orthopaedic Rehabilitation Programme,explicit_terms,Emergency Orthopaedic Rehabilitation Programme
+Cont Pulmonary Wnd Cr,Continuous Pulmonary Wound Care,explicit_terms,Continuous Pulmonary Wound Care
+Supv Ent Steril Svc,Supervised Otolaryngologic Sterilisation Service,explicit_terms,Supervised Otolaryngologic Sterilisation Service
+Specialist Ent Pharmaceutical Dispensing,Specialist Otolaryngologic Pharmaceutical Dispensing,explicit_terms,Specialist Otolaryngologic Pharmaceutical Dispensing
+Specialist Paediatric Biop Proc /NG-5601,Specialist Paediatric Biopsy Procedure,explicit_terms,Specialist Paediatric Biopsy Procedure
+Consultation Adv,Advanced Neurological Consultation,unique_partial_inference,Advanced Neurological Consultation
+Compr Infectious Nursing,Comprehensive Infectious Nursing Observation,explicit_terms,Comprehensive Infectious Nursing Observation
+Admin Advanced Metabolic Anaes /NG-1114,Advanced Metabolic Anaesthesia Administration,explicit_terms,Advanced Metabolic Anaesthesia Administration
+Sess Inpatient Endo Dialysis,Inpatient Endocrine Dialysis Session,explicit_terms,Inpatient Endocrine Dialysis Session
+Compr Ent Thtr Time,Comprehensive Otolaryngologic Theatre Time,explicit_terms,Comprehensive Otolaryngologic Theatre Time
+Proc - Amb Immun Endoscopic /NG-3634,Ambulatory Immunologic Endoscopic Procedure,explicit_terms,Ambulatory Immunologic Endoscopic Procedure
+Routine  Biop Procedure,Routine Urologic Biopsy Procedure,unique_partial_inference,Routine Urologic Biopsy Procedure
+Continuous - Card Nursing Observation,Continuous Cardiac Nursing Observation,explicit_terms,Continuous Cardiac Nursing Observation
+Beds Psych Dialysis Sess,Bedside Psychiatric Dialysis Session,explicit_terms,Bedside Psychiatric Dialysis Session
+Compr - Urol Transp Svc,Comprehensive Urologic Transport Service,explicit_terms,Comprehensive Urologic Transport Service
+Psych Dial Sess Beds,Bedside Psychiatric Dialysis Session,explicit_terms,Bedside Psychiatric Dialysis Session
+Compr Psychiatric Transf Service /NG-8081,Comprehensive Psychiatric Transfusion Service,explicit_terms,Comprehensive Psychiatric Transfusion Service
+Care Preop Ren Wound,Preoperative Renal Wound Care,explicit_terms,Preoperative Renal Wound Care
+Session Std Endocrine Dialysis,Standard Endocrine Dialysis Session,explicit_terms,Standard Endocrine Dialysis Session
+Endo Dial Sess Inpt,Inpatient Endocrine Dialysis Session,explicit_terms,Inpatient Endocrine Dialysis Session
+Advanced Infectious Crit Care Occ /NG-3293,Advanced Infectious Critical Care Occupancy,explicit_terms,Advanced Infectious Critical Care Occupancy
+Inpt - Ophth Radiother Fract /NG-2420,Inpatient Ophthalmic Radiotherapy Fraction,explicit_terms,Inpatient Ophthalmic Radiotherapy Fraction
+Specialist Paediatric Biop Procedure /NG-2447,Specialist Paediatric Biopsy Procedure,explicit_terms,Specialist Paediatric Biopsy Procedure
+Img Preop Vasc Diagnostic,Preoperative Vascular Diagnostic Imaging,explicit_terms,Preoperative Vascular Diagnostic Imaging
+Emergency Dermatologic Cs Conference,Emergency Dermatologic Case Conference,explicit_terms,Emergency Dermatologic Case Conference
+Amb Msk Wd Bd Occupancy /NG-3394,Ambulatory Musculoskeletal Ward Bed Occupancy,explicit_terms,Ambulatory Musculoskeletal Ward Bed Occupancy
+Occ - Postoperative Metabolic Critical Care,Postoperative Metabolic Critical Care Occupancy,explicit_terms,Postoperative Metabolic Critical Care Occupancy
+Preoperative - Ren Wnd Cr,Preoperative Renal Wound Care,explicit_terms,Preoperative Renal Wound Care
+Std Geriatric Nutritional Supp,Standard Geriatric Nutritional Support,explicit_terms,Standard Geriatric Nutritional Support
+Svc Intermittent Derm Transf /NG-9194,Intermittent Dermatologic Transfusion Service,explicit_terms,Intermittent Dermatologic Transfusion Service
+Conference Amb Ophth Case,Ambulatory Ophthalmic Case Conference,explicit_terms,Ambulatory Ophthalmic Case Conference
+Extended Ren Transport Service,Extended Renal Transport Service,explicit_terms,Extended Renal Transport Service
+Emergency Ren Radiotherapy Fract,Emergency Renal Radiotherapy Fraction,explicit_terms,Emergency Renal Radiotherapy Fraction
+Session - Std Pulmonary Dial,Standard Pulmonary Dialysis Session,explicit_terms,Standard Pulmonary Dialysis Session
+Std Endocrine Endosc Procedure /NG-7684,Standard Endocrine Endoscopic Procedure,explicit_terms,Standard Endocrine Endoscopic Procedure
+Inpt Musculoskeletal Wd Bed Occupancy /NG-8170,Inpatient Musculoskeletal Ward Bed Occupancy,explicit_terms,Inpatient Musculoskeletal Ward Bed Occupancy
+Routine Pall Critical Care Occupancy /NG-1990,Routine Palliative Critical Care Occupancy,explicit_terms,Routine Palliative Critical Care Occupancy
+Postop Ophthalmic Radiotherapy Fract,Postoperative Ophthalmic Radiotherapy Fraction,explicit_terms,Postoperative Ophthalmic Radiotherapy Fraction
+Cont Vasc Pharmaceutical Dispensing,Continuous Vascular Pharmaceutical Dispensing,explicit_terms,Continuous Vascular Pharmaceutical Dispensing
+Amb - Ophthalmic Cs Conf,Ambulatory Ophthalmic Case Conference,explicit_terms,Ambulatory Ophthalmic Case Conference
+Ext - Vascular Rehabilitation Prog,Extended Vascular Rehabilitation Programme,explicit_terms,Extended Vascular Rehabilitation Programme
+Occupancy  Extended Metabolic Isol Rm /NG-3709,Extended Metabolic Isolation Room Occupancy,explicit_terms,Extended Metabolic Isolation Room Occupancy
+Derm Transf Svc Interm,Intermittent Dermatologic Transfusion Service,explicit_terms,Intermittent Dermatologic Transfusion Service
+Emer Ortho,,unresolved,Emergency Orthopaedic Consultation|Emergency Orthopaedic Rehabilitation Programme
+Assisted - Pulm Thtr Tm /NG-9868,Assisted Pulmonary Theatre Time,explicit_terms,Assisted Pulmonary Theatre Time
+Preoperative Otolaryngologic Steril Service,Preoperative Otolaryngologic Sterilisation Service,explicit_terms,Preoperative Otolaryngologic Sterilisation Service
+Postoperative Pulm Wnd Cr,Postoperative Pulmonary Wound Care,explicit_terms,Postoperative Pulmonary Wound Care
+Amb Card Home Vst,Ambulatory Cardiac Home Visit,explicit_terms,Ambulatory Cardiac Home Visit
+Supervised Ent Steril Service,Supervised Otolaryngologic Sterilisation Service,explicit_terms,Supervised Otolaryngologic Sterilisation Service
+Rtn - Urol Biop Procedure,Routine Urologic Biopsy Procedure,explicit_terms,Routine Urologic Biopsy Procedure
+Inpt Ophth Transport Svc,Inpatient Ophthalmic Transport Service,explicit_terms,Inpatient Ophthalmic Transport Service
+Psych Dial Sess Amb,Ambulatory Psychiatric Dialysis Session,explicit_terms,Ambulatory Psychiatric Dialysis Session
+Hep Physio Sess Spclst,Specialist Hepatic Physiotherapy Session,explicit_terms,Specialist Hepatic Physiotherapy Session
+Care Focused Ent Wnd,Focused Otolaryngologic Wound Care,explicit_terms,Focused Otolaryngologic Wound Care
+Advanced Neuro Consult,Advanced Neurological Consultation,explicit_terms,Advanced Neurological Consultation
+Cr Cont Wnd,,unresolved,Continuous Musculoskeletal Wound Care|Continuous Pulmonary Wound Care
+Outpt - Immun Consultation /NG-3299,Outpatient Immunologic Consultation,explicit_terms,Outpatient Immunologic Consultation
+Supv Ren Isol Rm Occupancy,Supervised Renal Isolation Room Occupancy,explicit_terms,Supervised Renal Isolation Room Occupancy
+Assisted - Infect Disch Planning /NG-6257,Assisted Infectious Discharge Planning,explicit_terms,Assisted Infectious Discharge Planning
+Psychiatric Rehab Programme /NG-8199,,unresolved,Continuous Psychiatric Rehabilitation Programme|Routine Psychiatric Rehabilitation Programme
+Bedside Pulm Biopsy Proc,Bedside Pulmonary Biopsy Procedure,explicit_terms,Bedside Pulmonary Biopsy Procedure
+Assisted Gi Inf Ther /NG-8862,Assisted Gastrointestinal Infusion Therapy,explicit_terms,Assisted Gastrointestinal Infusion Therapy
+Session Std Pulmonary Dialysis,Standard Pulmonary Dialysis Session,explicit_terms,Standard Pulmonary Dialysis Session
+Rtn - Transf Svc,,unresolved,Routine Dermatologic Transfusion Service|Routine Gastrointestinal Transfusion Service
+Continuous Ent Telem Monit,Continuous Otolaryngologic Telemetry Monitoring,explicit_terms,Continuous Otolaryngologic Telemetry Monitoring
+Spclst Hep Physio Session,Specialist Hepatic Physiotherapy Session,explicit_terms,Specialist Hepatic Physiotherapy Session
+Emer - Ortho Consultation,Emergency Orthopaedic Consultation,explicit_terms,Emergency Orthopaedic Consultation
+Svc Interm Transf,Intermittent Dermatologic Transfusion Service,unique_partial_inference,Intermittent Dermatologic Transfusion Service
+Ger Nutr Support /NG-2366,,unresolved,Intensive Geriatric Nutritional Support|Standard Geriatric Nutritional Support
+Fract Std Ent,Standard Otolaryngologic Radiotherapy Fraction,explicit_terms,Standard Otolaryngologic Radiotherapy Fraction
+Time Asst Pulm Theatre,Assisted Pulmonary Theatre Time,explicit_terms,Assisted Pulmonary Theatre Time
+Ambulatory Musculoskeletal Wd Bd Occ,Ambulatory Musculoskeletal Ward Bed Occupancy,explicit_terms,Ambulatory Musculoskeletal Ward Bed Occupancy
+Postoperative - Ophth Radiother Fract /NG-1408,Postoperative Ophthalmic Radiotherapy Fraction,explicit_terms,Postoperative Ophthalmic Radiotherapy Fraction
+Preoperative Endocrine Physio Sess,Preoperative Endocrine Physiotherapy Session,explicit_terms,Preoperative Endocrine Physiotherapy Session
+Interm Neuro Nutr Supp /NG-9593,Intermittent Neurological Nutritional Support,explicit_terms,Intermittent Neurological Nutritional Support
+Bedside Pulmonary Biop Proc,Bedside Pulmonary Biopsy Procedure,explicit_terms,Bedside Pulmonary Biopsy Procedure
+Rtn Infect Crit Cr Occupancy,Routine Infectious Critical Care Occupancy,explicit_terms,Routine Infectious Critical Care Occupancy
+Assisted Infect Disch Planning /NG-1542,Assisted Infectious Discharge Planning,explicit_terms,Assisted Infectious Discharge Planning
+Comprehensive Oncology Nurs Obs,Comprehensive Oncology Nursing Observation,explicit_terms,Comprehensive Oncology Nursing Observation
+Fraction Emergency Ren Radiotherapy,Emergency Renal Radiotherapy Fraction,explicit_terms,Emergency Renal Radiotherapy Fraction
+Inpatient - Vasc Diagnostic Img,Inpatient Vascular Diagnostic Imaging,explicit_terms,Inpatient Vascular Diagnostic Imaging
+Conference Amb Ophth Cs /NG-9862,Ambulatory Ophthalmic Case Conference,explicit_terms,Ambulatory Ophthalmic Case Conference
+Foc - Ortho Transp Service,Focused Orthopaedic Transport Service,explicit_terms,Focused Orthopaedic Transport Service
+Comprehensive Onc Nurs Observation,Comprehensive Oncology Nursing Observation,explicit_terms,Comprehensive Oncology Nursing Observation
+Fract Inpt Ophthalmic Radiotherapy /NG-8037,Inpatient Ophthalmic Radiotherapy Fraction,explicit_terms,Inpatient Ophthalmic Radiotherapy Fraction
+Comprehensive Otolaryngologic Thtr Time,Comprehensive Otolaryngologic Theatre Time,explicit_terms,Comprehensive Otolaryngologic Theatre Time
+Compr Urologic Transp Service,Comprehensive Urologic Transport Service,explicit_terms,Comprehensive Urologic Transport Service
+Programme  Rtn Psych Rehab /NG-3241,Routine Psychiatric Rehabilitation Programme,explicit_terms,Routine Psychiatric Rehabilitation Programme
+Elect - Card Supp,Elective Cardiac Nutritional Support,explicit_terms,Elective Cardiac Nutritional Support
+Rtn Palliative Critical Cr Occ,Routine Palliative Critical Care Occupancy,explicit_terms,Routine Palliative Critical Care Occupancy
+Pulmonary - Biopsy Proc,Bedside Pulmonary Biopsy Procedure,unique_partial_inference,Bedside Pulmonary Biopsy Procedure
+Std Psychiatric Endoscopic Procedure /NG-6086,Standard Psychiatric Endoscopic Procedure,explicit_terms,Standard Psychiatric Endoscopic Procedure
+Outpt Immun Consult /NG-9519,Outpatient Immunologic Consultation,explicit_terms,Outpatient Immunologic Consultation
+Postoperative - Metab Crit Cr Occupancy,Postoperative Metabolic Critical Care Occupancy,explicit_terms,Postoperative Metabolic Critical Care Occupancy
+Sess Ambulatory Psych Dialysis /NG-7178,Ambulatory Psychiatric Dialysis Session,explicit_terms,Ambulatory Psychiatric Dialysis Session
+Ambulatory Endosc Procedure /NG-8034,Ambulatory Immunologic Endoscopic Procedure,unique_partial_inference,Ambulatory Immunologic Endoscopic Procedure
+Spclst - Ent Thtr Tm /NG-7710,Specialist Otolaryngologic Theatre Time,explicit_terms,Specialist Otolaryngologic Theatre Time
+Extended Metab Isolation Room Occupancy,Extended Metabolic Isolation Room Occupancy,explicit_terms,Extended Metabolic Isolation Room Occupancy
+Specialist Paed Biop Proc,Specialist Paediatric Biopsy Procedure,explicit_terms,Specialist Paediatric Biopsy Procedure
+Rtn Palliative Critical Cr Occupancy,Routine Palliative Critical Care Occupancy,explicit_terms,Routine Palliative Critical Care Occupancy
+Inpt Hepatic Physio Session /NG-3220,Inpatient Hepatic Physiotherapy Session,explicit_terms,Inpatient Hepatic Physiotherapy Session
+Outpt Immun Consultation,Outpatient Immunologic Consultation,explicit_terms,Outpatient Immunologic Consultation
+Endo Dial Sess Std,Standard Endocrine Dialysis Session,explicit_terms,Standard Endocrine Dialysis Session
+Obs Continuous Card Nurs,Continuous Cardiac Nursing Observation,explicit_terms,Continuous Cardiac Nursing Observation
+Asst Pulmonary Theatre Time /NG-2448,Assisted Pulmonary Theatre Time,explicit_terms,Assisted Pulmonary Theatre Time
+Cont Msk Wound Cr,Continuous Musculoskeletal Wound Care,explicit_terms,Continuous Musculoskeletal Wound Care
+Std Endocrine Endosc Proc,Standard Endocrine Endoscopic Procedure,explicit_terms,Standard Endocrine Endoscopic Procedure
+Pulm Wnd Cr Cont,Continuous Pulmonary Wound Care,explicit_terms,Continuous Pulmonary Wound Care
+Specialist  Neurological Recovery Rm Occ,Specialist Neurological Recovery Room Occupancy,explicit_terms,Specialist Neurological Recovery Room Occupancy
+Occ Inpatient Palliative Isolation Rm,Inpatient Palliative Isolation Room Occupancy,explicit_terms,Inpatient Palliative Isolation Room Occupancy
+Advanced  Infect Crit Cr,Advanced Infectious Critical Care Occupancy,explicit_terms,Advanced Infectious Critical Care Occupancy
+Rtn Immunologic Ward Bd Occ,Routine Immunologic Ward Bed Occupancy,explicit_terms,Routine Immunologic Ward Bed Occupancy
+Supervised  Ren Isol Room Occ,Supervised Renal Isolation Room Occupancy,explicit_terms,Supervised Renal Isolation Room Occupancy
+Inpt Endo Session,Inpatient Endocrine Dialysis Session,explicit_terms,Inpatient Endocrine Dialysis Session
+Rtn Gi Svc /NG-4995,Routine Gastrointestinal Transfusion Service,explicit_terms,Routine Gastrointestinal Transfusion Service
+Ambulatory Ophth Dial Sess,Ambulatory Ophthalmic Dialysis Session,explicit_terms,Ambulatory Ophthalmic Dialysis Session
+Programme Continuous Obst Rehab,Continuous Obstetric Rehabilitation Programme,explicit_terms,Continuous Obstetric Rehabilitation Programme
+Preop Geriatric Ventilation Support /NG-1168,Preoperative Geriatric Ventilation Support,explicit_terms,Preoperative Geriatric Ventilation Support
+Ambulatory Msk Ward Bd Occ /NG-7929,Ambulatory Musculoskeletal Ward Bed Occupancy,explicit_terms,Ambulatory Musculoskeletal Ward Bed Occupancy
+Supv Isol Rm Occupancy,Supervised Renal Isolation Room Occupancy,unique_partial_inference,Supervised Renal Isolation Room Occupancy
+Visit Cardiac Hm,Ambulatory Cardiac Home Visit,unique_partial_inference,Ambulatory Cardiac Home Visit
+Preoperative Ent Steril Svc,Preoperative Otolaryngologic Sterilisation Service,explicit_terms,Preoperative Otolaryngologic Sterilisation Service
+Beds Pulmonary Biop Proc /NG-6360,Bedside Pulmonary Biopsy Procedure,explicit_terms,Bedside Pulmonary Biopsy Procedure
+Img Inpatient Vascular Diagnostic,Inpatient Vascular Diagnostic Imaging,explicit_terms,Inpatient Vascular Diagnostic Imaging
+Plng Rtn Oncology Discharge,Routine Oncology Discharge Planning,explicit_terms,Routine Oncology Discharge Planning
+Intensive Ger Nutr Supp /NG-4079,Intensive Geriatric Nutritional Support,explicit_terms,Intensive Geriatric Nutritional Support
+Support Intens Geriatric Nutritional,Intensive Geriatric Nutritional Support,explicit_terms,Intensive Geriatric Nutritional Support
+Session  Interm Hep Dial,,unresolved,
+Adv Neuro Consultation /NG-3672,Advanced Neurological Consultation,explicit_terms,Advanced Neurological Consultation
+Inpt Msk Wd Bed Occ,Inpatient Musculoskeletal Ward Bed Occupancy,explicit_terms,Inpatient Musculoskeletal Ward Bed Occupancy
+Procedure Routine Urol Biopsy,Routine Urologic Biopsy Procedure,explicit_terms,Routine Urologic Biopsy Procedure
+Inpatient Ren Radiother Fraction,Inpatient Renal Radiotherapy Fraction,explicit_terms,Inpatient Renal Radiotherapy Fraction
+Sess Amb Psych Dial,Ambulatory Psychiatric Dialysis Session,explicit_terms,Ambulatory Psychiatric Dialysis Session
+Cont - Pulmonary Wnd Cr /NG-2407,Continuous Pulmonary Wound Care,explicit_terms,Continuous Pulmonary Wound Care
+Vasc Diag Img Inpt,Inpatient Vascular Diagnostic Imaging,explicit_terms,Inpatient Vascular Diagnostic Imaging
+Fract Emergency Ren Radiother,Emergency Renal Radiotherapy Fraction,explicit_terms,Emergency Renal Radiotherapy Fraction
+Monit Cont Ent Telemetry /NG-2024,Continuous Otolaryngologic Telemetry Monitoring,explicit_terms,Continuous Otolaryngologic Telemetry Monitoring
+Occupancy Postop Metabolic Crit Cr,Postoperative Metabolic Critical Care Occupancy,explicit_terms,Postoperative Metabolic Critical Care Occupancy
+Asst - Gi Inf Therapy /NG-1139,Assisted Gastrointestinal Infusion Therapy,explicit_terms,Assisted Gastrointestinal Infusion Therapy
+Intens Ger Nutr Support,Intensive Geriatric Nutritional Support,explicit_terms,Intensive Geriatric Nutritional Support
+Session Inpatient Endo Dial,Inpatient Endocrine Dialysis Session,explicit_terms,Inpatient Endocrine Dialysis Session
+Ext Vasc Rehabilitation Prog,Extended Vascular Rehabilitation Programme,explicit_terms,Extended Vascular Rehabilitation Programme
+Ger Nutr Supp Std,Standard Geriatric Nutritional Support,explicit_terms,Standard Geriatric Nutritional Support
+Compr Urologic Transport Svc,Comprehensive Urologic Transport Service,explicit_terms,Comprehensive Urologic Transport Service
+Rtn Derm Transfusion Service /NG-2088,Routine Dermatologic Transfusion Service,explicit_terms,Routine Dermatologic Transfusion Service
+Std Geriatric Nutritional Support,Standard Geriatric Nutritional Support,explicit_terms,Standard Geriatric Nutritional Support
+Fraction Inpatient Ren Radiother,Inpatient Renal Radiotherapy Fraction,explicit_terms,Inpatient Renal Radiotherapy Fraction
+Ambulatory - Immun Endosc Proc /NG-1182,Ambulatory Immunologic Endoscopic Procedure,explicit_terms,Ambulatory Immunologic Endoscopic Procedure
+Rtn  - Derm Transf Svc,Routine Dermatologic Transfusion Service,explicit_terms,Routine Dermatologic Transfusion Service
+Standard Paed Biop Proc /NG-2120,Standard Paediatric Biopsy Procedure,explicit_terms,Standard Paediatric Biopsy Procedure
+Asst  Pulmonary Theatre Time,Assisted Pulmonary Theatre Time,explicit_terms,Assisted Pulmonary Theatre Time
+Cont Musculoskeletal Wound Care,Continuous Musculoskeletal Wound Care,explicit_terms,Continuous Musculoskeletal Wound Care
+Preop Ent Sterilisation Svc /NG-3994,Preoperative Otolaryngologic Sterilisation Service,explicit_terms,Preoperative Otolaryngologic Sterilisation Service
+Amb Gastrointestinal Discharge Plng,,unresolved,
+Advanced Metabolic Anaes Admin,Advanced Metabolic Anaesthesia Administration,explicit_terms,Advanced Metabolic Anaesthesia Administration
+Comprehensive Ent Thtr Time /NG-2399,Comprehensive Otolaryngologic Theatre Time,explicit_terms,Comprehensive Otolaryngologic Theatre Time
+Inpatient Vascular Diag Imaging,Inpatient Vascular Diagnostic Imaging,explicit_terms,Inpatient Vascular Diagnostic Imaging
+Cont Obst Rehab Prog,Continuous Obstetric Rehabilitation Programme,explicit_terms,Continuous Obstetric Rehabilitation Programme
+Adv Infect Critical Cr Occ /NG-1530,Advanced Infectious Critical Care Occupancy,explicit_terms,Advanced Infectious Critical Care Occupancy
+Inpatient Endo Dial Sess,Inpatient Endocrine Dialysis Session,explicit_terms,Inpatient Endocrine Dialysis Session
+Cont Pulm Spcm Analysis,,unresolved,
+Compr Otolaryngologic Rehab /NG-4700,Comprehensive Otolaryngologic Rehabilitation Programme,explicit_terms,Comprehensive Otolaryngologic Rehabilitation Programme
+Fract Outpatient Radiotherapy,Outpatient Metabolic Radiotherapy Fraction,unique_partial_inference,Outpatient Metabolic Radiotherapy Fraction
+Intermittent Neurological Nutr Supp,Intermittent Neurological Nutritional Support,explicit_terms,Intermittent Neurological Nutritional Support
+Spclst - Ent Pharmaceutical Dispensing /NG-9066,Specialist Otolaryngologic Pharmaceutical Dispensing,explicit_terms,Specialist Otolaryngologic Pharmaceutical Dispensing
+Psych Rehab Prog Cont,Continuous Psychiatric Rehabilitation Programme,explicit_terms,Continuous Psychiatric Rehabilitation Programme
+Sess Standard Endo Dialysis,Standard Endocrine Dialysis Session,explicit_terms,Standard Endocrine Dialysis Session
+Ambulatory - Card Home Vst,Ambulatory Cardiac Home Visit,explicit_terms,Ambulatory Cardiac Home Visit
+Extended Ortho Ventilation Support,,unresolved,
+Outpatient Orthopaedic Pharm Dispensing /NG-2825,,unresolved,
+Rtn Derm Transfusion Service,Routine Dermatologic Transfusion Service,explicit_terms,Routine Dermatologic Transfusion Service
+Supp Postoperative Ortho Nutritional,,unresolved,
+Occ Advanced Orthopaedic Recovery Rm /NG-2920,,unresolved,
+Metabolic - Lab Pnl,,unresolved,
+Adv  Renal Consultation,,unresolved,
+Asst Specimen Anly,,unresolved,

@@ -1,0 +1,140 @@
+
+audit.py ['--hospital', '1']
+Invoice records: 918
+Line items: 11415
+Records with findings: 45
+Records without findings (not cleared): 873
+Mapped service lines: 10571
+Base rate checked lines: 5048
+Weekend rule checked lines: 573
+Reports saved to: C:\Users\lenovo\OneDrive\��� ������\Nwoyr Fayaz\outputs\hospital_1
+Partial audit only; not ready for submission.
+
+
+evaluate_h1.py []
+Invoices evaluated: 908
+Excluded records: 10
+TP: 35 FP: 0 FN: 18 TN: 855
+Precision: 1.0
+Recall: 0.660377358490566
+F1: 0.7954545454545454
+Accuracy: 0.9801762114537445
+Saved to: C:\Users\lenovo\OneDrive\��� ������\Nwoyr Fayaz\outputs\hospital_1
+Development evaluation; no finding does not mean clearance.
+Category names are compared literally; no automatic relabeling.
+
+
+analyze_false_negatives.py []
+False Negative invoices: 18
+
+Missed categories:
+                     error_category  missed_invoice_count
+                unit_price_mismatch                     6
+                    unknown_service                     6
+        premium_incorrectly_applied                     4
+                 daily_cap_exceeded                     3
+            volume_discount_omitted                     3
+                 bundle_not_applied                     2
+            cross_invoice_duplicate                     2
+volume_discount_incorrectly_applied                     1
+                    premium_omitted                     1
+         exclusion_window_violation                     1
+                   wrong_unit_basis                     1
+
+Mapping status of all lines in FN invoices:
+mapped_explicit_terms    174
+needs_review              24
+Name: mapping_status, dtype: int64
+
+Price check status of all lines in FN invoices:
+needs_adjustment_or_mapping_review    103
+base_rate_checked                      89
+weekend_rule_checked                    6
+Name: price_check_status, dtype: int64
+
+Saved: C:\Users\lenovo\OneDrive\��� ������\Nwoyr Fayaz\outputs\hospital_1\false_negatives_line_details.csv
+These are all lines in missed invoices, not confirmed erroneous lines.
+
+
+audit.py ['--hospital', '4']
+Invoice records: 840
+Line items: 10560
+Records with findings: 58
+Records without findings (not cleared): 782
+Mapped service lines: 9685
+Base rate checked lines: 2612
+Weekend rule checked lines: 0
+Records in over-limit groups: 6
+Records with quantity premium mismatch: 12
+Reports saved to: C:\Users\lenovo\OneDrive\��� ������\Nwoyr Fayaz\outputs\hospital_4
+Partial audit only; not ready for submission.
+
+
+audit_bundles.py []
+Bundle lines checked: 1161
+Records with bundle mismatch: 7
+Total records with findings: 60
+Saved: outputs/hospital_4/invoice_checks_with_bundles.csv
+Partial audit; discounts and exclusions remain unchecked.
+
+
+audit_discounts.py []
+Discount lines checked: 203
+Discount lines needing review: 103
+Records with discount mismatch: 6
+Total records with findings: 62
+Partial audit; not a submission file.
+
+
+audit_exclusions.py []
+Exclusion rules: 15
+Records strictly inside window: 0
+Records needing boundary review: 5
+Total records with findings: 62
+Partial audit; unmatched services still need review.
+
+
+audit_duplicates.py []
+Duplicate service groups: 5
+Groups within one invoice: 0
+Groups across invoices: 5
+Invoice records needing duplicate review: 8
+Lines not assessed for duplication: 879
+Existing records with findings: 62
+No amounts removed; duplicate groups need review.
+
+
+audit_total.py []
+Invoice records: 840
+Invoices with complete calculated totals: 227
+Invoices needing pricing review: 613
+Complete totals differing from billed: 5
+Candidates only: confidence and submission validation are not complete.
+
+
+build_submission.py []
+{
+  "invoice_records": 840,
+  "submitted": 227,
+  "flagged": 7,
+  "unflagged": 220,
+  "omitted": 613,
+  "amount_mismatches": 5,
+  "contains_inferred_mapping": 30,
+  "inference_exposed": 106,
+  "confidence_note": "Subjective, uncalibrated row-correctness estimates. 0.60 reflects a complete deterministic calculation with explicit mappings but incomplete independent validation; 0.40 reflects additional mapping inference exposure. The numbers are not fitted probabilities, not derived from Hospital 1 precision, and are a limitation of this submission. Exposure includes inferred lines in the invoice or in other records for the same patient; global utilisation and mapping uncertainty may still remain."
+}
+
+
+verify_selected.py []
+{
+  "selected_invoices": 227,
+  "checked_lines": 2347,
+  "disagreements": 0,
+  "issues": [],
+  "limitation": "Separate implementation of the contract arithmetic and selected-record checks, using raw JSONL but the same saved service mappings and candidate vocabulary. Agreement does not validate mapping semantics, shared interpretations, or confidence calibration; this is not an external independent audit."
+}
+
+
+build_report.py []
+

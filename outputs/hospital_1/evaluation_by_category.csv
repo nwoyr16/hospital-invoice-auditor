@@ -1,0 +1,8 @@
+category,invoices_evaluated,true_positives,false_positives,false_negatives,precision,recall
+wrong_unit_basis,908,10,86,0,0.10416666666666667,1.0
+unit_price_mismatch,908,3,81,7,0.03571428571428571,0.3
+invoice_total_mismatch,908,6,0,0,1.0,1.0
+line_total_arithmetic,908,6,0,0,1.0,1.0
+malformed_service_date,908,6,0,0,1.0,1.0
+service_date_after_invoice_date,908,5,2,0,0.7142857142857143,1.0
+service_date_out_of_window,908,5,0,0,1.0,1.0

@@ -1,0 +1,6 @@
+record_id,invoice_id,patient_id,line_id,service,service_date,trigger_line_id,trigger_invoice_id,trigger_service,trigger_date,window_days,distance_days,boundary_sensitive
+168,INV-H4-000168,PT-H4-000173,H4-L00168-14,Assisted Paediatric Theatre Time,2024-05-20,H4-L00168-07,INV-H4-000168,Outpatient Cardiac Physiotherapy Session,2024-05-30,10,10,True
+235,INV-H4-000235,PT-H4-000185,H4-L00235-06,Focused Urologic Case Conference,2024-07-17,H4-L00235-03,INV-H4-000235,Outpatient Urologic Endoscopic Procedure,2024-08-07,21,21,True
+473,INV-H4-000473,PT-H4-000168,H4-L00473-08,Supervised Gastrointestinal Nursing Observation,2024-03-15,H4-L00084-14,INV-H4-000084,Comprehensive Neurological Endoscopic Procedure,2024-03-22,7,7,True
+658,INV-H4-000658,PT-H4-000025,H4-L00658-19,Supervised Gastrointestinal Nursing Observation,2024-07-10,H4-L00217-01,INV-H4-000217,Comprehensive Neurological Endoscopic Procedure,2024-07-17,7,7,True
+839,INV-H4-000431,PT-H4-000152,H4-L00839-08,Supervised Gastrointestinal Nursing Observation,2024-05-20,H4-L00155-05,INV-H4-000155,Comprehensive Neurological Endoscopic Procedure,2024-05-27,7,7,True

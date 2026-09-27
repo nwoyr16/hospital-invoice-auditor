@@ -1,0 +1,43 @@
+{
+  "hospital": 4,
+  "invoice_records": 840,
+  "line_items": 10560,
+  "records_with_findings": 58,
+  "records_without_findings": 782,
+  "counts_by_check": {
+    "duplicate_invoice_id": 10,
+    "contract_number_mismatch": 6,
+    "malformed_invoice_date": 0,
+    "invoice_total_mismatch": 6,
+    "malformed_service_date": 6,
+    "service_date_after_invoice_date": 8,
+    "service_date_out_of_window": 5,
+    "line_total_arithmetic": 6,
+    "wrong_unit_basis": 11,
+    "unit_price_mismatch": 1,
+    "weekend_rate_mismatch": 0,
+    "daily_cap_exceeded": 6,
+    "quantity_premium_rate_mismatch": 12
+  },
+  "evaluation": {
+    "status": "No ground truth supplied for Hospital 4; accuracy unknown."
+  },
+  "service_coverage": {
+    "contract_services": 98,
+    "mapped_lines": 9685,
+    "unmapped_lines": 875,
+    "base_rate_checked_lines": 2612,
+    "weekend_rule_checked_lines": 0
+  },
+  "limitations": [
+    "Hospital 4 partial audit. Not a submission file.",
+    "Units checked only for explicitly mapped descriptions. Base prices checked only for services absent from all adjustment sections.",
+    "Weekend uplifts checked for mapped services with valid in-term dates and matching units.",
+    "Hospital 4 daily caps and quantity premiums checked only for groups without detected mapping/date/unit uncertainty; mapping may still be incomplete.",
+    "Daily cap flags identify all records in an over-limit group, not an allocated overcharge on every record.",
+    "Hospital 1 quantity premiums/caps, and all discounts, bundles and service exclusions remain unaudited.",
+    "No expected contractual total or calibrated confidence is calculated.",
+    "Both records sharing an invoice ID are marked as an identifier conflict.",
+    "No finding means incomplete checking, not a correct invoice."
+  ]
+}

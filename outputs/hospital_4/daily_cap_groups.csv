@@ -1,0 +1,7 @@
+patient_id,service_date,contract_service,quantity,limit,excess_units,record_ids,note
+PT-H4-000012,2025-05-24,Extended Urologic Telemetry Monitoring,13,12,1,576,Group exceeds cap; affected invoices require allocation review. No individual overcharge allocated.
+PT-H4-000062,2025-05-06,Elective Gastrointestinal Nursing Observation,8,6,2,554,Group exceeds cap; affected invoices require allocation review. No individual overcharge allocated.
+PT-H4-000078,2024-05-29,Extended Hepatic Transfusion Service,13,8,5,165,Group exceeds cap; affected invoices require allocation review. No individual overcharge allocated.
+PT-H4-000117,2025-06-17,Extended Urologic Telemetry Monitoring,15,12,3,609,Group exceeds cap; affected invoices require allocation review. No individual overcharge allocated.
+PT-H4-000164,2025-03-06,Focused Metabolic Biopsy Procedure,13,8,5,483,Group exceeds cap; affected invoices require allocation review. No individual overcharge allocated.
+PT-H4-000181,2025-04-26,Focused Metabolic Biopsy Procedure,13,8,5,540,Group exceeds cap; affected invoices require allocation review. No individual overcharge allocated.

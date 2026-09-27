@@ -1,0 +1,545 @@
+description,contract_service,mapping_status,candidate_services
+procedure - spclst pulmonary /RM-4002,Specialist Pulmonary Biopsy Procedure,explicit_terms,Specialist Pulmonary Biopsy Procedure
+sess - foc neurological physio /RM-5693,Focused Neurological Physiotherapy Session,explicit_terms,Focused Neurological Physiotherapy Session
+elective - pulm consult /RM-7049,Elective Pulmonary Consultation,explicit_terms,Elective Pulmonary Consultation
+prog outpt metab rehab /RM-2764,Outpatient Metabolic Rehabilitation Programme,explicit_terms,Outpatient Metabolic Rehabilitation Programme
+analysis - inpatient infect spcm /RM-2183,Inpatient Infectious Specimen Analysis,explicit_terms,Inpatient Infectious Specimen Analysis
+interp - ambulatory ophth img /RM-7217,Ambulatory Ophthalmic Imaging Interpretation,explicit_terms,Ambulatory Ophthalmic Imaging Interpretation
+ext endoscopic proc,Extended Musculoskeletal Endoscopic Procedure,unique_partial_inference,Extended Musculoskeletal Endoscopic Procedure
+focused obstetric nutritional supp /RM-1566,Focused Obstetric Nutritional Support,explicit_terms,Focused Obstetric Nutritional Support
+img  - postop neuro diag /RM-6337,Postoperative Neurological Diagnostic Imaging,explicit_terms,Postoperative Neurological Diagnostic Imaging
+elect palliative physio sess /RM-2050,Elective Palliative Physiotherapy Session,explicit_terms,Elective Palliative Physiotherapy Session
+beds metab inf ther /RM-4788,Bedside Metabolic Infusion Therapy,explicit_terms,Bedside Metabolic Infusion Therapy
+postop - pulm consultation /RM-8223,Postoperative Pulmonary Consultation,explicit_terms,Postoperative Pulmonary Consultation
+beds - renal imaging interp,Bedside Renal Imaging Interpretation,explicit_terms,Bedside Renal Imaging Interpretation
+supv hep steril service,Supervised Hepatic Sterilisation Service,explicit_terms,Supervised Hepatic Sterilisation Service
+compr haem radiother fraction /RM-6441,Comprehensive Haematology Radiotherapy Fraction,explicit_terms,Comprehensive Haematology Radiotherapy Fraction
+inpt - metab inf ther,Inpatient Metabolic Infusion Therapy,explicit_terms,Inpatient Metabolic Infusion Therapy
+tm - interm infect thtr /RM-6706,Intermittent Infectious Theatre Time,explicit_terms,Intermittent Infectious Theatre Time
+postoperative card wd occ /RM-8367,Postoperative Cardiac Ward Bed Occupancy,explicit_terms,Postoperative Cardiac Ward Bed Occupancy
+cont - ren isol occ /RM-7098,Continuous Renal Isolation Room Occupancy,explicit_terms,Continuous Renal Isolation Room Occupancy
+outpt - ren spcm analysis /RM-8203,Outpatient Renal Specimen Analysis,explicit_terms,Outpatient Renal Specimen Analysis
+vst  - preop psych hm,Preoperative Psychiatric Home Visit,explicit_terms,Preoperative Psychiatric Home Visit
+postop psych endosc proc /RM-5173,Postoperative Psychiatric Endoscopic Procedure,explicit_terms,Postoperative Psychiatric Endoscopic Procedure
+cont  immunologic crit care occupancy /RM-9793,Continuous Immunologic Critical Care Occupancy,explicit_terms,Continuous Immunologic Critical Care Occupancy
+ophth nutr supp spclst,Specialist Ophthalmic Nutritional Support,explicit_terms,Specialist Ophthalmic Nutritional Support
+asst urol endoscopic proc,Assisted Urologic Endoscopic Procedure,explicit_terms,Assisted Urologic Endoscopic Procedure
+postop ger nutr supp /RM-3180,Postoperative Geriatric Nutritional Support,explicit_terms,Postoperative Geriatric Nutritional Support
+postop - derm physio session /RM-3052,Postoperative Dermatologic Physiotherapy Session,explicit_terms,Postoperative Dermatologic Physiotherapy Session
+administration intens infectious anaes,Intensive Infectious Anaesthesia Administration,explicit_terms,Intensive Infectious Anaesthesia Administration
+disp  advanced rheum pharm /RM-4765,Advanced Rheumatologic Pharmaceutical Dispensing,explicit_terms,Advanced Rheumatologic Pharmaceutical Dispensing
+intens  paed biop procedure,Intensive Paediatric Biopsy Procedure,explicit_terms,Intensive Paediatric Biopsy Procedure
+preop - endo dial sess,Preoperative Endocrine Dialysis Session,explicit_terms,Preoperative Endocrine Dialysis Session
+supv - hep steril svc /RM-4469,Supervised Hepatic Sterilisation Service,explicit_terms,Supervised Hepatic Sterilisation Service
+wound - cont pulm,Continuous Pulmonary Wound Care,explicit_terms,Continuous Pulmonary Wound Care
+fract gastrointestinal radiotherapy,Preoperative Gastrointestinal Radiotherapy Fraction,unique_partial_inference,Preoperative Gastrointestinal Radiotherapy Fraction
+ther extended ger infusion,Extended Geriatric Infusion Therapy,explicit_terms,Extended Geriatric Infusion Therapy
+pulm biop proc spclst,Specialist Pulmonary Biopsy Procedure,explicit_terms,Specialist Pulmonary Biopsy Procedure
+outpt haematology transp service /RM-6818,Outpatient Haematology Transport Service,explicit_terms,Outpatient Haematology Transport Service
+procedure emer vasc biop /RM-5984,Emergency Vascular Biopsy Procedure,explicit_terms,Emergency Vascular Biopsy Procedure
+ophth img interp amb,Ambulatory Ophthalmic Imaging Interpretation,explicit_terms,Ambulatory Ophthalmic Imaging Interpretation
+beds urologic lab pnl /RM-4923,Bedside Urologic Laboratory Panel,explicit_terms,Bedside Urologic Laboratory Panel
+occ - assisted ophthalmic recov rm /RM-1000,Assisted Ophthalmic Recovery Room Occupancy,explicit_terms,Assisted Ophthalmic Recovery Room Occupancy
+interpretation beds ren imaging,Bedside Renal Imaging Interpretation,explicit_terms,Bedside Renal Imaging Interpretation
+specialist derm infusion ther /RM-3880,Specialist Dermatologic Infusion Therapy,explicit_terms,Specialist Dermatologic Infusion Therapy
+onc biop proc,Emergency Oncology Biopsy Procedure,unique_partial_inference,Emergency Oncology Biopsy Procedure
+cont crit cr occ /RM-2927,Continuous Immunologic Critical Care Occupancy,unique_partial_inference,Continuous Immunologic Critical Care Occupancy
+spclst - ophth nutr support,Specialist Ophthalmic Nutritional Support,explicit_terms,Specialist Ophthalmic Nutritional Support
+cont immunologic critical care occ,Continuous Immunologic Critical Care Occupancy,explicit_terms,Continuous Immunologic Critical Care Occupancy
+infect  telemetry monit,Extended Infectious Telemetry Monitoring,unique_partial_inference,Extended Infectious Telemetry Monitoring
+interm otolaryngologic wnd cr /RM-8687,Intermittent Otolaryngologic Wound Care,explicit_terms,Intermittent Otolaryngologic Wound Care
+beds laboratory pnl,Bedside Urologic Laboratory Panel,unique_partial_inference,Bedside Urologic Laboratory Panel
+beds - pulm sterilisation svc /RM-6248,Bedside Pulmonary Sterilisation Service,explicit_terms,Bedside Pulmonary Sterilisation Service
+obs postoperative haem nurs /RM-1861,Postoperative Haematology Nursing Observation,explicit_terms,Postoperative Haematology Nursing Observation
+card disch plng /RM-1761,Preoperative Cardiac Discharge Planning,unique_partial_inference,Preoperative Cardiac Discharge Planning
+foc - obst nutr supp /RM-5370,Focused Obstetric Nutritional Support,explicit_terms,Focused Obstetric Nutritional Support
+inpatient  infect spcm analysis /RM-2724,Inpatient Infectious Specimen Analysis,explicit_terms,Inpatient Infectious Specimen Analysis
+occ - postoperative cardiac wd bd /RM-6316,Postoperative Cardiac Ward Bed Occupancy,explicit_terms,Postoperative Cardiac Ward Bed Occupancy
+foc - obstetric nutritional support /RM-9352,Focused Obstetric Nutritional Support,explicit_terms,Focused Obstetric Nutritional Support
+ext - msk endosc proc,Extended Musculoskeletal Endoscopic Procedure,explicit_terms,Extended Musculoskeletal Endoscopic Procedure
+consultation elect pulm /RM-9046,Elective Pulmonary Consultation,explicit_terms,Elective Pulmonary Consultation
+foc neuro physio sess /RM-5481,Focused Neurological Physiotherapy Session,explicit_terms,Focused Neurological Physiotherapy Session
+beds urol ventilation supp /RM-2947,Bedside Urologic Ventilation Support,explicit_terms,Bedside Urologic Ventilation Support
+assisted  paed dialysis sess /RM-7695,Assisted Paediatric Dialysis Session,explicit_terms,Assisted Paediatric Dialysis Session
+spclst psych discharge plng /RM-3782,Specialist Psychiatric Discharge Planning,explicit_terms,Specialist Psychiatric Discharge Planning
+adv musculoskeletal radiother fract /RM-5856,Advanced Musculoskeletal Radiotherapy Fraction,explicit_terms,Advanced Musculoskeletal Radiotherapy Fraction
+infect anaes admin intens,Intensive Infectious Anaesthesia Administration,explicit_terms,Intensive Infectious Anaesthesia Administration
+spclst - psych discharge plng,Specialist Psychiatric Discharge Planning,explicit_terms,Specialist Psychiatric Discharge Planning
+supv - ent wound care /RM-4788,Supervised Otolaryngologic Wound Care,explicit_terms,Supervised Otolaryngologic Wound Care
+pnl - supv lab,Supervised Neurological Laboratory Panel,unique_partial_inference,Supervised Neurological Laboratory Panel
+interm immun isol rm occ /RM-3506,Intermittent Immunologic Isolation Room Occupancy,explicit_terms,Intermittent Immunologic Isolation Room Occupancy
+derm inf ther spclst,Specialist Dermatologic Infusion Therapy,explicit_terms,Specialist Dermatologic Infusion Therapy
+inpatient - metab theatre tm,Inpatient Metabolic Theatre Time,explicit_terms,Inpatient Metabolic Theatre Time
+amb ophth imaging interp,Ambulatory Ophthalmic Imaging Interpretation,explicit_terms,Ambulatory Ophthalmic Imaging Interpretation
+derm inf ther ext,Extended Dermatologic Infusion Therapy,explicit_terms,Extended Dermatologic Infusion Therapy
+inpt wnd care /RM-7406,Inpatient Obstetric Wound Care,unique_partial_inference,Inpatient Obstetric Wound Care
+ent wnd cr supv,Supervised Otolaryngologic Wound Care,explicit_terms,Supervised Otolaryngologic Wound Care
+cr intens immun wnd /RM-2044,Intensive Immunologic Wound Care,explicit_terms,Intensive Immunologic Wound Care
+bedside  urol vent supp /RM-7062,Bedside Urologic Ventilation Support,explicit_terms,Bedside Urologic Ventilation Support
+inpt infect spcm /RM-2707,Inpatient Infectious Specimen Analysis,explicit_terms,Inpatient Infectious Specimen Analysis
+pnl cont gi lab,Continuous Gastrointestinal Laboratory Panel,explicit_terms,Continuous Gastrointestinal Laboratory Panel
+occ - postoperative card wd bd,Postoperative Cardiac Ward Bed Occupancy,explicit_terms,Postoperative Cardiac Ward Bed Occupancy
+programme  rtn vasc rehab,Routine Vascular Rehabilitation Programme,explicit_terms,Routine Vascular Rehabilitation Programme
+intermittent - gi endosc proc /RM-4870,Intermittent Gastrointestinal Endoscopic Procedure,explicit_terms,Intermittent Gastrointestinal Endoscopic Procedure
+beds - pulm svc /RM-4889,Bedside Pulmonary Sterilisation Service,explicit_terms,Bedside Pulmonary Sterilisation Service
+emer vasc biop procedure /RM-4693,Emergency Vascular Biopsy Procedure,explicit_terms,Emergency Vascular Biopsy Procedure
+outpatient ren spcm anly /RM-2741,Outpatient Renal Specimen Analysis,explicit_terms,Outpatient Renal Specimen Analysis
+admin  - postoperative rheum anaes,Postoperative Rheumatologic Anaesthesia Administration,explicit_terms,Postoperative Rheumatologic Anaesthesia Administration
+advanced  - paed telem monit /RM-2176,Advanced Paediatric Telemetry Monitoring,explicit_terms,Advanced Paediatric Telemetry Monitoring
+tm - ext neurological theatre,Extended Neurological Theatre Time,explicit_terms,Extended Neurological Theatre Time
+spclst pulm sess /RM-7065,Specialist Pulmonary Physiotherapy Session,explicit_terms,Specialist Pulmonary Physiotherapy Session
+spclst pulmonary biop proc,Specialist Pulmonary Biopsy Procedure,explicit_terms,Specialist Pulmonary Biopsy Procedure
+ext - infectious telemetry monitoring,Extended Infectious Telemetry Monitoring,explicit_terms,Extended Infectious Telemetry Monitoring
+beds - pall care,Bedside Palliative Wound Care,explicit_terms,Bedside Palliative Wound Care
+specialist - physio sess /RM-7734,Specialist Pulmonary Physiotherapy Session,unique_partial_inference,Specialist Pulmonary Physiotherapy Session
+postoperative ent laboratory pnl,Postoperative Otolaryngologic Laboratory Panel,explicit_terms,Postoperative Otolaryngologic Laboratory Panel
+monit - foc telemetry,Focused Urologic Telemetry Monitoring,unique_partial_inference,Focused Urologic Telemetry Monitoring
+elective pall physio sess /RM-4993,Elective Palliative Physiotherapy Session,explicit_terms,Elective Palliative Physiotherapy Session
+bedside - neuro radiother fract,Bedside Neurological Radiotherapy Fraction,explicit_terms,Bedside Neurological Radiotherapy Fraction
+beds  - card recov rm occupancy,Bedside Cardiac Recovery Room Occupancy,explicit_terms,Bedside Cardiac Recovery Room Occupancy
+inpt infect spcm analysis /RM-1777,Inpatient Infectious Specimen Analysis,explicit_terms,Inpatient Infectious Specimen Analysis
+bedside - neuro pharmaceutical disp /RM-5321,Bedside Neurological Pharmaceutical Dispensing,explicit_terms,Bedside Neurological Pharmaceutical Dispensing
+cont gastrointestinal lab pnl,Continuous Gastrointestinal Laboratory Panel,explicit_terms,Continuous Gastrointestinal Laboratory Panel
+emer ren isol rm occ /RM-3800,Emergency Renal Isolation Room Occupancy,explicit_terms,Emergency Renal Isolation Room Occupancy
+postoperative cardiac ward bd occ /RM-7848,Postoperative Cardiac Ward Bed Occupancy,explicit_terms,Postoperative Cardiac Ward Bed Occupancy
+std ent disch plng /RM-8711,Standard Otolaryngologic Discharge Planning,explicit_terms,Standard Otolaryngologic Discharge Planning
+preoperative - ophth imaging interp /RM-5132,Preoperative Ophthalmic Imaging Interpretation,explicit_terms,Preoperative Ophthalmic Imaging Interpretation
+postop psych endosc procedure,Postoperative Psychiatric Endoscopic Procedure,explicit_terms,Postoperative Psychiatric Endoscopic Procedure
+time inpt msk theatre /RM-4594,Inpatient Musculoskeletal Theatre Time,explicit_terms,Inpatient Musculoskeletal Theatre Time
+inpt - hepatic biop procedure /RM-8381,Inpatient Hepatic Biopsy Procedure,explicit_terms,Inpatient Hepatic Biopsy Procedure
+spclst gastrointestinal specimen analysis,Specialist Gastrointestinal Specimen Analysis,explicit_terms,Specialist Gastrointestinal Specimen Analysis
+ambulatory - ophth img interp /RM-5201,Ambulatory Ophthalmic Imaging Interpretation,explicit_terms,Ambulatory Ophthalmic Imaging Interpretation
+specialist obst dial sess /RM-3060,Specialist Obstetric Dialysis Session,explicit_terms,Specialist Obstetric Dialysis Session
+emergency - ren isol rm occ,Emergency Renal Isolation Room Occupancy,explicit_terms,Emergency Renal Isolation Room Occupancy
+rheum - pharm disp /RM-5213,,unresolved,Advanced Rheumatologic Pharmaceutical Dispensing|Outpatient Rheumatologic Pharmaceutical Dispensing
+preop psych hm vst,Preoperative Psychiatric Home Visit,explicit_terms,Preoperative Psychiatric Home Visit
+cont pulm wnd cr,Continuous Pulmonary Wound Care,explicit_terms,Continuous Pulmonary Wound Care
+inpt - metab infusion therapy /RM-6761,Inpatient Metabolic Infusion Therapy,explicit_terms,Inpatient Metabolic Infusion Therapy
+procedure - emer oncology biopsy,Emergency Oncology Biopsy Procedure,explicit_terms,Emergency Oncology Biopsy Procedure
+spclst ophth nutritional supp,Specialist Ophthalmic Nutritional Support,explicit_terms,Specialist Ophthalmic Nutritional Support
+comprehensive - pall diag img /RM-8883,Comprehensive Palliative Diagnostic Imaging,explicit_terms,Comprehensive Palliative Diagnostic Imaging
+adv - telemetry monit /RM-3459,,unresolved,Advanced Gastrointestinal Telemetry Monitoring|Advanced Paediatric Telemetry Monitoring
+metab inf ther inpt,Inpatient Metabolic Infusion Therapy,explicit_terms,Inpatient Metabolic Infusion Therapy
+spclst obstetric dial sess,Specialist Obstetric Dialysis Session,explicit_terms,Specialist Obstetric Dialysis Session
+postop - geriatric nutr supp /RM-2358,Postoperative Geriatric Nutritional Support,explicit_terms,Postoperative Geriatric Nutritional Support
+adv - metab disch,Advanced Metabolic Discharge Planning,explicit_terms,Advanced Metabolic Discharge Planning
+outpatient  gastrointestinal isol rm occ /RM-4839,Outpatient Gastrointestinal Isolation Room Occupancy,explicit_terms,Outpatient Gastrointestinal Isolation Room Occupancy
+postop ent lab pnl /RM-3650,Postoperative Otolaryngologic Laboratory Panel,explicit_terms,Postoperative Otolaryngologic Laboratory Panel
+cr beds pall wnd,Bedside Palliative Wound Care,explicit_terms,Bedside Palliative Wound Care
+inpt - metabolic inf therapy /RM-9755,Inpatient Metabolic Infusion Therapy,explicit_terms,Inpatient Metabolic Infusion Therapy
+session - elective pall physio /RM-2982,Elective Palliative Physiotherapy Session,explicit_terms,Elective Palliative Physiotherapy Session
+intermittent - isolation rm occ /RM-6947,Intermittent Immunologic Isolation Room Occupancy,unique_partial_inference,Intermittent Immunologic Isolation Room Occupancy
+spclst psychiatric disch plng,Specialist Psychiatric Discharge Planning,explicit_terms,Specialist Psychiatric Discharge Planning
+supp  - intens onc nutr /RM-3710,Intensive Oncology Nutritional Support,explicit_terms,Intensive Oncology Nutritional Support
+rtn vasc rehab prog /RM-7540,Routine Vascular Rehabilitation Programme,explicit_terms,Routine Vascular Rehabilitation Programme
+adv - geriatric nutritional supp /RM-9294,Advanced Geriatric Nutritional Support,explicit_terms,Advanced Geriatric Nutritional Support
+preop derm dialysis sess /RM-5623,Preoperative Dermatologic Dialysis Session,explicit_terms,Preoperative Dermatologic Dialysis Session
+ext infect telem monitoring,Extended Infectious Telemetry Monitoring,explicit_terms,Extended Infectious Telemetry Monitoring
+disp outpt rheum pharmaceutical,Outpatient Rheumatologic Pharmaceutical Dispensing,explicit_terms,Outpatient Rheumatologic Pharmaceutical Dispensing
+spclst - derm inf therapy,Specialist Dermatologic Infusion Therapy,explicit_terms,Specialist Dermatologic Infusion Therapy
+rtn psychiatric consult /RM-4665,Routine Psychiatric Consultation,explicit_terms,Routine Psychiatric Consultation
+tm standard ortho thtr /RM-4366,Standard Orthopaedic Theatre Time,explicit_terms,Standard Orthopaedic Theatre Time
+sess elect pall physio,Elective Palliative Physiotherapy Session,explicit_terms,Elective Palliative Physiotherapy Session
+intermittent - ent cr /RM-1347,Intermittent Otolaryngologic Wound Care,explicit_terms,Intermittent Otolaryngologic Wound Care
+compr pall img /RM-7888,Comprehensive Palliative Diagnostic Imaging,explicit_terms,Comprehensive Palliative Diagnostic Imaging
+ger nutr supp adv,Advanced Geriatric Nutritional Support,explicit_terms,Advanced Geriatric Nutritional Support
+interm  - infectious theatre time /RM-2343,Intermittent Infectious Theatre Time,explicit_terms,Intermittent Infectious Theatre Time
+anly - outpatient ren spcm /RM-1650,Outpatient Renal Specimen Analysis,explicit_terms,Outpatient Renal Specimen Analysis
+focused - metab time /RM-1678,Focused Metabolic Theatre Time,explicit_terms,Focused Metabolic Theatre Time
+panel postoperative ent laboratory,Postoperative Otolaryngologic Laboratory Panel,explicit_terms,Postoperative Otolaryngologic Laboratory Panel
+adv gi telem monitoring /RM-5162,Advanced Gastrointestinal Telemetry Monitoring,explicit_terms,Advanced Gastrointestinal Telemetry Monitoring
+plng advanced metabolic disch /RM-9001,Advanced Metabolic Discharge Planning,explicit_terms,Advanced Metabolic Discharge Planning
+admin - rheumatologic anaes /RM-8208,Postoperative Rheumatologic Anaesthesia Administration,unique_partial_inference,Postoperative Rheumatologic Anaesthesia Administration
+proc spclst pulmonary biop,Specialist Pulmonary Biopsy Procedure,explicit_terms,Specialist Pulmonary Biopsy Procedure
+ambulatory - ren cs conf /RM-6484,Ambulatory Renal Case Conference,explicit_terms,Ambulatory Renal Case Conference
+preoperative - rheum transp svc /RM-4064,Preoperative Rheumatologic Transport Service,explicit_terms,Preoperative Rheumatologic Transport Service
+inpatient - gi pharm disp,Inpatient Gastrointestinal Pharmaceutical Dispensing,explicit_terms,Inpatient Gastrointestinal Pharmaceutical Dispensing
+spclst obst dialysis sess /RM-6355,Specialist Obstetric Dialysis Session,explicit_terms,Specialist Obstetric Dialysis Session
+svc supv hep steril,Supervised Hepatic Sterilisation Service,explicit_terms,Supervised Hepatic Sterilisation Service
+emer - ren room occ /RM-9004,Emergency Renal Isolation Room Occupancy,explicit_terms,Emergency Renal Isolation Room Occupancy
+elect - pulmonary consult /RM-1017,Elective Pulmonary Consultation,explicit_terms,Elective Pulmonary Consultation
+conference - onc cs /RM-3304,Bedside Oncology Case Conference,unique_partial_inference,Bedside Oncology Case Conference
+intens - onc nutr supp,Intensive Oncology Nutritional Support,explicit_terms,Intensive Oncology Nutritional Support
+cr - intermittent ent wound,Intermittent Otolaryngologic Wound Care,explicit_terms,Intermittent Otolaryngologic Wound Care
+rtn - vasc rehab prog /RM-2327,Routine Vascular Rehabilitation Programme,explicit_terms,Routine Vascular Rehabilitation Programme
+std ortho theatre tm /RM-8947,Standard Orthopaedic Theatre Time,explicit_terms,Standard Orthopaedic Theatre Time
+visit preop psychiatric hm,Preoperative Psychiatric Home Visit,explicit_terms,Preoperative Psychiatric Home Visit
+compr pall diagnostic img /RM-6310,Comprehensive Palliative Diagnostic Imaging,explicit_terms,Comprehensive Palliative Diagnostic Imaging
+rtn - obst diagnostic imaging /RM-3292,Routine Obstetric Diagnostic Imaging,explicit_terms,Routine Obstetric Diagnostic Imaging
+foc - obstetric nutr supp /RM-1215,Focused Obstetric Nutritional Support,explicit_terms,Focused Obstetric Nutritional Support
+rheum img interp,Standard Rheumatologic Imaging Interpretation,unique_partial_inference,Standard Rheumatologic Imaging Interpretation
+outpt - renal spcm anly /RM-8837,Outpatient Renal Specimen Analysis,explicit_terms,Outpatient Renal Specimen Analysis
+bedside - vasc crit care occ /RM-4097,Bedside Vascular Critical Care Occupancy,explicit_terms,Bedside Vascular Critical Care Occupancy
+outpt haem transport svc,Outpatient Haematology Transport Service,explicit_terms,Outpatient Haematology Transport Service
+disp - adv rheumatologic pharm /RM-5520,Advanced Rheumatologic Pharmaceutical Dispensing,explicit_terms,Advanced Rheumatologic Pharmaceutical Dispensing
+interm - derm physio sess /RM-8971,Intermittent Dermatologic Physiotherapy Session,explicit_terms,Intermittent Dermatologic Physiotherapy Session
+support adv ger nutr /RM-4444,Advanced Geriatric Nutritional Support,explicit_terms,Advanced Geriatric Nutritional Support
+postop ent rehab prog,Postoperative Otolaryngologic Rehabilitation Programme,explicit_terms,Postoperative Otolaryngologic Rehabilitation Programme
+inpt haem img interpretation,Inpatient Haematology Imaging Interpretation,explicit_terms,Inpatient Haematology Imaging Interpretation
+emer - derm steril /RM-6305,Emergency Dermatologic Sterilisation Service,explicit_terms,Emergency Dermatologic Sterilisation Service
+rheum pharm disp adv,Advanced Rheumatologic Pharmaceutical Dispensing,explicit_terms,Advanced Rheumatologic Pharmaceutical Dispensing
+beds - neuro radiother fraction,Bedside Neurological Radiotherapy Fraction,explicit_terms,Bedside Neurological Radiotherapy Fraction
+preop card disch plng /RM-2885,Preoperative Cardiac Discharge Planning,explicit_terms,Preoperative Cardiac Discharge Planning
+admin outpt infect anaes /RM-4440,Outpatient Infectious Anaesthesia Administration,explicit_terms,Outpatient Infectious Anaesthesia Administration
+occupancy - interm immunologic isol rm /RM-4830,Intermittent Immunologic Isolation Room Occupancy,explicit_terms,Intermittent Immunologic Isolation Room Occupancy
+specialist hep case conference /RM-8911,Specialist Hepatic Case Conference,explicit_terms,Specialist Hepatic Case Conference
+paed biop proc intens,Intensive Paediatric Biopsy Procedure,explicit_terms,Intensive Paediatric Biopsy Procedure
+interp amb ent img,Ambulatory Otolaryngologic Imaging Interpretation,explicit_terms,Ambulatory Otolaryngologic Imaging Interpretation
+bedside - urol lab panel,Bedside Urologic Laboratory Panel,explicit_terms,Bedside Urologic Laboratory Panel
+interm - endosc proc /RM-8678,Intermittent Gastrointestinal Endoscopic Procedure,unique_partial_inference,Intermittent Gastrointestinal Endoscopic Procedure
+beds pall wnd cr,Bedside Palliative Wound Care,explicit_terms,Bedside Palliative Wound Care
+outpt - pulmonary transp svc /RM-9113,Outpatient Pulmonary Transport Service,explicit_terms,Outpatient Pulmonary Transport Service
+postoperative haem nurs obs,Postoperative Haematology Nursing Observation,explicit_terms,Postoperative Haematology Nursing Observation
+intermittent - gi endosc proc,Intermittent Gastrointestinal Endoscopic Procedure,explicit_terms,Intermittent Gastrointestinal Endoscopic Procedure
+ext derm svc,Extended Dermatologic Sterilisation Service,explicit_terms,Extended Dermatologic Sterilisation Service
+amb cs conf /RM-3664,Ambulatory Renal Case Conference,unique_partial_inference,Ambulatory Renal Case Conference
+adv - musculoskeletal radiother fraction /RM-2833,Advanced Musculoskeletal Radiotherapy Fraction,explicit_terms,Advanced Musculoskeletal Radiotherapy Fraction
+preop - rheum transp service /RM-2873,Preoperative Rheumatologic Transport Service,explicit_terms,Preoperative Rheumatologic Transport Service
+disp - advanced rheum pharm,Advanced Rheumatologic Pharmaceutical Dispensing,explicit_terms,Advanced Rheumatologic Pharmaceutical Dispensing
+inpt gastrointestinal pharm disp /RM-8161,Inpatient Gastrointestinal Pharmaceutical Dispensing,explicit_terms,Inpatient Gastrointestinal Pharmaceutical Dispensing
+care bedside pall,Bedside Palliative Wound Care,explicit_terms,Bedside Palliative Wound Care
+foc metabolic thtr tm,Focused Metabolic Theatre Time,explicit_terms,Focused Metabolic Theatre Time
+outpatient gi isol rm occ /RM-2429,Outpatient Gastrointestinal Isolation Room Occupancy,explicit_terms,Outpatient Gastrointestinal Isolation Room Occupancy
+continuous  - pulmonary wnd cr,Continuous Pulmonary Wound Care,explicit_terms,Continuous Pulmonary Wound Care
+ext - haem radiotherapy fract,Extended Haematology Radiotherapy Fraction,explicit_terms,Extended Haematology Radiotherapy Fraction
+imaging inpt obstetric /RM-6043,Inpatient Obstetric Diagnostic Imaging,explicit_terms,Inpatient Obstetric Diagnostic Imaging
+procedure specialist haem endosc,Specialist Haematology Endoscopic Procedure,explicit_terms,Specialist Haematology Endoscopic Procedure
+preoperative  - psych radiother fract,Preoperative Psychiatric Radiotherapy Fraction,explicit_terms,Preoperative Psychiatric Radiotherapy Fraction
+emer vasc biopsy procedure /RM-9358,Emergency Vascular Biopsy Procedure,explicit_terms,Emergency Vascular Biopsy Procedure
+bedside pulm steril svc /RM-1543,Bedside Pulmonary Sterilisation Service,explicit_terms,Bedside Pulmonary Sterilisation Service
+std  rheum img interpretation,Standard Rheumatologic Imaging Interpretation,explicit_terms,Standard Rheumatologic Imaging Interpretation
+supv ophth nutr supp /RM-8781,Supervised Ophthalmic Nutritional Support,explicit_terms,Supervised Ophthalmic Nutritional Support
+beds - imaging interpretation /RM-1489,Bedside Renal Imaging Interpretation,unique_partial_inference,Bedside Renal Imaging Interpretation
+routine - vascular rehab prog,Routine Vascular Rehabilitation Programme,explicit_terms,Routine Vascular Rehabilitation Programme
+ther - specialist derm inf /RM-1951,Specialist Dermatologic Infusion Therapy,explicit_terms,Specialist Dermatologic Infusion Therapy
+ext haem radiother fraction,Extended Haematology Radiotherapy Fraction,explicit_terms,Extended Haematology Radiotherapy Fraction
+dispensing - adv rheum pharmaceutical /RM-6524,Advanced Rheumatologic Pharmaceutical Dispensing,explicit_terms,Advanced Rheumatologic Pharmaceutical Dispensing
+rheum pharm disp outpt,Outpatient Rheumatologic Pharmaceutical Dispensing,explicit_terms,Outpatient Rheumatologic Pharmaceutical Dispensing
+interp std rheum imaging /RM-5766,Standard Rheumatologic Imaging Interpretation,explicit_terms,Standard Rheumatologic Imaging Interpretation
+foc urol telem monit /RM-2847,Focused Urologic Telemetry Monitoring,explicit_terms,Focused Urologic Telemetry Monitoring
+inpt msk theatre tm /RM-8470,Inpatient Musculoskeletal Theatre Time,explicit_terms,Inpatient Musculoskeletal Theatre Time
+std orthopaedic thtr time /RM-2069,Standard Orthopaedic Theatre Time,explicit_terms,Standard Orthopaedic Theatre Time
+outpt metab rehabilitation prog /RM-6180,Outpatient Metabolic Rehabilitation Programme,explicit_terms,Outpatient Metabolic Rehabilitation Programme
+beds metabolic inf therapy,Bedside Metabolic Infusion Therapy,explicit_terms,Bedside Metabolic Infusion Therapy
+bedside urologic laboratory pnl,Bedside Urologic Laboratory Panel,explicit_terms,Bedside Urologic Laboratory Panel
+postop - psych endosc procedure /RM-5030,Postoperative Psychiatric Endoscopic Procedure,explicit_terms,Postoperative Psychiatric Endoscopic Procedure
+compr - ortho cr,Comprehensive Orthopaedic Wound Care,explicit_terms,Comprehensive Orthopaedic Wound Care
+std otolaryngologic discharge plng,Standard Otolaryngologic Discharge Planning,explicit_terms,Standard Otolaryngologic Discharge Planning
+bedside ren img interpretation,Bedside Renal Imaging Interpretation,explicit_terms,Bedside Renal Imaging Interpretation
+foc - metab theatre /RM-4359,Focused Metabolic Theatre Time,explicit_terms,Focused Metabolic Theatre Time
+preoperative dermatologic dial sess,Preoperative Dermatologic Dialysis Session,explicit_terms,Preoperative Dermatologic Dialysis Session
+obst diag img inpt,Inpatient Obstetric Diagnostic Imaging,explicit_terms,Inpatient Obstetric Diagnostic Imaging
+intensive - ophth laboratory panel,Intensive Ophthalmic Laboratory Panel,explicit_terms,Intensive Ophthalmic Laboratory Panel
+inpt - haem imaging interp /RM-1583,Inpatient Haematology Imaging Interpretation,explicit_terms,Inpatient Haematology Imaging Interpretation
+ther ext derm inf /RM-2306,Extended Dermatologic Infusion Therapy,explicit_terms,Extended Dermatologic Infusion Therapy
+supp adv nutr,,unresolved,Advanced Geriatric Nutritional Support|Advanced Dermatologic Nutritional Support
+paed biop proc spclst,Specialist Paediatric Biopsy Procedure,explicit_terms,Specialist Paediatric Biopsy Procedure
+derm physiotherapy sess /RM-1399,,unresolved,Intermittent Dermatologic Physiotherapy Session|Postoperative Dermatologic Physiotherapy Session
+intens otolaryngologic anaesthesia admin /RM-6836,Intensive Otolaryngologic Anaesthesia Administration,explicit_terms,Intensive Otolaryngologic Anaesthesia Administration
+std - ent disch plng,Standard Otolaryngologic Discharge Planning,explicit_terms,Standard Otolaryngologic Discharge Planning
+postop - rheum anaes administration /RM-2939,Postoperative Rheumatologic Anaesthesia Administration,explicit_terms,Postoperative Rheumatologic Anaesthesia Administration
+time  standard orthopaedic thtr /RM-7653,Standard Orthopaedic Theatre Time,explicit_terms,Standard Orthopaedic Theatre Time
+preop - rheumatologic transport svc,Preoperative Rheumatologic Transport Service,explicit_terms,Preoperative Rheumatologic Transport Service
+session spclst pulm physio /RM-2478,Specialist Pulmonary Physiotherapy Session,explicit_terms,Specialist Pulmonary Physiotherapy Session
+intensive - laboratory pnl /RM-3168,Intensive Ophthalmic Laboratory Panel,unique_partial_inference,Intensive Ophthalmic Laboratory Panel
+interm derm physio sess /RM-3176,Intermittent Dermatologic Physiotherapy Session,explicit_terms,Intermittent Dermatologic Physiotherapy Session
+supv - neuro lab /RM-9260,Supervised Neurological Laboratory Panel,explicit_terms,Supervised Neurological Laboratory Panel
+beds neurological pharmaceutical dispensing,Bedside Neurological Pharmaceutical Dispensing,explicit_terms,Bedside Neurological Pharmaceutical Dispensing
+preop - ophth img interp /RM-1493,Preoperative Ophthalmic Imaging Interpretation,explicit_terms,Preoperative Ophthalmic Imaging Interpretation
+preop - paed lab pnl /RM-6230,Preoperative Paediatric Laboratory Panel,explicit_terms,Preoperative Paediatric Laboratory Panel
+emer onc biop proc /RM-2100,Emergency Oncology Biopsy Procedure,explicit_terms,Emergency Oncology Biopsy Procedure
+inpt - obstetric wound care,Inpatient Obstetric Wound Care,explicit_terms,Inpatient Obstetric Wound Care
+derm physio sess interm,Intermittent Dermatologic Physiotherapy Session,explicit_terms,Intermittent Dermatologic Physiotherapy Session
+focused neuro physiotherapy sess /RM-7015,Focused Neurological Physiotherapy Session,explicit_terms,Focused Neurological Physiotherapy Session
+pulm consult elect,Elective Pulmonary Consultation,explicit_terms,Elective Pulmonary Consultation
+beds oncology cs conf,Bedside Oncology Case Conference,explicit_terms,Bedside Oncology Case Conference
+asst - urol endosc procedure,Assisted Urologic Endoscopic Procedure,explicit_terms,Assisted Urologic Endoscopic Procedure
+spclst - gi spcm anly,Specialist Gastrointestinal Specimen Analysis,explicit_terms,Specialist Gastrointestinal Specimen Analysis
+inpatient hepatic biop proc /RM-8856,Inpatient Hepatic Biopsy Procedure,explicit_terms,Inpatient Hepatic Biopsy Procedure
+fract compr haematology radiother /RM-9731,Comprehensive Haematology Radiotherapy Fraction,explicit_terms,Comprehensive Haematology Radiotherapy Fraction
+emer - renal isol rm occupancy /RM-9791,Emergency Renal Isolation Room Occupancy,explicit_terms,Emergency Renal Isolation Room Occupancy
+sess assisted paed /RM-2967,Assisted Paediatric Dialysis Session,explicit_terms,Assisted Paediatric Dialysis Session
+proc emer onc biop,Emergency Oncology Biopsy Procedure,explicit_terms,Emergency Oncology Biopsy Procedure
+foc nutr supp /RM-8954,Focused Obstetric Nutritional Support,unique_partial_inference,Focused Obstetric Nutritional Support
+amb - metabolic isol room occ /RM-9073,Ambulatory Metabolic Isolation Room Occupancy,explicit_terms,Ambulatory Metabolic Isolation Room Occupancy
+inpt  obst diagnostic img,Inpatient Obstetric Diagnostic Imaging,explicit_terms,Inpatient Obstetric Diagnostic Imaging
+intens - onc nutr supp /RM-4038,Intensive Oncology Nutritional Support,explicit_terms,Intensive Oncology Nutritional Support
+prog postop ent rehab /RM-9036,Postoperative Otolaryngologic Rehabilitation Programme,explicit_terms,Postoperative Otolaryngologic Rehabilitation Programme
+preoperative - gi radiother fraction /RM-6541,Preoperative Gastrointestinal Radiotherapy Fraction,explicit_terms,Preoperative Gastrointestinal Radiotherapy Fraction
+inpatient - musculoskeletal thtr tm /RM-5356,Inpatient Musculoskeletal Theatre Time,explicit_terms,Inpatient Musculoskeletal Theatre Time
+emergency - steril service /RM-6059,Emergency Dermatologic Sterilisation Service,unique_partial_inference,Emergency Dermatologic Sterilisation Service
+postop - rheumatologic anaesthesia admin,Postoperative Rheumatologic Anaesthesia Administration,explicit_terms,Postoperative Rheumatologic Anaesthesia Administration
+bedside  urol vent support /RM-4017,Bedside Urologic Ventilation Support,explicit_terms,Bedside Urologic Ventilation Support
+amb metab isol rm occ /RM-5812,Ambulatory Metabolic Isolation Room Occupancy,explicit_terms,Ambulatory Metabolic Isolation Room Occupancy
+intens - immun wnd care,Intensive Immunologic Wound Care,explicit_terms,Intensive Immunologic Wound Care
+tm - ext neuro thtr /RM-3527,Extended Neurological Theatre Time,explicit_terms,Extended Neurological Theatre Time
+service  - outpt pulm transport,Outpatient Pulmonary Transport Service,explicit_terms,Outpatient Pulmonary Transport Service
+ext ger inf ther,Extended Geriatric Infusion Therapy,explicit_terms,Extended Geriatric Infusion Therapy
+occ asst ophthalmic recovery rm /RM-9815,Assisted Ophthalmic Recovery Room Occupancy,explicit_terms,Assisted Ophthalmic Recovery Room Occupancy
+beds  urol vent supp,Bedside Urologic Ventilation Support,explicit_terms,Bedside Urologic Ventilation Support
+specialist psych disch planning,Specialist Psychiatric Discharge Planning,explicit_terms,Specialist Psychiatric Discharge Planning
+amb otolaryngologic img interp /RM-1387,Ambulatory Otolaryngologic Imaging Interpretation,explicit_terms,Ambulatory Otolaryngologic Imaging Interpretation
+compr haem radiother fraction,Comprehensive Haematology Radiotherapy Fraction,explicit_terms,Comprehensive Haematology Radiotherapy Fraction
+preop - paed lab panel,Preoperative Paediatric Laboratory Panel,explicit_terms,Preoperative Paediatric Laboratory Panel
+preop - dermatologic dial sess /RM-4276,Preoperative Dermatologic Dialysis Session,explicit_terms,Preoperative Dermatologic Dialysis Session
+dispensing inpt pharm /RM-6838,Inpatient Gastrointestinal Pharmaceutical Dispensing,unique_partial_inference,Inpatient Gastrointestinal Pharmaceutical Dispensing
+inpatient - metab thtr tm /RM-7070,Inpatient Metabolic Theatre Time,explicit_terms,Inpatient Metabolic Theatre Time
+disp outpt rheumatologic pharmaceutical /RM-6582,Outpatient Rheumatologic Pharmaceutical Dispensing,explicit_terms,Outpatient Rheumatologic Pharmaceutical Dispensing
+bedside oncology cs conf,Bedside Oncology Case Conference,explicit_terms,Bedside Oncology Case Conference
+pulm biop proc emer,Emergency Pulmonary Biopsy Procedure,explicit_terms,Emergency Pulmonary Biopsy Procedure
+outpt - pulm transport /RM-4112,Outpatient Pulmonary Transport Service,explicit_terms,Outpatient Pulmonary Transport Service
+foc urol telem monit /RM-4291,Focused Urologic Telemetry Monitoring,explicit_terms,Focused Urologic Telemetry Monitoring
+vst - preop psych home /RM-5529,Preoperative Psychiatric Home Visit,explicit_terms,Preoperative Psychiatric Home Visit
+spclst - gi specimen anly /RM-3384,Specialist Gastrointestinal Specimen Analysis,explicit_terms,Specialist Gastrointestinal Specimen Analysis
+preop - rheum transp svc /RM-1270,Preoperative Rheumatologic Transport Service,explicit_terms,Preoperative Rheumatologic Transport Service
+svc ext dermatologic steril /RM-5564,Extended Dermatologic Sterilisation Service,explicit_terms,Extended Dermatologic Sterilisation Service
+procedure intens paed /RM-3709,Intensive Paediatric Biopsy Procedure,explicit_terms,Intensive Paediatric Biopsy Procedure
+spclst haematology endosc proc,Specialist Haematology Endoscopic Procedure,explicit_terms,Specialist Haematology Endoscopic Procedure
+interm immun isol rm occ,Intermittent Immunologic Isolation Room Occupancy,explicit_terms,Intermittent Immunologic Isolation Room Occupancy
+cont - ren isolation room occ,Continuous Renal Isolation Room Occupancy,explicit_terms,Continuous Renal Isolation Room Occupancy
+intens - immun wound cr /RM-7855,Intensive Immunologic Wound Care,explicit_terms,Intensive Immunologic Wound Care
+beds - neuro pharm dispensing,Bedside Neurological Pharmaceutical Dispensing,explicit_terms,Bedside Neurological Pharmaceutical Dispensing
+conference - spclst hep cs,Specialist Hepatic Case Conference,explicit_terms,Specialist Hepatic Case Conference
+rtn endo spcm analysis /RM-8343,Routine Endocrine Specimen Analysis,explicit_terms,Routine Endocrine Specimen Analysis
+foc urol telemetry monitoring /RM-1810,Focused Urologic Telemetry Monitoring,explicit_terms,Focused Urologic Telemetry Monitoring
+immun isol rm occ interm,Intermittent Immunologic Isolation Room Occupancy,explicit_terms,Intermittent Immunologic Isolation Room Occupancy
+preop - psych radiotherapy fract /RM-3260,Preoperative Psychiatric Radiotherapy Fraction,explicit_terms,Preoperative Psychiatric Radiotherapy Fraction
+gi - endosc proc,Intermittent Gastrointestinal Endoscopic Procedure,unique_partial_inference,Intermittent Gastrointestinal Endoscopic Procedure
+sess - specialist obst dial,Specialist Obstetric Dialysis Session,explicit_terms,Specialist Obstetric Dialysis Session
+preop card disch plng,Preoperative Cardiac Discharge Planning,explicit_terms,Preoperative Cardiac Discharge Planning
+conf spclst hep cs /RM-6883,Specialist Hepatic Case Conference,explicit_terms,Specialist Hepatic Case Conference
+proc - ext musculoskeletal endoscopic,Extended Musculoskeletal Endoscopic Procedure,explicit_terms,Extended Musculoskeletal Endoscopic Procedure
+rtn endo spcm anly /RM-3340,Routine Endocrine Specimen Analysis,explicit_terms,Routine Endocrine Specimen Analysis
+metab inf ther beds,Bedside Metabolic Infusion Therapy,explicit_terms,Bedside Metabolic Infusion Therapy
+emer pulm biopsy proc,Emergency Pulmonary Biopsy Procedure,explicit_terms,Emergency Pulmonary Biopsy Procedure
+spclst haematology endosc proc /RM-6838,Specialist Haematology Endoscopic Procedure,explicit_terms,Specialist Haematology Endoscopic Procedure
+spclst derm inf ther,Specialist Dermatologic Infusion Therapy,explicit_terms,Specialist Dermatologic Infusion Therapy
+postop otolaryngologic rehab prog /RM-8020,Postoperative Otolaryngologic Rehabilitation Programme,explicit_terms,Postoperative Otolaryngologic Rehabilitation Programme
+postoperative - psych endosc proc,Postoperative Psychiatric Endoscopic Procedure,explicit_terms,Postoperative Psychiatric Endoscopic Procedure
+service emer dermatologic steril,Emergency Dermatologic Sterilisation Service,explicit_terms,Emergency Dermatologic Sterilisation Service
+adv - msk radiother,Advanced Musculoskeletal Radiotherapy Fraction,explicit_terms,Advanced Musculoskeletal Radiotherapy Fraction
+inpt - obstetric wnd care /RM-9635,Inpatient Obstetric Wound Care,explicit_terms,Inpatient Obstetric Wound Care
+interm derm physio /RM-4730,Intermittent Dermatologic Physiotherapy Session,explicit_terms,Intermittent Dermatologic Physiotherapy Session
+postop - neurological diagnostic img /RM-3157,Postoperative Neurological Diagnostic Imaging,explicit_terms,Postoperative Neurological Diagnostic Imaging
+ophth img interp preop,Preoperative Ophthalmic Imaging Interpretation,explicit_terms,Preoperative Ophthalmic Imaging Interpretation
+supv otolaryngologic wnd cr,Supervised Otolaryngologic Wound Care,explicit_terms,Supervised Otolaryngologic Wound Care
+supv ophth nutr supp,Supervised Ophthalmic Nutritional Support,explicit_terms,Supervised Ophthalmic Nutritional Support
+emer - pulm biopsy proc /RM-3811,Emergency Pulmonary Biopsy Procedure,explicit_terms,Emergency Pulmonary Biopsy Procedure
+occ - beds card recovery room /RM-5894,Bedside Cardiac Recovery Room Occupancy,explicit_terms,Bedside Cardiac Recovery Room Occupancy
+preoperative paed laboratory pnl,Preoperative Paediatric Laboratory Panel,explicit_terms,Preoperative Paediatric Laboratory Panel
+intens ophth lab pnl /RM-4675,Intensive Ophthalmic Laboratory Panel,explicit_terms,Intensive Ophthalmic Laboratory Panel
+ext - ger inf ther /RM-8934,Extended Geriatric Infusion Therapy,explicit_terms,Extended Geriatric Infusion Therapy
+immun isol rm occ cont,Continuous Immunologic Isolation Room Occupancy,explicit_terms,Continuous Immunologic Isolation Room Occupancy
+conf - amb ren /RM-2011,Ambulatory Renal Case Conference,explicit_terms,Ambulatory Renal Case Conference
+cont - pulm wnd care,Continuous Pulmonary Wound Care,explicit_terms,Continuous Pulmonary Wound Care
+adv - gi telem monitoring,Advanced Gastrointestinal Telemetry Monitoring,explicit_terms,Advanced Gastrointestinal Telemetry Monitoring
+postop  rheumatologic anaes administration,Postoperative Rheumatologic Anaesthesia Administration,explicit_terms,Postoperative Rheumatologic Anaesthesia Administration
+procedure specialist paed biop /RM-7208,Specialist Paediatric Biopsy Procedure,explicit_terms,Specialist Paediatric Biopsy Procedure
+sess intermittent dermatologic physio,Intermittent Dermatologic Physiotherapy Session,explicit_terms,Intermittent Dermatologic Physiotherapy Session
+beds card recovery room occupancy /RM-2538,Bedside Cardiac Recovery Room Occupancy,explicit_terms,Bedside Cardiac Recovery Room Occupancy
+intens onc nutr support /RM-7166,Intensive Oncology Nutritional Support,explicit_terms,Intensive Oncology Nutritional Support
+room - amb metab isol,Ambulatory Metabolic Isolation Room Occupancy,explicit_terms,Ambulatory Metabolic Isolation Room Occupancy
+asst - ophth recov room occ /RM-9070,Assisted Ophthalmic Recovery Room Occupancy,explicit_terms,Assisted Ophthalmic Recovery Room Occupancy
+care - compr orthopaedic wnd /RM-4641,Comprehensive Orthopaedic Wound Care,explicit_terms,Comprehensive Orthopaedic Wound Care
+intens - nutr supp,Intensive Oncology Nutritional Support,unique_partial_inference,Intensive Oncology Nutritional Support
+inpt haem imaging interp /RM-8352,Inpatient Haematology Imaging Interpretation,explicit_terms,Inpatient Haematology Imaging Interpretation
+occ - cont renal isol room,Continuous Renal Isolation Room Occupancy,explicit_terms,Continuous Renal Isolation Room Occupancy
+inpt - metab infusion ther,Inpatient Metabolic Infusion Therapy,explicit_terms,Inpatient Metabolic Infusion Therapy
+supv neuro lab pnl,Supervised Neurological Laboratory Panel,explicit_terms,Supervised Neurological Laboratory Panel
+interp  - preoperative ophth img,Preoperative Ophthalmic Imaging Interpretation,explicit_terms,Preoperative Ophthalmic Imaging Interpretation
+amb metab isolation rm occ,Ambulatory Metabolic Isolation Room Occupancy,explicit_terms,Ambulatory Metabolic Isolation Room Occupancy
+proc - inpatient hep biop,Inpatient Hepatic Biopsy Procedure,explicit_terms,Inpatient Hepatic Biopsy Procedure
+advanced - paed telem monit,Advanced Paediatric Telemetry Monitoring,explicit_terms,Advanced Paediatric Telemetry Monitoring
+cont - pulm wound cr /RM-5579,Continuous Pulmonary Wound Care,explicit_terms,Continuous Pulmonary Wound Care
+postoperative - derm physio sess,Postoperative Dermatologic Physiotherapy Session,explicit_terms,Postoperative Dermatologic Physiotherapy Session
+tm - ext neuro theatre /RM-2741,Extended Neurological Theatre Time,explicit_terms,Extended Neurological Theatre Time
+fraction compr haem radiother /RM-9837,Comprehensive Haematology Radiotherapy Fraction,explicit_terms,Comprehensive Haematology Radiotherapy Fraction
+beds  - geriatric telem,Bedside Geriatric Telemetry Monitoring,explicit_terms,Bedside Geriatric Telemetry Monitoring
+supv ophthalmic nutr supp /RM-7732,Supervised Ophthalmic Nutritional Support,explicit_terms,Supervised Ophthalmic Nutritional Support
+bedside vasc critical cr occ /RM-5031,Bedside Vascular Critical Care Occupancy,explicit_terms,Bedside Vascular Critical Care Occupancy
+admin - intensive infect anaes,Intensive Infectious Anaesthesia Administration,explicit_terms,Intensive Infectious Anaesthesia Administration
+proc urologic endosc,Assisted Urologic Endoscopic Procedure,unique_partial_inference,Assisted Urologic Endoscopic Procedure
+asst - paed dial sess /RM-6430,Assisted Paediatric Dialysis Session,explicit_terms,Assisted Paediatric Dialysis Session
+amb ent img interp,Ambulatory Otolaryngologic Imaging Interpretation,explicit_terms,Ambulatory Otolaryngologic Imaging Interpretation
+emergency  onc biop proc /RM-3148,Emergency Oncology Biopsy Procedure,explicit_terms,Emergency Oncology Biopsy Procedure
+proc - emergency pulm biop,Emergency Pulmonary Biopsy Procedure,explicit_terms,Emergency Pulmonary Biopsy Procedure
+plng preop card disch /RM-4078,Preoperative Cardiac Discharge Planning,explicit_terms,Preoperative Cardiac Discharge Planning
+rtn - obst diag img /RM-6616,Routine Obstetric Diagnostic Imaging,explicit_terms,Routine Obstetric Diagnostic Imaging
+bedside - vasc critical cr occ,Bedside Vascular Critical Care Occupancy,explicit_terms,Bedside Vascular Critical Care Occupancy
+intens  paed biop proc,Intensive Paediatric Biopsy Procedure,explicit_terms,Intensive Paediatric Biopsy Procedure
+spclst obstetric dialysis session,Specialist Obstetric Dialysis Session,explicit_terms,Specialist Obstetric Dialysis Session
+supv - ophth nutr supp,Supervised Ophthalmic Nutritional Support,explicit_terms,Supervised Ophthalmic Nutritional Support
+assisted paed dial sess /RM-8098,Assisted Paediatric Dialysis Session,explicit_terms,Assisted Paediatric Dialysis Session
+inpt  metab inf ther /RM-9992,Inpatient Metabolic Infusion Therapy,explicit_terms,Inpatient Metabolic Infusion Therapy
+outpt metab rehab programme /RM-2803,Outpatient Metabolic Rehabilitation Programme,explicit_terms,Outpatient Metabolic Rehabilitation Programme
+postop - pulm,Postoperative Pulmonary Consultation,unique_partial_inference,Postoperative Pulmonary Consultation
+adv gastrointestinal telem monit /RM-6600,Advanced Gastrointestinal Telemetry Monitoring,explicit_terms,Advanced Gastrointestinal Telemetry Monitoring
+admin - intens otolaryngologic anaesthesia /RM-6575,Intensive Otolaryngologic Anaesthesia Administration,explicit_terms,Intensive Otolaryngologic Anaesthesia Administration
+pulm - postoperative,Postoperative Pulmonary Consultation,unique_partial_inference,Postoperative Pulmonary Consultation
+preop derm dial sess /RM-5322,Preoperative Dermatologic Dialysis Session,explicit_terms,Preoperative Dermatologic Dialysis Session
+bedside - metab infusion,Bedside Metabolic Infusion Therapy,explicit_terms,Bedside Metabolic Infusion Therapy
+ren isol rm occ emer,Emergency Renal Isolation Room Occupancy,explicit_terms,Emergency Renal Isolation Room Occupancy
+comprehensive ortho wnd cr,Comprehensive Orthopaedic Wound Care,explicit_terms,Comprehensive Orthopaedic Wound Care
+outpt infect anaes admin,Outpatient Infectious Anaesthesia Administration,explicit_terms,Outpatient Infectious Anaesthesia Administration
+beds - geriatric telem monit,Bedside Geriatric Telemetry Monitoring,explicit_terms,Bedside Geriatric Telemetry Monitoring
+fraction - ext haem radiother,Extended Haematology Radiotherapy Fraction,explicit_terms,Extended Haematology Radiotherapy Fraction
+supv ent wnd care,Supervised Otolaryngologic Wound Care,explicit_terms,Supervised Otolaryngologic Wound Care
+admin - outpt infectious anaesthesia /RM-9929,Outpatient Infectious Anaesthesia Administration,explicit_terms,Outpatient Infectious Anaesthesia Administration
+cont - immunologic isol rm occ,Continuous Immunologic Isolation Room Occupancy,explicit_terms,Continuous Immunologic Isolation Room Occupancy
+postop derm physio session,Postoperative Dermatologic Physiotherapy Session,explicit_terms,Postoperative Dermatologic Physiotherapy Session
+asst - ophth recov room occ /RM-6321,Assisted Ophthalmic Recovery Room Occupancy,explicit_terms,Assisted Ophthalmic Recovery Room Occupancy
+intens - ent anaes admin /RM-7561,Intensive Otolaryngologic Anaesthesia Administration,explicit_terms,Intensive Otolaryngologic Anaesthesia Administration
+service - ext derm steril,Extended Dermatologic Sterilisation Service,explicit_terms,Extended Dermatologic Sterilisation Service
+postoperative neuro diagnostic /RM-6927,Postoperative Neurological Diagnostic Imaging,explicit_terms,Postoperative Neurological Diagnostic Imaging
+spclst pulm biop /RM-1381,Specialist Pulmonary Biopsy Procedure,explicit_terms,Specialist Pulmonary Biopsy Procedure
+postop - derm physio session /RM-3024,Postoperative Dermatologic Physiotherapy Session,explicit_terms,Postoperative Dermatologic Physiotherapy Session
+outpt pharm disp,Outpatient Rheumatologic Pharmaceutical Dispensing,unique_partial_inference,Outpatient Rheumatologic Pharmaceutical Dispensing
+elect - pall physiotherapy sess,Elective Palliative Physiotherapy Session,explicit_terms,Elective Palliative Physiotherapy Session
+ther beds metab,Bedside Metabolic Infusion Therapy,explicit_terms,Bedside Metabolic Infusion Therapy
+adv gi telemetry monit,Advanced Gastrointestinal Telemetry Monitoring,explicit_terms,Advanced Gastrointestinal Telemetry Monitoring
+bedside onc cs conf,Bedside Oncology Case Conference,explicit_terms,Bedside Oncology Case Conference
+session focused neuro physiotherapy /RM-5282,Focused Neurological Physiotherapy Session,explicit_terms,Focused Neurological Physiotherapy Session
+bedside - urol ventilation support /RM-2302,Bedside Urologic Ventilation Support,explicit_terms,Bedside Urologic Ventilation Support
+ambulatory otolaryngologic img interp /RM-6883,Ambulatory Otolaryngologic Imaging Interpretation,explicit_terms,Ambulatory Otolaryngologic Imaging Interpretation
+img  - rtn obst diagnostic,Routine Obstetric Diagnostic Imaging,explicit_terms,Routine Obstetric Diagnostic Imaging
+svc - extended derm steril /RM-6515,Extended Dermatologic Sterilisation Service,explicit_terms,Extended Dermatologic Sterilisation Service
+cont gastrointestinal lab panel,Continuous Gastrointestinal Laboratory Panel,explicit_terms,Continuous Gastrointestinal Laboratory Panel
+interm - ent wnd cr /RM-9924,Intermittent Otolaryngologic Wound Care,explicit_terms,Intermittent Otolaryngologic Wound Care
+intensive paed biop procedure /RM-5129,Intensive Paediatric Biopsy Procedure,explicit_terms,Intensive Paediatric Biopsy Procedure
+inpt thtr tm,,unresolved,Inpatient Metabolic Theatre Time|Inpatient Musculoskeletal Theatre Time
+occupancy continuous isol room /RM-3671,,unresolved,Continuous Immunologic Isolation Room Occupancy|Continuous Renal Isolation Room Occupancy
+emer - ren isolation rm occupancy,Emergency Renal Isolation Room Occupancy,explicit_terms,Emergency Renal Isolation Room Occupancy
+inpt - obstetric diag img /RM-1111,Inpatient Obstetric Diagnostic Imaging,explicit_terms,Inpatient Obstetric Diagnostic Imaging
+pulm consult postop,Postoperative Pulmonary Consultation,explicit_terms,Postoperative Pulmonary Consultation
+psych rtn /RM-8308,Routine Psychiatric Consultation,unique_partial_inference,Routine Psychiatric Consultation
+spclst - paed biop procedure,Specialist Paediatric Biopsy Procedure,explicit_terms,Specialist Paediatric Biopsy Procedure
+postop - neuro diagnostic img /RM-6108,Postoperative Neurological Diagnostic Imaging,explicit_terms,Postoperative Neurological Diagnostic Imaging
+time std orthopaedic thtr,Standard Orthopaedic Theatre Time,explicit_terms,Standard Orthopaedic Theatre Time
+extended  derm inf ther /RM-2122,Extended Dermatologic Infusion Therapy,explicit_terms,Extended Dermatologic Infusion Therapy
+outpt  haem transp svc,Outpatient Haematology Transport Service,explicit_terms,Outpatient Haematology Transport Service
+preop - gi radiother fraction,Preoperative Gastrointestinal Radiotherapy Fraction,explicit_terms,Preoperative Gastrointestinal Radiotherapy Fraction
+radiother beds neuro /RM-9011,Bedside Neurological Radiotherapy Fraction,explicit_terms,Bedside Neurological Radiotherapy Fraction
+outpt - metabolic rehab prog,Outpatient Metabolic Rehabilitation Programme,explicit_terms,Outpatient Metabolic Rehabilitation Programme
+therapy ext derm inf /RM-6254,Extended Dermatologic Infusion Therapy,explicit_terms,Extended Dermatologic Infusion Therapy
+asst urologic endoscopic proc,Assisted Urologic Endoscopic Procedure,explicit_terms,Assisted Urologic Endoscopic Procedure
+adv geriatric nutr support /RM-3476,Advanced Geriatric Nutritional Support,explicit_terms,Advanced Geriatric Nutritional Support
+beds - card recov room occupancy /RM-3081,Bedside Cardiac Recovery Room Occupancy,explicit_terms,Bedside Cardiac Recovery Room Occupancy
+preop endocrine dial sess,Preoperative Endocrine Dialysis Session,explicit_terms,Preoperative Endocrine Dialysis Session
+routine  psych consult /RM-6049,Routine Psychiatric Consultation,explicit_terms,Routine Psychiatric Consultation
+rtn endo specimen,Routine Endocrine Specimen Analysis,explicit_terms,Routine Endocrine Specimen Analysis
+beds  geriatric telem monitoring,Bedside Geriatric Telemetry Monitoring,explicit_terms,Bedside Geriatric Telemetry Monitoring
+intens paed biop proc /RM-7128,Intensive Paediatric Biopsy Procedure,explicit_terms,Intensive Paediatric Biopsy Procedure
+emergency steril service /RM-4697,Emergency Dermatologic Sterilisation Service,unique_partial_inference,Emergency Dermatologic Sterilisation Service
+inpt metabolic thtr tm,Inpatient Metabolic Theatre Time,explicit_terms,Inpatient Metabolic Theatre Time
+obst - diag img,,unresolved,Inpatient Obstetric Diagnostic Imaging|Routine Obstetric Diagnostic Imaging
+cont - renal isol room occupancy /RM-4639,Continuous Renal Isolation Room Occupancy,explicit_terms,Continuous Renal Isolation Room Occupancy
+intens - ophth lab pnl /RM-6200,Intensive Ophthalmic Laboratory Panel,explicit_terms,Intensive Ophthalmic Laboratory Panel
+monit - foc urol telemetry,Focused Urologic Telemetry Monitoring,explicit_terms,Focused Urologic Telemetry Monitoring
+ent wnd cr interm,Intermittent Otolaryngologic Wound Care,explicit_terms,Intermittent Otolaryngologic Wound Care
+preop endo dial session,Preoperative Endocrine Dialysis Session,explicit_terms,Preoperative Endocrine Dialysis Session
+adv metab discharge,Advanced Metabolic Discharge Planning,explicit_terms,Advanced Metabolic Discharge Planning
+outpt  - haem transp svc /RM-2980,Outpatient Haematology Transport Service,explicit_terms,Outpatient Haematology Transport Service
+adv - metab discharge plng,Advanced Metabolic Discharge Planning,explicit_terms,Advanced Metabolic Discharge Planning
+consult routine psychiatric,Routine Psychiatric Consultation,explicit_terms,Routine Psychiatric Consultation
+administration - inpt hepatic anaes /RM-1221,,unresolved,
+postop - haem nursing obs /RM-9788,Postoperative Haematology Nursing Observation,explicit_terms,Postoperative Haematology Nursing Observation
+postop pulm consult,Postoperative Pulmonary Consultation,explicit_terms,Postoperative Pulmonary Consultation
+extended haem radiother fract /RM-4727,Extended Haematology Radiotherapy Fraction,explicit_terms,Extended Haematology Radiotherapy Fraction
+beds  - pall wound cr,Bedside Palliative Wound Care,explicit_terms,Bedside Palliative Wound Care
+assisted - ophthalmic recov rm occ,Assisted Ophthalmic Recovery Room Occupancy,explicit_terms,Assisted Ophthalmic Recovery Room Occupancy
+supv ophth nutr support /RM-2635,Supervised Ophthalmic Nutritional Support,explicit_terms,Supervised Ophthalmic Nutritional Support
+supv neurological lab pnl /RM-6081,Supervised Neurological Laboratory Panel,explicit_terms,Supervised Neurological Laboratory Panel
+supp postop ger nutritional /RM-2705,Postoperative Geriatric Nutritional Support,explicit_terms,Postoperative Geriatric Nutritional Support
+adv - gi telemetry /RM-2615,Advanced Gastrointestinal Telemetry Monitoring,explicit_terms,Advanced Gastrointestinal Telemetry Monitoring
+advanced - msk radiother fract /RM-9976,Advanced Musculoskeletal Radiotherapy Fraction,explicit_terms,Advanced Musculoskeletal Radiotherapy Fraction
+analysis - rtn endo spcm /RM-1395,Routine Endocrine Specimen Analysis,explicit_terms,Routine Endocrine Specimen Analysis
+specialist - pulm biop proc,Specialist Pulmonary Biopsy Procedure,explicit_terms,Specialist Pulmonary Biopsy Procedure
+emergency pulm biop proc /RM-6522,Emergency Pulmonary Biopsy Procedure,explicit_terms,Emergency Pulmonary Biopsy Procedure
+haem radiother fract compr,Comprehensive Haematology Radiotherapy Fraction,explicit_terms,Comprehensive Haematology Radiotherapy Fraction
+extended haematology radiother fract /RM-4826,Extended Haematology Radiotherapy Fraction,explicit_terms,Extended Haematology Radiotherapy Fraction
+intermittent  infect thtr tm /RM-6496,Intermittent Infectious Theatre Time,explicit_terms,Intermittent Infectious Theatre Time
+rtn - obst diagnostic img /RM-4754,Routine Obstetric Diagnostic Imaging,explicit_terms,Routine Obstetric Diagnostic Imaging
+preoperative derm dialysis sess /RM-9688,Preoperative Dermatologic Dialysis Session,explicit_terms,Preoperative Dermatologic Dialysis Session
+neuro - pharm dispensing /RM-3736,Bedside Neurological Pharmaceutical Dispensing,unique_partial_inference,Bedside Neurological Pharmaceutical Dispensing
+outpatient pulm transport svc /RM-2790,Outpatient Pulmonary Transport Service,explicit_terms,Outpatient Pulmonary Transport Service
+postop - endoscopic proc,Postoperative Psychiatric Endoscopic Procedure,unique_partial_inference,Postoperative Psychiatric Endoscopic Procedure
+advanced msk radiother fract /RM-4972,Advanced Musculoskeletal Radiotherapy Fraction,explicit_terms,Advanced Musculoskeletal Radiotherapy Fraction
+interp inpt haem img,Inpatient Haematology Imaging Interpretation,explicit_terms,Inpatient Haematology Imaging Interpretation
+foc metabolic theatre time /RM-1948,Focused Metabolic Theatre Time,explicit_terms,Focused Metabolic Theatre Time
+consult  - elect pulm /RM-9705,Elective Pulmonary Consultation,explicit_terms,Elective Pulmonary Consultation
+beds neuro radiother fraction,Bedside Neurological Radiotherapy Fraction,explicit_terms,Bedside Neurological Radiotherapy Fraction
+preop  - psych radiother fract /RM-5688,Preoperative Psychiatric Radiotherapy Fraction,explicit_terms,Preoperative Psychiatric Radiotherapy Fraction
+focused metab thtr time /RM-9055,Focused Metabolic Theatre Time,explicit_terms,Focused Metabolic Theatre Time
+advanced  paediatric telem monitoring /RM-4581,Advanced Paediatric Telemetry Monitoring,explicit_terms,Advanced Paediatric Telemetry Monitoring
+interm - immun isol rm occ,Intermittent Immunologic Isolation Room Occupancy,explicit_terms,Intermittent Immunologic Isolation Room Occupancy
+extended neuro thtr time,Extended Neurological Theatre Time,explicit_terms,Extended Neurological Theatre Time
+outpatient  - gi isol rm occ,Outpatient Gastrointestinal Isolation Room Occupancy,explicit_terms,Outpatient Gastrointestinal Isolation Room Occupancy
+beds - pulm steril /RM-3745,Bedside Pulmonary Sterilisation Service,explicit_terms,Bedside Pulmonary Sterilisation Service
+inpatient metab thtr time /RM-2722,Inpatient Metabolic Theatre Time,explicit_terms,Inpatient Metabolic Theatre Time
+postoperative - geriatric nutritional supp /RM-8934,Postoperative Geriatric Nutritional Support,explicit_terms,Postoperative Geriatric Nutritional Support
+anaesthesia  outpatient infect /RM-6395,Outpatient Infectious Anaesthesia Administration,explicit_terms,Outpatient Infectious Anaesthesia Administration
+tm extended neuro theatre,Extended Neurological Theatre Time,explicit_terms,Extended Neurological Theatre Time
+pnl intensive ophthalmic lab,Intensive Ophthalmic Laboratory Panel,explicit_terms,Intensive Ophthalmic Laboratory Panel
+derm physio sess postop,Postoperative Dermatologic Physiotherapy Session,explicit_terms,Postoperative Dermatologic Physiotherapy Session
+cont lab panel /RM-6683,Continuous Gastrointestinal Laboratory Panel,unique_partial_inference,Continuous Gastrointestinal Laboratory Panel
+adv paediatric telem monit /RM-1506,Advanced Paediatric Telemetry Monitoring,explicit_terms,Advanced Paediatric Telemetry Monitoring
+occ - cont immun isol rm /RM-8194,Continuous Immunologic Isolation Room Occupancy,explicit_terms,Continuous Immunologic Isolation Room Occupancy
+care - inpatient obst wound /RM-4163,Inpatient Obstetric Wound Care,explicit_terms,Inpatient Obstetric Wound Care
+metab diagnostic img /RM-3735,,unresolved,
+occupancy beds cardiac recov rm,Bedside Cardiac Recovery Room Occupancy,explicit_terms,Bedside Cardiac Recovery Room Occupancy
+specialist ophthalmic nutritional supp /RM-9241,Specialist Ophthalmic Nutritional Support,explicit_terms,Specialist Ophthalmic Nutritional Support
+intensive - infectious anaes admin,Intensive Infectious Anaesthesia Administration,explicit_terms,Intensive Infectious Anaesthesia Administration
+metab thtr tm foc,Focused Metabolic Theatre Time,explicit_terms,Focused Metabolic Theatre Time
+fraction bedside neuro radiother,Bedside Neurological Radiotherapy Fraction,explicit_terms,Bedside Neurological Radiotherapy Fraction
+ger nutr supp postop,Postoperative Geriatric Nutritional Support,explicit_terms,Postoperative Geriatric Nutritional Support
+supv ent wnd /RM-5245,Supervised Otolaryngologic Wound Care,explicit_terms,Supervised Otolaryngologic Wound Care
+outpt rheum pharm dispensing /RM-4051,Outpatient Rheumatologic Pharmaceutical Dispensing,explicit_terms,Outpatient Rheumatologic Pharmaceutical Dispensing
+outpt - metab rehab programme,Outpatient Metabolic Rehabilitation Programme,explicit_terms,Outpatient Metabolic Rehabilitation Programme
+supv neuro laboratory pnl /RM-9437,Supervised Neurological Laboratory Panel,explicit_terms,Supervised Neurological Laboratory Panel
+amb - ent img interp /RM-4132,Ambulatory Otolaryngologic Imaging Interpretation,explicit_terms,Ambulatory Otolaryngologic Imaging Interpretation
+postop ent rehab,Postoperative Otolaryngologic Rehabilitation Programme,explicit_terms,Postoperative Otolaryngologic Rehabilitation Programme
+interp - preop ophth img /RM-9185,Preoperative Ophthalmic Imaging Interpretation,explicit_terms,Preoperative Ophthalmic Imaging Interpretation
+obst diag img rtn,Routine Obstetric Diagnostic Imaging,explicit_terms,Routine Obstetric Diagnostic Imaging
+intermittent - infect thtr tm,Intermittent Infectious Theatre Time,explicit_terms,Intermittent Infectious Theatre Time
+adv metab disch planning,Advanced Metabolic Discharge Planning,explicit_terms,Advanced Metabolic Discharge Planning
+prog - rtn vasc rehab /RM-6319,Routine Vascular Rehabilitation Programme,explicit_terms,Routine Vascular Rehabilitation Programme
+metab thtr tm inpt,Inpatient Metabolic Theatre Time,explicit_terms,Inpatient Metabolic Theatre Time
+derm steril svc ext,Extended Dermatologic Sterilisation Service,explicit_terms,Extended Dermatologic Sterilisation Service
+amb ren cs conf /RM-5619,Ambulatory Renal Case Conference,explicit_terms,Ambulatory Renal Case Conference
+elect - gastrointestinal disch plng /RM-9438,,unresolved,
+inpt - metab theatre tm /RM-7245,Inpatient Metabolic Theatre Time,explicit_terms,Inpatient Metabolic Theatre Time
+beds oncology case conf,Bedside Oncology Case Conference,explicit_terms,Bedside Oncology Case Conference
+postop - pulmonary consultation,Postoperative Pulmonary Consultation,explicit_terms,Postoperative Pulmonary Consultation
+fract psych radiotherapy,Preoperative Psychiatric Radiotherapy Fraction,unique_partial_inference,Preoperative Psychiatric Radiotherapy Fraction
+ren isol rm occ cont,Continuous Renal Isolation Room Occupancy,explicit_terms,Continuous Renal Isolation Room Occupancy
+svc - ext dermatologic steril /RM-8168,Extended Dermatologic Sterilisation Service,explicit_terms,Extended Dermatologic Sterilisation Service
+emer - derm steril service,Emergency Dermatologic Sterilisation Service,explicit_terms,Emergency Dermatologic Sterilisation Service
+monit  bedside ger telem,Bedside Geriatric Telemetry Monitoring,explicit_terms,Bedside Geriatric Telemetry Monitoring
+derm steril svc emer,Emergency Dermatologic Sterilisation Service,explicit_terms,Emergency Dermatologic Sterilisation Service
+proc spclst paediatric biop /RM-4661,Specialist Paediatric Biopsy Procedure,explicit_terms,Specialist Paediatric Biopsy Procedure
+ophth nutr supp supv,Supervised Ophthalmic Nutritional Support,explicit_terms,Supervised Ophthalmic Nutritional Support
+preop ophthalmic img interp,Preoperative Ophthalmic Imaging Interpretation,explicit_terms,Preoperative Ophthalmic Imaging Interpretation
+haem radiother fract ext,Extended Haematology Radiotherapy Fraction,explicit_terms,Extended Haematology Radiotherapy Fraction
+beds vascular crit cr occ,Bedside Vascular Critical Care Occupancy,explicit_terms,Bedside Vascular Critical Care Occupancy
+infect anaes admin outpt,Outpatient Infectious Anaesthesia Administration,explicit_terms,Outpatient Infectious Anaesthesia Administration
+intermittent infect cs conf /RM-4829,,unresolved,
+inpt musculoskeletal theatre tm /RM-4552,Inpatient Musculoskeletal Theatre Time,explicit_terms,Inpatient Musculoskeletal Theatre Time
+care supv ent wound /RM-2463,Supervised Otolaryngologic Wound Care,explicit_terms,Supervised Otolaryngologic Wound Care
+support adv derm nutr,Advanced Dermatologic Nutritional Support,explicit_terms,Advanced Dermatologic Nutritional Support
+interp - elect img,Elective Pulmonary Imaging Interpretation,unique_partial_inference,Elective Pulmonary Imaging Interpretation
+elect - pulm img interpretation,Elective Pulmonary Imaging Interpretation,explicit_terms,Elective Pulmonary Imaging Interpretation
+cont ren isolation occupancy /RM-8586,Continuous Renal Isolation Room Occupancy,explicit_terms,Continuous Renal Isolation Room Occupancy
+adv derm nutr supp,Advanced Dermatologic Nutritional Support,explicit_terms,Advanced Dermatologic Nutritional Support
+advanced dermatologic nutr supp /RM-9491,Advanced Dermatologic Nutritional Support,explicit_terms,Advanced Dermatologic Nutritional Support
+elective pulm img interpretation /RM-7746,Elective Pulmonary Imaging Interpretation,explicit_terms,Elective Pulmonary Imaging Interpretation
+foc - rheum consult /RM-2110,,unresolved,
+adv dermatologic nutritional supp,Advanced Dermatologic Nutritional Support,explicit_terms,Advanced Dermatologic Nutritional Support
+compr oncology wnd cr /RM-4911,,unresolved,
+monitoring - outpt metabolic telem,,unresolved,
+conf  preop paed,,unresolved,
+vst - intens infectious home,,unresolved,
+amb msk disch planning /RM-1463,,unresolved,
+emer  - msk inf therapy,,unresolved,
+cont - rheum critical cr occ,,unresolved,
+elect vascular physio sess /RM-8458,,unresolved,
+intens - steril svc,,unresolved,

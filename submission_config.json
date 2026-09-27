@@ -1,0 +1,8 @@
+{
+  "candidate_name": "Nwoyr Alshahrani",
+  "candidate_reported_minutes": 390,
+  "time_note": "Candidate-reported hands-on time at final packaging: 6 hours 30 minutes. Subsequent review time is not automatically tracked.",
+  "direct_mapping_confidence": "0.60",
+  "inference_exposed_confidence": "0.40",
+  "confidence_note": "Subjective, uncalibrated row-correctness estimates. 0.60 reflects a complete deterministic calculation with explicit mappings but incomplete independent validation; 0.40 reflects additional mapping inference exposure. The numbers are not fitted probabilities, not derived from Hospital 1 precision, and are a limitation of this submission. Exposure includes inferred lines in the invoice or in other records for the same patient; global utilisation and mapping uncertainty may still remain."
+}

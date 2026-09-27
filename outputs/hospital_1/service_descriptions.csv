@@ -1,0 +1,489 @@
+description,count
+Intens Gi Isolation Room Occupancy /NG-9835,100
+Ambulatory  Pulm Recov Rm Occupancy /NG-9869,95
+Ambulatory  Pulm Recovery Room Occupancy,92
+Ext Ger Wnd Cr,84
+Amb Pulm Recov Rm Occupancy,83
+Intens Gastrointestinal Isolation Rm Occupancy,80
+Intensive Gi Isolation Rm Occ,80
+Fraction Std Otolaryngologic Radiother,69
+Interm Pulm Rehab Prog,67
+Ext Geriatric Wnd Cr /NG-7617,65
+Programme Interm Pulmonary Rehab,64
+Comprehensive Infect Nursing,63
+Ext - Geriatric Wound Care /NG-2898,63
+Compr Infectious Nurs,61
+Interm Rehab Programme,61
+Observation Compr Infectious Nurs,58
+Interm Pulm Rehab Prog /NG-4176,58
+Care Extended Ger Wound,57
+Compr Infectious Nursing,54
+Rtn Cardiac Spcm Anly /NG-6683,53
+Procedure Immun Endosc,53
+Fraction  Std Ent Radiotherapy,52
+Advanced Card Recov Rm Occ,52
+Compr Infectious Nursing Observation,51
+Preoperative - Immun Endoscopic Procedure,49
+Proc Preoperative Immunologic Endoscopic /NG-1751,48
+Preop - Immun Endoscopic Procedure /NG-3497,48
+Routine Card Specimen Analysis,47
+Standard Ent Radiotherapy Fract,47
+Fract Std Ent,45
+Fract Std Otolaryngologic Radiotherapy,44
+Compr Psychiatric Transfusion Svc,43
+Anly Inpatient Palliative Specimen,42
+Rtn Cardiac Specimen,41
+Adv Card Recov Rm,41
+Care Preop Ren Wound,40
+Preop Immun Endosc Proc,40
+Conf Emergency Derm Cs,39
+Therapy Rtn Haem Infusion /NG-2021,39
+Spclst  Derm Transp Svc /NG-4716,39
+Ext Pall Lab Panel,39
+Occupancy Advanced Card Recov Rm,39
+Advanced Rheum Laboratory Pnl /NG-2701,39
+Obs Metab Nursing,39
+Immun Endosc Proc Preop,39
+Inpatient Pall Specimen Analysis /NG-4820,38
+Ther Assisted Ger Infusion,38
+Inpt - Ophth Radiother Fract,38
+Proc Std Psychiatric Endosc /NG-2345,38
+Std Psychiatric Endosc Procedure /NG-5963,37
+Assisted  Urol Hm Vst,37
+Advanced - Metab Nurs Obs,36
+Routine - Onc Discharge Plng,35
+Asst Infectious Discharge Plng,35
+Amb Infectious Hm Visit,35
+Visit Amb Hm,35
+Svc Extended Ren Transp,34
+Preop Renal Wnd Cr,34
+Inpt - Pall Specimen Analysis /NG-1173,34
+Postoperative Pulm Wnd Cr,34
+Therapy Rtn Haem Inf,34
+Spclst Derm Transport Service,34
+Advanced Haem Physiotherapy Session,34
+Rtn Palliative Critical Cr Occ,33
+Preop Endo Physiotherapy Sess,33
+Cont Msk Wound Cr,33
+Advanced Rheum Lab Pnl,33
+Emer Ortho Consult,32
+Asst Urologic Home Vst,32
+Cont - Immunologic Thtr Tm,32
+Foc - Immunologic Physio,32
+Visit - Assisted Urol Home /NG-4509,32
+Extended Ren Transport Service,32
+Specialist Paediatric Biop Procedure /NG-2447,32
+Amb Urologic Img Interp,32
+Extended Ren Transp,32
+Preoperative Endocrine Physio Sess,32
+Occupancy Postoperative Obstetric Isol Rm,32
+Adv Metab Nursing Observation /NG-7035,31
+Immun Wd Bd Occ Amb,31
+Spclst Ent Thtr Time,31
+Spclst Ent Theatre Tm,31
+Svc Rtn Gi Transfusion,31
+Ext Vasc Rehabilitation Prog,30
+Compr - Psych Transf Svc,30
+Occupancy  Extended Metabolic Isol Rm /NG-3709,30
+Adv Rheumatologic Lab Panel,30
+Focused Immun Physiotherapy Sess,30
+Std Pulmonary Dial Sess,30
+Therapy Asst Ger Inf,30
+Elective - Pulm Nutritional Supp,30
+Assisted Infect Disch Planning /NG-1542,29
+Supervised Msk Dial Session,29
+Ent Thtr Tm Spclst,29
+Inpt Hepatic Physio Session /NG-3220,29
+Advanced Haem Physio Session,29
+Std Psychiatric Endoscopic Procedure /NG-6086,29
+Extended Metabolic Isol Rm Occupancy /NG-9372,29
+Cont Vasc Pharmaceutical Disp,28
+Occupancy Postop Obstetric Isol Room,28
+Supervised Msk Dialysis Sess,28
+Psych Rehab Prog Rtn,28
+Extended Metab Isolation Room Occupancy,28
+Foc Immunologic Physio Sess,28
+Compr Otolaryngologic Rehab Prog /NG-9048,28
+Session Specialist Hep Physiotherapy,27
+Care Cont Musculoskeletal Wnd /NG-8990,27
+Conference Intens Ophth Cs,27
+Programme Extended Vascular Rehab,27
+Msk Dial Sess,27
+Cont Vasc Pharmaceutical Dispensing,27
+Preoperative - Ren Wnd Cr,27
+Cont Obst Rehab Prog /NG-1357,27
+Cont Pharmaceutical Disp,27
+Msk Wd Bd Occ Inpt,27
+Emergency Dermatologic Cs Conference,27
+Programme  Rtn Psych Rehab /NG-3241,27
+Emer Orthopaedic Rehabilitation Prog,27
+Rtn Haem Inf Therapy,27
+Specialist Derm Transp,26
+Observation Cont Nurs,26
+Amb Ophthalmic Dial Sess,26
+Rtn - Onc Discharge Plng,26
+Immun Wd Bd Occ Rtn,26
+Inpatient  Ophth Radiother Fraction,26
+Amb Infectious Visit,26
+Specialist Paediatric Biop Proc /NG-5601,26
+Consult Outpt Immun /NG-3689,26
+Occ  - Postoperative Obstetric Isol Rm,26
+Occ - Inpt Isol Rm /NG-2747,26
+Specialist Paed Biop Proc,26
+Ambulatory Immunologic Wd Bd Occ,26
+Emergency Ren Radiotherapy Fract,26
+Specialist - Neuro Recov Rm Occ,26
+Elect  Card Nutritional Supp,26
+Elect Cardiac Nutr Supp,25
+Case - Intensive Ophth /NG-3641,25
+Spclst Hepatic Physiotherapy Sess,25
+Beds Psych Dialysis Sess,25
+Assisted Pulm Theatre Tm /NG-8055,25
+Care Cont Musculoskeletal Wnd /NG-8330,25
+Elect - Card Supp,25
+Occ Supervised Ren Isolation Rm,25
+Occupancy Bedside Ent Recovery Room,25
+Rtn Immunologic Wd Bed Occupancy,25
+Intens - Ophthalmic Cs Conference /NG-6174,25
+Prog Emergency Ortho Rehabilitation /NG-5611,25
+Foc - Ortho Transp Service,25
+Inpt - Ophth Radiother Fract /NG-2420,25
+Amb - Urol Img Interp,25
+Comprehensive - Onc Nurs Obs,25
+Assisted Gi Inf Ther /NG-8862,25
+Compr Urologic Transport Svc,25
+Continuous Immun Theatre Time /NG-4759,25
+Ophth Radiother Fract Inpt,24
+Imaging Interm Rheum Diagnostic,24
+Psych Dial Sess Beds,24
+Asst Gastrointestinal Infusion Therapy,24
+Inpt Hep Physiotherapy Session,24
+Cont Immun Theatre Time /NG-9315,24
+Postop Pulmonary Wnd Care /NG-1729,24
+Therapy - Assisted Ger Infusion /NG-4561,24
+Elect Cardiac Nutritional Supp /NG-3162,24
+Extended Vasc Rehab Prog,24
+Fraction Outpatient Metab Radiotherapy /NG-5514,24
+Conference Emer Dermatologic Cs,24
+Prog Comprehensive Otolaryngologic Rehab,24
+Ambulatory Urol Imaging Interpretation,24
+Compr Urologic Transp Service,24
+Std Endo Endoscopic Procedure,24
+Routine - Oncology Disch,24
+Rtn - Psychiatric Rehabilitation Prog,24
+Rtn Gi Svc /NG-4995,24
+Procedure Standard Endocrine Endosc,24
+Spclst - Ent Thtr Tm /NG-7710,23
+Interm Rheumatologic Diag Img,23
+Rtn Infect Crit Cr Occupancy,23
+Continuous - Card Nursing Observation,23
+Consult Advanced Neuro /NG-5114,23
+Inpatient Ophth Transp Svc,23
+Consultation Adv,23
+Rtn Immunologic Ward Bd Occ,23
+Rtn Palliative Critical Cr Occupancy,23
+Img Vasc Diagnostic,23
+Elective Pulm Nutr Support,23
+Elective Pulmonary Nutr Supp,23
+Std Nutritional Supp,23
+Disp Specialist Otolaryngologic Pharmaceutical,23
+Focused Ent Cr /NG-9962,23
+Amb Msk Wd Bd Occupancy /NG-3394,23
+Emer Ortho Rehabilitation Prog,23
+Ext - Pall Panel,23
+Standard Ger Nutr Support /NG-7257,23
+Supp Interm Neuro Nutritional /NG-6247,23
+Assisted - Infect Disch Planning /NG-6257,23
+Supp Geriatric Vent /NG-9418,23
+Inpatient Hepatic Physio Sess,23
+Visit Cardiac Hm,22
+Ambulatory Card Hm Visit /NG-9268,22
+Ambulatory Endosc Procedure /NG-8034,22
+Service - Foc Ortho Transp,22
+Rtn Immun Ward Bed Occupancy,22
+Compr - Urol Transp Svc,22
+Inpt - Ren Radiotherapy Fraction,22
+Derm Transf Svc Interm,22
+Occ Routine Infectious Critical Cr,22
+Postop Critical Cr Occupancy,22
+Ext Palliative Laboratory Pnl,22
+Hep Physio Sess Inpt,22
+Preop - Geriatric Ventilation Supp,22
+Therapy Asst Gi Inf,22
+Compr Psychiatric Transf Service /NG-8081,22
+Pulm Wnd Cr Postop,22
+Adv Metabolic Anaesthesia Admin,22
+Ambulatory Ophth Dial Sess,22
+Compr Otolaryngologic Theatre Tm,22
+Fract Inpt Ophthalmic Radiotherapy /NG-8037,22
+Conference Amb Ophth Cs /NG-9862,22
+Extended Pall Laboratory Pnl,22
+Spclst Otolaryngologic Pharm Disp,21
+Ophth Cs Conf Amb,21
+Postoperative Ophth Radiother Fract,21
+Ther Asst Gi Inf,21
+Ambulatory - Immunologic Wd Bed Occ /NG-8463,21
+Preop Endo Physio Sess,21
+Std Paediatric Proc,21
+Ent Steril Svc Supv,21
+Inpatient Vascular Diag Imaging,21
+Ortho Transp Svc,21
+Postoperative - Ophth Radiother Fract /NG-1408,21
+Paed Biop Proc Spclst,21
+Inpt Musculoskeletal Wd Bed Occupancy /NG-8170,21
+Advanced Critical Cr Occupancy,21
+Session - Std Pulmonary Dial,21
+Img Inpatient Vascular Diagnostic,21
+Ext - Vascular Rehabilitation Prog,21
+Msk Wd Bd Occ Amb,21
+Vasc  Diagnostic Img,21
+Occ - Postoperative Metabolic Critical Care,21
+Ren Radiotherapy Fract,21
+Inpt Msk Wd Bed Occ,21
+Infect Crit Cr Occ Rtn,21
+Preoperative - Ger Vent Support /NG-6364,21
+Standard Paed Biopsy Procedure,21
+Psych Rehab Programme,21
+Cont Musculoskeletal Wound Care,21
+Preop Endocrine Physio Session,21
+Rtn - Transf Svc,21
+Std Geriatric Nutritional Support,20
+Session Std Pulmonary Dialysis,20
+Continuous Ent Telem Monit,20
+Ambulatory Msk Ward Bd Occ /NG-7929,20
+Ambulatory  Immunologic Wd Bd Occupancy,20
+Occupancy Inpatient Palliative Isol Room,20
+Specialist - Otolaryngologic Pharm Disp /NG-4235,20
+Vasc Diag Img Inpt,20
+Preop Oncology Consult /NG-7321,20
+Advanced Neuro Consultation,20
+Derm Transf Svc Rtn,20
+Emergency - Orthopaedic Rehab Prog,20
+Obs Continuous Card Nurs,20
+Std Endocrine Endosc Proc,20
+Standard Pulm Dial Sess,20
+Advanced Metab Anaes,20
+Outpt - Immun Consultation /NG-3299,20
+Standard Paed Biop Proc /NG-2120,20
+Supervised Musculoskeletal Dialysis Sess /NG-6660,20
+Inpt Hepatic Session,20
+Std Geriatric Nutritional Supp,20
+Outpatient Metab Radiother Fraction,20
+Supv Ent Steril Svc,20
+Sess Ambulatory Ophth Dialysis,20
+Std Endocrine Endosc Procedure /NG-7684,20
+Ext Pall Lab Panel /NG-9077,20
+Support Interm Neurological Nutr,20
+Preop Geriatric Vent Supp,20
+Continuous Wnd Care,20
+Supervised Ent Steril Service,20
+Rtn - Urol Biop Procedure,20
+Inpt Ophth Transport Svc,20
+Beds Psych Session,20
+Sess Inpatient Endo Dialysis,20
+Psych Dial Sess Amb,20
+Advanced Neuro Consult,20
+Ambulatory Musculoskeletal Wd Bd Occ,19
+Supervised - Ent Steril Svc /NG-7318,19
+Outpt Immun Consultation,19
+Admin Advanced Metabolic Anaes /NG-1114,19
+Asst Pulmonary Theatre Time /NG-2448,19
+Amb - Ophthalmic Cs Conf,19
+Supervised  Ren Isol Room Occ,19
+Cr Focused Ent Wound,19
+Amb Immun Endosc Proc,19
+Occ Inpt Msk Wd Bd,19
+Ren Radiother Fract Inpt,19
+Continuous - Ent Telemetry Monit /NG-9499,19
+Compr - Otolaryngologic Rehab Prog,19
+Preop Onc Consultation,19
+Inpt - Hep Physio Sess /NG-1999,19
+Ambulatory - Card Home Vst,19
+Elective Pulmonary Nutr Support,19
+Postop Metabolic Critical Cr Occ,19
+Rtn Biop Proc /NG-7762,19
+Std Endocrine Dialysis Sess /NG-9032,19
+Amb Psychiatric Dialysis Sess,18
+Spclst Hep Physio Session,18
+Proc - Amb Immun Endoscopic /NG-3634,18
+Ophth Radiother Fract Postop,18
+Adv Haem Physiotherapy Sess,18
+Fraction Inpatient Ren Radiother,18
+Occupancy - Spclst Neurological Recovery Rm /NG-4948,18
+Img Preop Vasc Diagnostic,18
+Bedside Pulm Biopsy Proc,18
+Plng Rtn Oncology Discharge,18
+Supv Ren Isol Rm Occupancy,18
+Hep Physio Sess Spclst,18
+Beds Otolaryngologic Recovery Room Occ,18
+Occupancy Rtn Pall Crit Cr,18
+Ren Radiother Fract Emer,18
+Fraction Emergency Ren Radiotherapy,18
+Occ Beds Otolaryngologic Recov Room,18
+Svc Preop Ent Steril,18
+Img Inpatient Diag,18
+Pulm Wnd Cr Cont,18
+Inpt Palliative Isol Room Occupancy,18
+Intens - Nutr Support,18
+Rtn Pall Crit Cr Occupancy,18
+Cs Amb Ophthalmic /NG-7838,18
+Interm Neuro Nutr Supp /NG-9593,18
+Specialist  Neurological Recovery Rm Occ,18
+Specialist Ent Pharmaceutical Dispensing,18
+Emer Ortho,17
+Obs Cont Card Nursing,17
+Interm Derm Transfusion Service /NG-8116,17
+Procedure Amb Immunologic Endoscopic,17
+Amb Card Home Vst,17
+Ophth Cs Conf Intens,17
+Beds Pulmonary Biop Proc,17
+Time Asst Pulm Theatre,17
+Std Endo Dial Session /NG-7220,17
+Preop Ent Sterilisation Svc /NG-3994,17
+Spclst - Ent Pharmaceutical Dispensing /NG-9066,17
+Compr Onc Nurs Observation,17
+Cont Obstetric Rehab Programme /NG-9792,17
+Supervised - Ren Isolation Room Occupancy,17
+Preop Geriatric Ventilation Support /NG-1168,17
+Cont Obst Rehab Prog,17
+Ambulatory Ophthalmic Dial Session,17
+Preoperative Otolaryngologic Steril Service,17
+Session Beds Psychiatric Dialysis,17
+Beds Pulmonary Biop Proc /NG-6360,17
+Routine - Gastrointestinal Transfusion Svc,17
+Img Preop Vascular Diag,17
+Cont Ent Telem Monit,17
+Continuous - Obst Rehab Programme,17
+Specialist Neuro Recovery Room Occ,17
+Standard Endo Dial Sess,17
+Session Inpt Endo Dial,17
+Compr Oncology Nurs Obs,16
+Emer Orthopaedic Consultation,16
+Sess Ambulatory Psych Dialysis /NG-7178,16
+Rtn Dermatologic Transfusion Svc,16
+Cont Pulmonary Wnd Cr,16
+Continuous Otolaryngologic Telemetry Monit /NG-7391,16
+Compr Ent Thtr Time,16
+Intermittent Neurological Nutr Supp,16
+Postoperative Pulmonary Wnd Cr /NG-8823,16
+Inpatient - Vasc Diagnostic Img,16
+Ger Nutr Support /NG-2366,16
+Intermittent - Derm Transf Svc,16
+Cont - Psychiatric Rehab Prog /NG-1498,16
+Spclst Otolaryngologic Thtr Tm,16
+Adv Metabolic Anaes Administration,16
+Ambulatory - Immun Endosc Proc /NG-1182,16
+Focused Otolaryngologic Wound Cr,16
+Interm - Diag Img /NG-6221,16
+Inpt - Ren Radiotherapy Fract,16
+Intens Ger Nutr Support,16
+Inpatient Ophth Transport Svc,15
+Comprehensive Onc Nurs Observation,15
+Preop Oncology Consult /NG-5826,15
+Rtn Infect Critical Care Occ,15
+Outpt Immun Consult /NG-9519,15
+Postoperative - Metab Crit Cr Occupancy,15
+Endo Dial Sess Std,15
+Inpt Ophthalmic Transport Svc,15
+Rtn Derm Transfusion Service,15
+Cont Psychiatric Rehabilitation Programme,15
+Interm Rheum Diagnostic Img /NG-6790,15
+Outpatient - Metabolic Radiother Fract /NG-9469,15
+Occupancy - Beds Otolaryngologic Recov Room,15
+Asst  Pulmonary Theatre Time,15
+Svc Interm Transf,15
+Care Focused Ent Wnd,15
+Occ Beds Otolaryngologic Recovery Room /NG-2212,15
+Postoperative Ophthalmic Radiother Fract /NG-5937,15
+Bedside Pulmonary Biop Proc,15
+Ger Nutr Supp Std,15
+Ent Steril Svc Preop,15
+Compr - Urologic Transport Service,15
+Ent Thtr Tm Compr,15
+Procedure Routine Urol Biopsy,15
+Inpatient Ren Radiotherapy Fraction /NG-3532,14
+Sess Amb Psych Dial,14
+Obs Continuous Card Nursing /NG-8292,14
+Immun Consult,14
+Occupancy Postop Metabolic Crit Cr,14
+Std - Biop Proc,14
+Routine Pall Critical Care Occupancy /NG-1990,14
+Support Intens Geriatric Nutritional,14
+Asst - Gi Inf Therapy /NG-1139,14
+Interm - Derm Transf Svc,14
+Cont - Pulmonary Wnd Cr,14
+Emer - Ortho Consultation,14
+Pulmonary - Biopsy Proc,14
+Ger Nutr Supp Intens,14
+Postop Ophthalmic Radiotherapy Fract,14
+Focused - Orthopaedic Transp Svc,14
+Preop Oncology Consult /NG-2424,14
+Compr Otolaryngologic Rehab /NG-4700,14
+Monit Cont Ent Telemetry /NG-2024,14
+Comprehensive Ent Thtr Time /NG-2399,13
+Preoperative Ent Steril Svc,13
+Procedure Routine Urologic Biop /NG-3022,13
+Preop Otolaryngologic Steril Svc,13
+Ambulatory Psych Dial Session,13
+Endo Dial Sess Inpt,13
+Preoperative Onc Consultation,13
+Svc Intermittent Derm Transf /NG-9194,13
+Conference Amb Ophth Case,13
+Ambulatory Card Home Vst,13
+Inpt Palliative Isolation Rm Occupancy,13
+Psychiatric Rehab Programme /NG-8199,13
+Amb Urol Imaging Interpretation,13
+Comprehensive Otolaryngologic Thtr Time,13
+Paed Biop Proc Std,12
+Inpt Endo Session,12
+Cr Foc Otolaryngologic Wound,12
+Outpt Radiother Fraction,12
+Infect Crit Cr Occ Adv,12
+Outpt Metab Radiother Fract,12
+Routine  Biop Procedure,12
+Immun Endosc Proc Amb,12
+Cr Cont Wnd,12
+Comprehensive Oncology Nurs Obs,12
+Occ Inpatient Palliative Isolation Rm,12
+Session Std Endocrine Dialysis,12
+Sess Standard Endo Dialysis,12
+Neuro - Nutr Supp,12
+Assisted - Pulm Thtr Tm /NG-9868,12
+Supv Isol Rm Occupancy,12
+Amb Psych Dial Session,11
+Focused Orthopaedic Transp Svc,11
+Programme Continuous Obst Rehab,11
+Inpatient Ren Radiother Fraction,11
+Advanced Metabolic Anaes Admin,11
+Continuous Psych Rehabilitation Prog,11
+Adv Infect Critical Care Occ /NG-2548,11
+Fract Emergency Ren Radiother,11
+Cont - Pulmonary Wnd Cr /NG-2407,11
+Advanced  Infect Crit Cr,10
+Rtn Derm Transfusion Service /NG-2088,10
+Rtn  - Derm Transf Svc,10
+Vasc Diag Img Preop,10
+Advanced Infectious Crit Care Occ /NG-3293,10
+Adv Neuro Consultation /NG-3672,10
+Inpatient - Ophth Transport,10
+Svc Routine Derm Transf /NG-2484,10
+Cont Psych Rehab Programme,10
+Specialist Neurological Recovery Rm /NG-7294,9
+Adv Infect Critical Cr Occ /NG-1530,9
+Session Inpatient Endo Dial,9
+Conf Amb Ophth Cs /NG-4640,9
+Intensive Ger Nutr Supp /NG-4079,9
+Inpatient Endo Dial Sess,7
+Psych Rehab Prog Cont,6
+Outpatient Orthopaedic Pharm Dispensing /NG-2825,1
+Adv  Renal Consultation,1
+Metabolic - Lab Pnl,1
+Occ Advanced Orthopaedic Recovery Rm /NG-2920,1
+Supp Postoperative Ortho Nutritional,1
+Extended Haem Anaes Admin,1
+Extended Ortho Ventilation Support,1
+Session  Interm Hep Dial,1
+Amb Gastrointestinal Discharge Plng,1
+Fract Outpatient Radiotherapy,1
+Cont Pulm Spcm Analysis,1
+Asst Specimen Anly,1

@@ -1,0 +1,535 @@
+description,count
+INTENSIVE  - paediatric CONSULT /CW-8569,42
+cont PSYCHIATRIC rehabilitation PROG,41
+elective - OBST transf SERVICE /CW-5652,40
+asst - PAEDIATRIC physio SESS /CW-1557,40
+foc VASC infusion THER,39
+ther - FOC vasc INF /CW-4721,39
+INTENS  - paed CONSULTATION /CW-2377,37
+therapy  - FOC vasc INFUSION /CW-1063,37
+asst - PAED physio SESS,37
+ASSISTED urol NURS obs /CW-3340,36
+foc - VASC inf THERAPY /CW-8936,36
+sess ASSISTED paed PHYSIO /CW-7619,36
+ext - OBST cs CONFERENCE /CW-3448,35
+OCC amb PAED crit CARE /CW-9108,35
+spclst GI img INTERP /CW-5639,35
+monit POSTOP otolaryngologic TELEM /CW-4406,34
+rheum NURS obs ext,33
+assisted - PAED physio SESS /CW-5564,33
+gi - IMG interp,33
+AMBULATORY - obst CS conf,32
+PROCEDURE - beds GI biopsy /CW-5425,32
+postoperative - PALL recov ROOM occupancy,32
+prog CONT psych REHAB /CW-9206,32
+supervised  RHEUM dial SESSION /CW-9091,32
+SUPV vascular RADIOTHER fract /CW-1727,32
+std - PAED dial SESS /CW-6582,31
+EMER - card PHYSIO sess /CW-1742,31
+ext - OBSTETRIC conf,31
+SUPERVISED  - vasc RADIOTHER,31
+INTENS - paed CONSULT,31
+PROG - amb RHEUM rehabilitation /CW-6302,30
+OCC  - outpt ORTHOPAEDIC recov ROOM,30
+conf  - EXT obst CS /CW-8663,30
+conf - EXT obstetric CS,30
+supv  - DIAL sess /CW-1782,30
+AMB paed CRIT cr OCCUPANCY /CW-5795,30
+elect OBST transf SVC /CW-1798,30
+std - ONC wd BED occ /CW-1173,30
+SPECIALIST immunologic CONSULT /CW-1309,30
+SUPV - vascular RADIOTHERAPY fract,30
+OBST cs CONF EXT,30
+SPCLST - immunologic CONSULT,30
+elect  OBSTETRIC transf SVC /CW-6472,29
+SPCLST - immunologic CONSULTATION /CW-3950,29
+standard - ONC bd OCC,29
+PROC compr NEURO endoscopic /CW-6452,29
+renal ANAES admin,29
+postoperative - ENT telem MONIT /CW-9058,29
+THER std HEP inf /CW-1052,29
+SPCLST immunologic /CW-6493,29
+AMBULATORY obst CS conf /CW-8021,29
+IMMUN wd BD occ AMB,29
+PSYCH rehab PROG CONT,28
+CARD hm VST RTN,28
+AMB musculoskeletal VENT supp /CW-8775,28
+emer METABOLIC radiotherapy FRACTION /CW-3320,28
+intensive  - VASCULAR steril SVC /CW-1594,28
+std - DIAL sess /CW-2606,28
+IMMUN - spclst /CW-9956,28
+intens - UROL spcm ANALYSIS /CW-2272,28
+tm OUTPATIENT urol /CW-9136,28
+SESS - emergency CARDIAC physio,28
+AMB - gastrointestinal NUTR supp /CW-3413,28
+EXT  - psych ENDOSC proc /CW-4756,28
+postop  - PALLIATIVE recov ROOM occupancy /CW-6043,28
+intens  UROLOGIC spcm ANALYSIS /CW-5532,28
+CONSULT intens PAED /CW-3137,28
+SUPV - vascular RADIOTHER fract /CW-4865,27
+supervised RHEUM dial SESS,27
+CONT  infect CRIT care OCC,27
+svc - INTENS vasc STERILISATION,27
+svc FOC vasc TRANSPORT,27
+CARD physio SESS EMER,27
+POSTOPERATIVE card CR,27
+rheum REHAB prog amb,27
+emer METAB radiother FRACT,27
+EXT ren WD occ /CW-7113,27
+adv  - PAED thtr TM,27
+tm - OUTPT urol THEATRE /CW-3657,27
+vst - INTERM onc HM,27
+assisted - NUTR supp,27
+ASSISTED card VENTILATION supp /CW-6226,27
+OCC  - outpt ORTHO recov ROOM /CW-6062,27
+OCC advanced ORTHO wd,27
+postop ONCOLOGY imaging /CW-3721,27
+intens - VASC steril SVC /CW-4993,27
+BEDS  gi BIOPSY proc /CW-1241,27
+AMB - rheum REHAB prog /CW-9454,27
+SUPP  ambulatory GI nutr /CW-8509,26
+AMB  - gi NUTRITIONAL support /CW-3607,26
+amb MSK spcm,26
+intens - RHEUM radiotherapy /CW-4273,26
+INTENS - ger CASE conf,26
+img  COMPREHENSIVE urologic /CW-6158,26
+CARE - postop CARDIAC wnd /CW-2116,26
+elect OBSTETRIC transf SVC /CW-6737,26
+sess - SUPV rheum DIALYSIS,26
+ONC wd BD occ STD,26
+hep DISCH plng ext,26
+ASST - paediatric THEATRE tm /CW-7535,26
+postop GERIATRIC cs CONF /CW-2720,26
+AMB - paed CRIT cr OCC /CW-3496,26
+occ  - AMB card WARD bed /CW-8690,26
+specialist - GI imaging INTERPRETATION /CW-3195,26
+AMB - rheumatologic REHAB prog,26
+ELECT - ophthalmic RADIOTHERAPY fract /CW-3532,26
+ASST - urol NURS obs /CW-2623,26
+ASST  urol OBSERVATION /CW-2070,26
+AMB obst CS conf,26
+PLANNING spclst HEP disch,25
+occ - POSTOP pall RECOVERY rm,25
+POSTOP - card WND care /CW-5796,25
+ADMIN - outpt RHEUM anaes,25
+PREOP - onc DIAG /CW-5837,25
+hep DISCH plng spclst,25
+sess  - STD paediatric DIAL /CW-3203,25
+OCC  - ambulatory PAEDIATRIC critical CR,25
+SPCM  - asst OBST /CW-9843,25
+conf - UROL cs /CW-3094,25
+prog  - CONT psych REHABILITATION /CW-5824,25
+COMPR neuro ENDOSCOPIC proc,25
+POSTOP paed IMG interpretation /CW-2645,25
+FRACT - elect OPHTH radiother /CW-4974,25
+admin - SUPV pulm ANAES,25
+supervised PULM anaes ADMIN,25
+intermittent - REN anaes,25
+emer  - METAB radiother,25
+OCCUPANCY - outpt ORTHO recov ROOM /CW-9263,25
+prog CONT rehab /CW-3359,25
+ASST - card VENT supp,25
+INPT - psych HOME vst,25
+interm ONC home VST /CW-1380,25
+EXT renal WD bed OCC,25
+SPCLST - hep DISCH planning,24
+extended  HEP transfusion SVC,24
+PREOP - haem INTERP,24
+INPT  psych HM vst /CW-4923,24
+OCC - supv IMMUN wd BED /CW-6089,24
+haematology - TRANSF svc,24
+ELECT - nurs OBS,24
+spclst - GI img INTERP /CW-7861,24
+ORTHOPAEDIC recov RM occupancy /CW-4525,24
+CARE postop CARDIAC wnd,24
+RHEUM rehabilitation PROGRAMME /CW-4700,24
+compr - OPHTH laboratory PNL /CW-7966,24
+OCC supv IMMUN wd BED /CW-7552,24
+CR std ORTHOPAEDIC crit,24
+amb - HAEMATOLOGY transf SVC /CW-5136,24
+CARDIAC physio SESS /CW-4455,24
+spclst - CARDIAC vent SUPPORT /CW-5757,24
+monit EXT urol TELEM,24
+EMERGENCY - card PHYSIOTHERAPY sess,24
+INTERP - postop PAEDIATRIC img /CW-8778,24
+SUPP amb MSK vent /CW-8558,24
+CONTINUOUS infectious CRITICAL occ,24
+ASST - obst SPCM anly /CW-7565,24
+INTERMITTENT - rheum DIAL sess /CW-4841,23
+ASST obst SPCM anly,23
+ortho  - ANAES admin /CW-7356,23
+OUTPT rheum ANAES admin /CW-4096,23
+occ PALLIATIVE recov RM,23
+vst STD vasc HM /CW-9701,23
+PROCEDURE - comprehensive NEURO endosc,23
+postop - PALLIATIVE recov RM occ /CW-4182,23
+PREOP msk ROOM occ,23
+ortho - ANAES administration,23
+ASSISTED gi ANAES admin /CW-1036,23
+foc UROLOGIC cs CONFERENCE,23
+intens - VASCULAR steril SVC /CW-7067,23
+interm - ONCOLOGY hm VST /CW-7658,23
+intens - UROL specimen ANLY /CW-8319,23
+amb  - HAEM transfusion SVC /CW-5631,23
+supv RHEUM sess /CW-6316,23
+POSTOP - ger IMG interpretation /CW-5101,23
+foc - VASC transp SVC,23
+POSTOPERATIVE rheum NURS obs /CW-2573,22
+ext - RHEUMATOLOGIC observation /CW-5150,22
+ortho - ANAES admin /CW-8548,22
+monit  - POSTOP otolaryngologic TELEM /CW-5715,22
+SPCLST - consult,22
+OCC cont INFECTIOUS crit CR /CW-4807,22
+SPCLST - hep DISCHARGE plng,22
+tm - OUTPT urol THTR /CW-8902,22
+monit - EXT urol TELEM /CW-7204,22
+ext - HEP transf SVC /CW-5339,22
+AMB obst CONF /CW-5695,22
+PROC - foc METABOLIC biopsy /CW-1566,22
+occ AMB card WARD /CW-1077,22
+OCC  - amb PAED crit CR,22
+msk - SPCM analysis,22
+amb IMMUN wd BD occ /CW-7522,22
+VST - supv PULMONARY /CW-3511,22
+POSTOP  - rheumatologic NURSING observation /CW-6924,22
+ELECT - ophthalmic RADIOTHER fract /CW-9522,22
+AMB  msk VENT supp,22
+POSTOP ger IMG interpretation,22
+INTERM - rheum SESS /CW-7476,22
+ext RHEUM nurs OBS,22
+ext RHEUM obs,22
+paed THTR tm adv,22
+AMBULATORY obst CS conf /CW-4745,22
+ADMIN - outpt RHEUM,22
+NURS - elect GASTROINTESTINAL /CW-1281,22
+ASST - gi ANAES admin,21
+compr - OPHTH lab PNL,21
+ASST urol NURS obs /CW-5982,21
+SUPP asst VENTILATION /CW-3888,21
+ELECT ophth RADIOTHER fract /CW-4480,21
+img - POSTOP onc DIAG,21
+INPT psych HOME vst /CW-1371,21
+supv PULM anaes ADMINISTRATION,21
+img - OUTPT ger,21
+admin REN anaesthesia,21
+supervised  PULMONARY anaes ADMIN,21
+INFECT - critical CARE occ,21
+RTN cardiac HM visit,21
+std - VASC vst,21
+COMPR neurological ENDOSC proc /CW-4675,21
+GER diag IMG PREOP,21
+INTERMITTENT rheum DIALYSIS session /CW-3359,21
+POSTOP ger IMG interp /CW-1229,21
+elective - NEURO wd BED occ,21
+PREOP - musculoskeletal RECOV rm OCC,21
+SESS intermittent RHEUM dial,21
+OUTPATIENT - rheum ADMINISTRATION /CW-5971,21
+AMB gi NUTR supp,21
+gi NURS obs supv,21
+focused UROL cs CONFERENCE,21
+RHEUM dial SESS SUPV,21
+visit STD vasc,21
+ASST - paed TM /CW-5883,21
+gi NURS obs elect,21
+SUPP - amb MSK vent /CW-6725,20
+occ - ELECT neuro WD bd /CW-3182,20
+ger - CASE conf,20
+standard - ONC ward BD occ /CW-4538,20
+INTERM  - rheum DIAL sess /CW-1055,20
+INPT - psych HM visit /CW-4170,20
+occ - AMBULATORY immun WD bd,20
+OUTPT recov RM occ,20
+panel  INTERM neuro LAB,20
+adv  - PAED thtr /CW-9651,20
+amb MSK spcm ANLY,20
+ASSISTED  - paed THTR tm /CW-7552,20
+EXT psych ENDOSC proc,20
+service - INTENS steril /CW-8257,20
+EXT ren BD occupancy /CW-7024,20
+urol TELEM monit ext,20
+intermittent  NEURO lab PNL /CW-9905,20
+inpatient - ORTHOPAEDIC anaes ADMIN /CW-3173,20
+THER - standard HEP inf /CW-8309,20
+SESS interm RHEUM dial /CW-5468,20
+postop  PAED sterilisation SVC,20
+IMG - preop ONC diag /CW-7126,20
+AMBULATORY - paed CRITICAL cr OCC,20
+rheum - RADIOTHERAPY fract /CW-5238,20
+prog - EMER rheum REHAB /CW-5035,20
+PREOP - msk RECOVERY room OCCUPANCY /CW-7703,20
+POSTOP - paediatric IMAGING interp,20
+prog EMER rheum REHABILITATION /CW-3222,20
+SUPV immun WD bd OCC /CW-1811,20
+REN - wd BD occ /CW-4382,20
+RTN card HM vst /CW-6536,20
+postop - PALL recovery RM occupancy,20
+fract EMER metabolic RADIOTHER,20
+adv PAED thtr TM,20
+admin - INTERM ren ANAES /CW-9520,20
+asst REN nutr SUPP /CW-3943,20
+POSTOP - rheum NURS obs,20
+ext - HEPATIC transfusion SVC /CW-2178,19
+asst RENAL nutr /CW-4158,19
+service POSTOP paediatric STERIL,19
+ASST - gastrointestinal ANAES admin /CW-6527,19
+paed THTR tm asst,19
+ASSISTED spcm ANALYSIS /CW-2232,19
+SUPERVISED pulm HM vst /CW-7359,19
+tm OUTPT urol THTR,19
+PREOP - msk RECOVERY rm OCCUPANCY /CW-6079,19
+card VENT supp asst,19
+OCCUPANCY - advanced ONC wd BD /CW-2874,19
+PROC - ext PSYCH /CW-9029,19
+adv PALL hm VST /CW-7657,19
+SUPERVISED pulmonary HM visit /CW-7640,19
+SPCLST  - hep DISCH planning /CW-7438,19
+sess STANDARD paed DIAL,19
+INTERM - urol TELEM monit,19
+AMB - rheum REHAB programme /CW-8508,19
+OCCUPANCY - std ORTHOPAEDIC crit CR /CW-7040,19
+fract - INTENS rheum RADIOTHER /CW-1555,19
+rheum REHAB prog emer,19
+OBS - gi NURS /CW-2992,19
+CONF intens GER cs /CW-3922,19
+anly INTENS spcm,19
+ASST  card VENT supp /CW-7623,19
+PREOPERATIVE - haematology IMG interp /CW-7886,19
+amb - IMMUN ward BD occupancy /CW-2184,19
+OUTPT - urologic ENDOSC proc,19
+obs SUPERVISED gi NURSING /CW-4223,18
+outpt - GER diagnostic IMG,18
+PREOP - haem IMG interpretation /CW-4475,18
+beds - OBST img INTERP,18
+advanced VASC endosc PROC /CW-6163,18
+PREOP - haem IMG interp /CW-1749,18
+svc - EXT hep TRANSF,18
+occupancy ONC wd BD,18
+TM asst PAEDIATRIC thtr /CW-4279,18
+supp SPCLST card VENT /CW-2599,18
+supervised - PULM admin,18
+PREOP - ger DIAG /CW-2259,18
+BEDSIDE - gi BIOP proc /CW-7056,18
+CONT infectious CRIT cr OCCUPANCY,18
+IMG - preop GER diag /CW-8799,18
+amb IMMUN ward BD occ,18
+SUPPORT - amb MSK vent,18
+INPATIENT - psych HM vst /CW-9305,18
+VST - supv PULMONARY hm /CW-6997,18
+OUTPT  urol ENDOSCOPIC proc,18
+FRACT - elect OPHTH radiotherapy /CW-2057,18
+ext - HEP transf SVC /CW-9407,18
+amb MSK spcm ANLY /CW-5350,18
+MONIT  interm UROLOGIC telemetry /CW-1251,18
+INTERM - psych REHAB prog,18
+compr - UROL img INTERP,18
+OUTPT - obst DIAL sess /CW-7015,18
+CARD physio SESS OUTPT,18
+STD - ophth LAB pnl,18
+adv - PALL hm VST /CW-2046,18
+bedside OBST img,18
+OCC adv ONC ward BD /CW-1103,18
+postop PAED steril SVC,18
+obs - EXT rheum NURS /CW-3692,17
+interp COMPR img /CW-6998,17
+RTN - card HM visit,17
+amb WD bed OCC /CW-2964,17
+THER std HEP inf,17
+INTERM - urol TELEMETRY /CW-3304,17
+card VENT support,17
+ext - UROL telem MONIT /CW-1191,17
+svc AMB haem TRANSFUSION /CW-4630,17
+fract - INTENSIVE rheum RADIOTHERAPY /CW-4214,17
+STD - hep INF ther /CW-6477,17
+occ  - AMB card WD bd,17
+OUTPATIENT - obst DIAL sess,17
+foc UROL cs CONF /CW-7956,17
+STD - orthopaedic CRIT cr OCC /CW-7769,17
+STD - ophth LAB pnl /CW-8684,17
+supv  - GASTROINTESTINAL nurs OBS,17
+PREOPERATIVE ger DIAG img /CW-7580,17
+beds - OBST img INTERPRETATION,17
+INTERP preoperative HAEM img,17
+POSTOP - ger IMG interp,17
+GER cs CONF INTENS,17
+adv - VASC endosc PROCEDURE /CW-2084,17
+CONF  intens GER case,16
+ophth LAB pnl std,16
+HEP - inf THERAPY,16
+adv - PALLIATIVE hm VISIT /CW-4841,16
+RTN - card HM vst /CW-5145,16
+GER cs CONF POSTOP,16
+conference - POSTOPERATIVE ger CS /CW-6353,16
+std - VASC hm VST /CW-7377,16
+admin - INPATIENT ortho ANAES,16
+onc DIAG img postop,16
+postoperative CS conference /CW-1435,16
+supv - GI nurs OBS /CW-9063,16
+PREOP - haematology IMG,16
+CONTINUOUS gi TRANSF svc,16
+FOCUSED biop PROC,16
+elective - NEURO wd BD occ,16
+OBST cs CONF AMB,16
+foc - VASC transport SERVICE,16
+OCC - std CRIT cr /CW-1779,16
+PROC - beds GASTROINTESTINAL biop /CW-9191,16
+compr UROL img INTERPRETATION,16
+OUTPT urol ENDOSC proc /CW-9583,16
+OCCUPANCY adv ONC wd BD,16
+VST supv PULMONARY home /CW-3675,16
+card  - HOME vst,16
+PREOP geriatric IMG /CW-3234,16
+ELECTIVE gi NURS obs /CW-7280,16
+IMG preoperative ONCOLOGY /CW-9430,16
+ENDOSC - outpatient UROLOGIC /CW-5618,16
+ADVANCED - onc WARD bd OCC,16
+STD - orthopaedic CRIT care OCC /CW-2102,15
+STD - ophth LAB pnl /CW-2452,15
+foc VASCULAR transp SERVICE /CW-7821,15
+outpt CARD sess,15
+adv VASC endosc PROC /CW-8230,15
+administration INTERM ren ANAES /CW-3269,15
+elective - NEURO ward BED occ,15
+INTENS - geriatric CS conference /CW-7622,15
+emer - RHEUMATOLOGIC prog /CW-1178,15
+INTERM urol TELEM monit,15
+supv  NURSING obs,15
+assisted - REN nutr SUPP /CW-6761,15
+SESS - emergency CARD physio /CW-9661,15
+CONF ger CS,15
+GER diag IMG OUTPT,15
+supp  SPCLST cardiac VENT /CW-8694,15
+hm - ADV palliative,15
+OUTPT - obst DIAL /CW-3474,15
+interm - NEUROLOGICAL lab PNL /CW-3443,15
+OCCUPANCY  adv ONC bd /CW-4545,15
+monit  POSTOPERATIVE otolaryngologic TELEMETRY,15
+OBSERVATION  postop RHEUM nurs,15
+ENDOSC - ext PSYCHIATRIC /CW-9075,15
+POSTOP - ger INTERP /CW-6488,15
+STD ophthalmic LAB pnl,15
+ADV - ortho WD bd OCC,15
+ADV ortho WD bd OCCUPANCY,15
+ext  UROLOGIC telem,15
+interpretation - COMPR img /CW-2951,15
+OUTPT - obst DIALYSIS sess,15
+occ AMB cardiac WD bd,15
+ANLY assisted OBST spcm,15
+outpt - GERIATRIC diagnostic IMG /CW-5122,14
+FOCUSED metab BIOP proc /CW-3728,14
+OCC  - standard ORTHO cr /CW-6124,14
+ADMIN - outpt RHEUM anaes /CW-8338,14
+PROG - interm PSYCH rehabilitation /CW-1715,14
+ext HEPATIC disch PLNG,14
+FOC - metab BIOP procedure /CW-1579,14
+FOCUSED metabolic BIOP proc /CW-3860,14
+outpt CARD physio SESSION /CW-1340,14
+proc ADV vasc ENDOSC /CW-8189,14
+spclst - CARD ventilation SUPP /CW-4904,14
+INTERPRETATION - postop PAED imaging /CW-8171,14
+postop ONC diagnostic IMG,14
+OCCUPANCY - supv IMMUN wd BD /CW-8876,14
+interp BEDSIDE obst IMG /CW-4098,14
+PREOP msk RECOV rm OCC,14
+ADVANCED - ortho WD bd OCCUPANCY /CW-3359,14
+ASST - gi ANAES administration,14
+INTERMITTENT psych REHAB prog,14
+interp - BEDSIDE obst IMG,14
+occupancy  - AMBULATORY card WD bd,14
+rheum NURS obs postop,14
+postop ONC img /CW-9715,14
+emergency - RHEUM rehabilitation PROG /CW-2482,14
+interm NEURO lab PNL,14
+occ ELECTIVE neuro WARD bd,14
+SUPERVISED - pulmonary HM vst /CW-3719,14
+outpt - CARDIAC physio,14
+TRANSF - cont GI,14
+ext  HEP disch PLNG /CW-1975,13
+urol TELEM monit interm,13
+comprehensive - OPHTH lab PNL /CW-3198,13
+interm - ONC hm VST,13
+ONC wd BD occ ADV,13
+beds CARD hm VST,13
+interp - COMPR urol IMG /CW-7467,13
+advanced PAED thtr TM /CW-5259,13
+PROG - interm PSYCH,13
+OCCUPANCY - adv ORTHO wd BD /CW-5531,13
+FOC - metab BIOPSY proc /CW-9462,13
+ext - HEP disch PLANNING,13
+PREOP ger DIAGNOSTIC img,13
+adv - PALL hm VST /CW-4754,13
+postop  - ONC img,13
+CONT - gi TRANSFUSION svc,13
+OBS postop RHEUMATOLOGIC nurs,13
+compr - OPHTH lab PANEL /CW-3670,13
+standard - VASC home VST /CW-2287,13
+plng EXT disch /CW-9928,13
+PREOP - onc DIAGNOSTIC img /CW-1315,13
+INTERM urologic TELEM monit /CW-6015,13
+occ - ELECT neuro WD bd /CW-9688,13
+foc UROL cs CONF /CW-2324,13
+interp - BEDS obst IMG /CW-9860,13
+GI - transfusion SVC /CW-9161,13
+onc DIAG img preop,12
+service - POSTOP paed STERIL,12
+spclst  - CARD vent SUPP,12
+foc - UROL cs CONF,12
+IMMUN wd BD occ SUPV,12
+POSTOP ger IMAGING interp,12
+ophth LAB pnl compr,12
+inpt - ORTHO anaes ADMINISTRATION,12
+POSTOP paed IMG interp /CW-2275,12
+asst - RENAL nutritional SUPP,12
+postop PAED steril SVC /CW-1683,12
+PSYCH rehab PROG INTERM,12
+intermittent - NEURO laboratory PNL,12
+adv - VASC proc,12
+STD - ophthalmic LAB pnl,12
+EXT - psychiatric ENDOSC procedure,12
+POSTOP  paed IMG interp,12
+supp - ASSISTED renal NUTR /CW-6071,12
+adv  VASC endosc PROC /CW-5904,12
+outpt CARDIAC physiotherapy SESS /CW-3911,12
+ext HEPATIC transfusion SVC /CW-8250,12
+pnl - INTERM neuro LABORATORY /CW-8821,12
+outpatient  - GER diag /CW-5691,12
+OUTPT - obst DIAL sess /CW-9914,11
+RHEUM dial SESS INTERM,11
+SUPV - immun WARD bd OCC,11
+IMG - preoperative ONC,11
+hep - DISCHARGE plng /CW-2290,11
+amb - MSK spcm ANLY,11
+SVC cont GI transfusion /CW-1126,11
+beds CARD hm /CW-4363,11
+ext - HEP disch PLANNING /CW-9770,11
+PROC - outpt UROL endosc /CW-2734,11
+outpt GER diag IMG /CW-6232,11
+OCC adv ONC wd BD /CW-8074,10
+foc VASCULAR transport SVC,10
+ELECT - ophth RADIOTHER /CW-6461,10
+foc  - VASC transport SVC /CW-9116,10
+CARD hm VST BEDS,10
+PROCEDURE  - outpt UROL endosc /CW-5587,10
+imaging  OUTPT ger DIAG /CW-9918,10
+INPATIENT psychiatric HM visit /CW-6666,9
+ADMIN  - gi ANAES /CW-1500,9
+INTERM  - urol TELEM monit /CW-1964,9
+vst BEDS card HM,9
+SESS  outpt OBST dial /CW-7039,8
+INTERM  psych REHAB prog /CW-7902,8
+card VENT supp spclst,7
+PROG - intermittent PSYCH rehab /CW-3340,7
+visit BEDS cardiac HM,6
+visit - BEDSIDE card HM,5
+ASST - obstetric TRANSP svc /CW-7850,1
+CONSULT rtn NEURO /CW-8916,1
+ADMIN spclst NEURO anaes /CW-6871,1
+SVC - ortho STERILISATION,1
+RTN - ortho TRANSF service /CW-3818,1
+OUTPT metabolic PHARM disp,1
+SPCLST wnd CR /CW-6542,1
+PLNG cont OTOLARYNGOLOGIC disch,1
+VST  foc NEURO /CW-8682,1
+LAB  - emer DERM /CW-2124,1
+BEDS - oncology TRANSF /CW-9855,1
+INTENS  neurological DIAG img /CW-9312,1
+AMB haem ENDOSC proc /CW-9607,1

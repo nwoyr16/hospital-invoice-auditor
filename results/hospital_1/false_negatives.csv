@@ -1,0 +1,2 @@
+record_id,invoice_id,detected_errors,flagged,expected_total_cents,billed_total_cents,pricing_complete,review_reasons,mapping_inference_exposed,actual,actual_categories,labelled_expected_total_cents
+657,INV-H1-000657,,0,,4217639,0,unresolved_service_mapping,0,1,wrong_unit_basis,4217639
