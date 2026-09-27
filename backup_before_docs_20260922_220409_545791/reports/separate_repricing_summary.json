@@ -1,7 +1,0 @@
-{
-  "selected_invoices": 227,
-  "checked_lines": 2347,
-  "disagreements": 0,
-  "issues": [],
-  "limitation": "Separate implementation of the contract arithmetic and selected-record checks, using raw JSONL but the same saved service mappings and candidate vocabulary. Agreement does not validate mapping semantics, shared interpretations, or confidence calibration; this is not an external independent audit."
-}
